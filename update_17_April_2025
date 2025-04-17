@@ -1,13 +1,7 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-AFC CHALENGE LEAGUE
-#EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/449393352_770391405258507_941339609335962259_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHyNJqvGfJjn2yx7RNqA6y0OTIOC8MaSu05Mg4LwxpK7aRneZgxPcz1AHvIHtUSDG_VEUPij6xk1w0ISaAsmcns&_nc_ohc=ibx_ofuUZcIQ7kNvwGX_ugd&_nc_oc=AdkD_FSrasb0LKAWi62kYmTU-3Vme8sgoZChlUdUB6tB6nCtkrAa4sZLqX4x-bG1m_lod0lo09aZb2yzfIsUPT7d&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=p4OQ1avDyJdCf7gLJLImhQ&oh=00_AfHfWMZa0-Ug1QphM8uQPxRwmhVH1ao4JmmflD6lx_VZVw&oe=67FD71A9" group-title="#.LIVE SPORT",AFC CHALENGE LEAGUE FEED LIVE
-https://bf.jllivese.com/live/322667_hd01.m3u8?txSecret=970ea0a6205179f3497f3ecd324c9542&txTime=67f7b3c6
-
-
 BRI LIGA 1
 #EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/318489738_6137214292965035_9049754916048892385_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFv8s8TMh2ekeSqnJxcaSOT4XdIS9yK1Kjhd0hL3IrUqLyA_RkE-UYIE8rLHiql1qXCzXNdZZ9SnmOtzxZ3UsAB&_nc_ohc=mcqHsvMQq1sQ7kNvwGPLe0l&_nc_oc=Admy4i-z8s47nBoyyTuDxftIlJwyAgvEnD3Ql3_becZ0U38SJG5Xo40lF_AtkHrXqKKRG2ZKsUVXNdRuoaDUfqX6&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=yNakuazIPoMK0MtiF4LlCg&oh=00_AfGP6qeEqINudIdU29RmIJr3xkBUM3A0eqftrw6xgdR0iQ&oe=67FD60A9" group-title="#.LIVE SPORT",BRI LIGA 1 LIVE
-https://bf.jllivese.com/live/322698_hd01.m3u8?txSecret=5fabe246451604327ea66e7c5c895d1a&txTime=67f7b2b4
 
 
 
@@ -39,12 +33,8 @@ https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/
 #EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT",COPPA DEL REY 2
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:0 tvg-id="Soccer Channel" tvg-name="" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT", COPPA DEL REY 3
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="TV1 🇪🇸" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT",COPPA DEL REY 4
+#EXTINF:-1 tvg-id="TV1 🇪🇸" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT",COPPA DEL REY 3
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
 
@@ -83,11 +73,8 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 3
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 4
-https://top1-cdnnew.newkso.ru/top1-cdn/vVCaoKFOMx/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 5
-https://14c5.pricesaskeloadsc.com:443/espn3/tracks-v1a1/mono.m3u8?ip=110.139.239.40&token=cc0fc18094294584a90f112a2e0e8dae0bf96631-c6-1743862174-1743829774
+
 
 
 LIGA CHAMPIONS
