@@ -2575,9 +2575,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png",DISCOVERY ASIA[INDIHOME]
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_lifetime_big.png",LIFETIME[INDIHOME]
-https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8
-
 #EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png",TLC[INDIHOME]
 https://cdn09jtedge.indihometv.com/joss/133/tlc/index.m3u8
 
