@@ -2568,9 +2568,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png",LOVE NATURE HD[INDIHOME]
 https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
-#EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_hits_ver1.png",HITS[INDIHOME]
-https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8
-
 #EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_horizonsport_ver1.png",HORIZON SPORTS [INDIHOME]
 https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8
 
