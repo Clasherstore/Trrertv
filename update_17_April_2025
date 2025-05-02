@@ -82,7 +82,7 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 3
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT",LIGA INGGRIS 4
+#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT",EPL LIGA INGGRIS 4
 http://opplex.tv:8080/live/mother/mother/353725.ts
 
 
