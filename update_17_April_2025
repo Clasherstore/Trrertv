@@ -18,15 +18,6 @@ https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/
 #EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT",COPPA DEL REY 2
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:0 tvg-id="Soccer Channel" tvg-name="" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT", COPPA DEL REY 3
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="TV1 🇪🇸" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT",COPPA DEL REY 4
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-
 KUALIFIKASI PIALA DUNIA
 
 #EXTINF:-1 tvg-id="SSC 5 4K" tvg-logo="https://assets.kompasiana.com/items/album/2023/11/17/inshot-20231117-051453274-655694a9ee794a12a71dd602.jpg" group-title="#.LIVE SPORT",KUALIFIKASI PIALA DUNIA 1
