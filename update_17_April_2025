@@ -82,7 +82,7 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 3
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT",EPL LIGA INGGRIS 4
+#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT",LIGA INGGRIS 4
 http://opplex.tv:8080/live/mother/mother/353725.ts
 
 
@@ -95,14 +95,33 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 #EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=65&w=50" group-title="#.LIVE SPORT",LIGA CHAMPIONS 2
 http://opplex.tv:8080/live/mother/mother/353725.ts
 
+
+
+
+
+
 LIGA ITALIA
 
 #EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="#.LIVE SPORT",LIGA ITALIA 1
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-
 #EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="#.LIVE SPORT",LIGA ITALIA 2
 http://opplex.tv:8080/live/mother/mother/353725.ts
+
+#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="#.LIVE SPORT",LIGA ITALIA  3
+http://opplex.tv:8080/live/mother/mother/353726.ts
+
+
+
+
+
+
+LIGA PERANCIS
+
+#EXTINF:-1 tvg-name="arena sport 2 croatia" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png" group-title="#.LIVE SPORT",LIGA PERANCIS 1
+http://opplex.tv:8080/live/mother/mother/353726.ts
+
+
 
 
 
@@ -113,6 +132,9 @@ https://top1-cdnnew.newkso.ru/top1-cdn/W0svhc8oj7/mono.m3u8
 
 #EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png" group-title="#.LIVE SPORT",LIGA SPANYOL 2
 http://opplex.tv:8080/live/mother/mother/353725.ts
+
+#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png" group-title="#.LIVE SPORT",LIGA SPANYOL 3
+http://opplex.tv:8080/live/mother/mother/353726.ts
 
 
 
@@ -148,6 +170,7 @@ http://181.78.74.69:8000/play/a06q/index.m3u8
 
 Thai League
 #EXTINF:-1 tvg-id="FEED" group-title="#.LIVE SPORT" language="Español" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/461961763_1079960843486233_4844481965780950919_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGwpVH3_eOJ7GqSUpfBnF_7LJMc-AZEjZQskxz4BkSNlKRfoR3LFJQ5JTxZd2VriFIELVVrgR3T_wi_pum1_29W&_nc_ohc=9EzYoK0_htsQ7kNvwEkUb9C&_nc_oc=AdktptBV4qOJ2tWjdCYH8sapxnOY543nsZSxmTcgtVZ7xRBSr-1w0pBOTHjMu8PrNoQ&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=q7IBAifHJVNd6wxrBgqkNA&oh=00_AfFo9DqbqrUj1bANjBd_tNADm6snK0keC-pcphApbwH-sw&oe=67FD8560",THAI LEAGUE FEED
+
 
 
 
