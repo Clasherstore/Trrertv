@@ -2,10 +2,31 @@
 
 #EXTINF:-1 tvg-id="@Bang_zen-k1f" tvg-logo="https://iili.io/3BTLNDb.th.png", @Bang_zen-k1f
 
+AFC CHALENGE LEAGUE
+#EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/449393352_770391405258507_941339609335962259_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHyNJqvGfJjn2yx7RNqA6y0OTIOC8MaSu05Mg4LwxpK7aRneZgxPcz1AHvIHtUSDG_VEUPij6xk1w0ISaAsmcns&_nc_ohc=ibx_ofuUZcIQ7kNvwGX_ugd&_nc_oc=AdkD_FSrasb0LKAWi62kYmTU-3Vme8sgoZChlUdUB6tB6nCtkrAa4sZLqX4x-bG1m_lod0lo09aZb2yzfIsUPT7d&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=p4OQ1avDyJdCf7gLJLImhQ&oh=00_AfHfWMZa0-Ug1QphM8uQPxRwmhVH1ao4JmmflD6lx_VZVw&oe=67FD71A9" group-title="#.LIVE SPORT",AFC CHALENGE LEAGUE FEED LIVE
+
+
+BRI LIGA 1
+#EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/318489738_6137214292965035_9049754916048892385_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFv8s8TMh2ekeSqnJxcaSOT4XdIS9yK1Kjhd0hL3IrUqLyA_RkE-UYIE8rLHiql1qXCzXNdZZ9SnmOtzxZ3UsAB&_nc_ohc=mcqHsvMQq1sQ7kNvwGPLe0l&_nc_oc=Admy4i-z8s47nBoyyTuDxftIlJwyAgvEnD3Ql3_becZ0U38SJG5Xo40lF_AtkHrXqKKRG2ZKsUVXNdRuoaDUfqX6&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=yNakuazIPoMK0MtiF4LlCg&oh=00_AfGP6qeEqINudIdU29RmIJr3xkBUM3A0eqftrw6xgdR0iQ&oe=67FD60A9" group-title="#.LIVE SPORT",BRI LIGA 1 LIVE
+
+
+
+
+BUNDES LIGA
+
+#EXTINF:-1 tvg-id="Матч! Футбол 3 HD 🇷🇺" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/352552706_288024653654691_1270521304695664448_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHO8d3yiCES2U109lPXGM-LfonqmA4laYV-ieqYDiVphTxTxZXi5w0Hr7Saowrw2kxkvsUcGGZtD1-OKzOm3wV6&_nc_ohc=uA98tlb-vdoQ7kNvwEegEkc&_nc_oc=Admh_wl6R6Gpd5E3zJBKuKiyEJxo0CXzCaEdiyv2iVoH79Ewiu67a1iAEjyUkNEJmkLk0CC935zK-MyVOIp_zUFW&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=YMemrqB-O5uue3XL2rIZbA&oh=00_AYFHc2Blvlsvm1g-9dS5YzjC6RhswRne1a-iay-NZ6tNvQ&oe=67F678B2" group-title="#.LIVE SPORT",BUNDES LIGA JERMAN 1
+http://185.57.68.33/110/mpegts
+
+
+
+
 CHAMPIONSHIP INGGRIS
 
 #EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="#.LIVE SPORT",CHAMPIONSHIP INGGRIS 1
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+
+
 
 
 COPPA DEL REY
@@ -34,43 +55,45 @@ https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/
 
 
 
+LIGA EUROPA
+
+#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png" group-title="#.LIVE SPORT",LIGA EUROPA 1
+http://opplex.tv:8080/live/mother/mother/353725.ts
+
+
+
+
 LIGA INGGRIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 3
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 3
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 4
-https://top1-cdnnew.newkso.ru/top1-cdn/vVCaoKFOMx/mono.m3u8
+#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT",LIGA INGGRIS 4
+http://opplex.tv:8080/live/mother/mother/353725.ts
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 5
-https://14c5.pricesaskeloadsc.com:443/espn3/tracks-v1a1/mono.m3u8?ip=110.139.239.40&token=cc0fc18094294584a90f112a2e0e8dae0bf96631-c6-1743862174-1743829774
 
 
 LIGA CHAMPIONS
-#EXTINF:-1 tvg-id="LIGA CHAMPIONS 1" tvg-url="" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/452998843_1035870684570282_5819911212495947551_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFHXwSfJ_qhvTkRNN5dMsz7Ctdog9kBg_YK12iD2QGD9rruWYFzLh49F5zRmUpRNRe1mAELq9tayOTAUbkXiQwF&_nc_ohc=sp7xlurLyPwQ7kNvwECNzh8&_nc_oc=Adlvr-lS2k2VUX-1kXxhrD0_OII6qGuGr8xb8q2H_q6x63TqYfg7YVbzaUT77xIrA1u9Z1Nh1OLlqIuz0Vgv16yf&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=nzFGDQbehAto3c6MRF-6zA&oh=00_AYGwlWUHGLTW1-FRiTaigU2lFjOETftVfDjv1c40AI1VXg&oe=67F6934C" group-title="#.LIVE SPORT",LIGA CHAMPIONS 1
+
+#EXTINF:-1 tvg-id="LIGA CHAMPIONS 1" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=65&w=50" group-title="#.LIVE SPORT",LIGA CHAMPIONS 1
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 tvg-id="ESPN 6.cl" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/452998843_1035870684570282_5819911212495947551_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFHXwSfJ_qhvTkRNN5dMsz7Ctdog9kBg_YK12iD2QGD9rruWYFzLh49F5zRmUpRNRe1mAELq9tayOTAUbkXiQwF&_nc_ohc=sp7xlurLyPwQ7kNvwECNzh8&_nc_oc=Adlvr-lS2k2VUX-1kXxhrD0_OII6qGuGr8xb8q2H_q6x63TqYfg7YVbzaUT77xIrA1u9Z1Nh1OLlqIuz0Vgv16yf&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=nzFGDQbehAto3c6MRF-6zA&oh=00_AYGwlWUHGLTW1-FRiTaigU2lFjOETftVfDjv1c40AI1VXg&oe=67F6934C" group-title="#.LIVE SPORT",LIGA CHAMPIONS 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
-
-
-
+#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=65&w=50" group-title="#.LIVE SPORT",LIGA CHAMPIONS 2
+http://opplex.tv:8080/live/mother/mother/353725.ts
 
 LIGA ITALIA
 
@@ -78,13 +101,18 @@ LIGA ITALIA
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 
+#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="#.LIVE SPORT",LIGA ITALIA 2
+http://opplex.tv:8080/live/mother/mother/353725.ts
 
 
 
+LIGA SPANYOL
 
-#EXTINF:-1 tvg-id="LIGA SPANYOL 1" tvg-url="" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/469483156_1159338775556780_3625345218465925865_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEVK_fpO4Yd5EMeNBf8Dsi3uUcuGVkW0zq5Ry4ZWRbTOvslOONwamVf44x3-s7RlEwTCG7QCAxsjft0GZ_tC_yn&_nc_ohc=mNozwTuFUSYQ7kNvwHBLS6d&_nc_oc=AdlQhMbe8XrR7fozRRFv-wke5X05R0RUe_YXPMAvbursQFhx7JC6Zn__mEGwgLj9JlRvarigk3hTrs26I6EZtctZ&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=NwKzs3CpCgeOmMdibx2vJQ&oh=00_AYFPhXs3bpzwGLAHQOxGlZRMtCEWn3xv2gNHPjBQO7yu5A&oe=67F69D86" group-title="#.LIVE SPORT",LIGA SPANYOL 1
+#EXTINF:-1 tvg-id="LIGA SPANYOL 1" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png" group-title="#.LIVE SPORT",LIGA SPANYOL 1
 https://top1-cdnnew.newkso.ru/top1-cdn/W0svhc8oj7/mono.m3u8
 
+#EXTINF:-1 tvg-id="arena sport 1 croatia" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png" group-title="#.LIVE SPORT",LIGA SPANYOL 2
+http://opplex.tv:8080/live/mother/mother/353725.ts
 
 
 
@@ -113,6 +141,17 @@ MOTO GP
 
 #EXTINF:-1 tvg-id="ESPN 6" group-title="#.LIVE SPORT" language="Español" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/467518278_981455960682256_4650896594190468016_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGeaAb2tl5xQoEhT6V-0sh4B3m_kjAOv1oHeb-SMA6_WiRznPKFRb8lIkvsHcC4a6jPMwVlyA_d6snhlBMT5-dC&_nc_ohc=vOKz4aByXsIQ7kNvwFf8HEK&_nc_oc=AdkVE7ER8LHjM_v01ehAkW7wgEIFFpeoRLO0CotKCm53AqXtQcTiPK28AzaQDOblWk1g2rJBd2WuXvsODRJOLQlW&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=1HlzowKnCBGFtV7RihS7AQ&oh=00_AYGtkz15hOE3-k_JtHSRTFWFBTTztNXYPEw49VXJqJwDPQ&oe=67F685C9",MOTO GP LIVE 1
 http://181.78.74.69:8000/play/a06q/index.m3u8
+
+
+
+
+
+Thai League
+#EXTINF:-1 tvg-id="FEED" group-title="#.LIVE SPORT" language="Español" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/461961763_1079960843486233_4844481965780950919_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGwpVH3_eOJ7GqSUpfBnF_7LJMc-AZEjZQskxz4BkSNlKRfoR3LFJQ5JTxZd2VriFIELVVrgR3T_wi_pum1_29W&_nc_ohc=9EzYoK0_htsQ7kNvwEkUb9C&_nc_oc=AdktptBV4qOJ2tWjdCYH8sapxnOY543nsZSxmTcgtVZ7xRBSr-1w0pBOTHjMu8PrNoQ&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=q7IBAifHJVNd6wxrBgqkNA&oh=00_AfFo9DqbqrUj1bANjBd_tNADm6snK0keC-pcphApbwH-sw&oe=67FD8560",THAI LEAGUE FEED
+
+
+
+
 
 
 
