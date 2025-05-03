@@ -17,8 +17,11 @@ https://edge14.xmediaget.com/hls-live/16075761/1/mediaplaylist.m3u8?s=fd730daa9e
 
 BUNDES LIGA
 
-#EXTINF:-1 tvg-id="Матч! Футбол 3 HD 🇷🇺" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/352552706_288024653654691_1270521304695664448_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHO8d3yiCES2U109lPXGM-LfonqmA4laYV-ieqYDiVphTxTxZXi5w0Hr7Saowrw2kxkvsUcGGZtD1-OKzOm3wV6&_nc_ohc=uA98tlb-vdoQ7kNvwEegEkc&_nc_oc=Admh_wl6R6Gpd5E3zJBKuKiyEJxo0CXzCaEdiyv2iVoH79Ewiu67a1iAEjyUkNEJmkLk0CC935zK-MyVOIp_zUFW&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=YMemrqB-O5uue3XL2rIZbA&oh=00_AYFHc2Blvlsvm1g-9dS5YzjC6RhswRne1a-iay-NZ6tNvQ&oe=67F678B2" group-title="#.LIVE SPORT",BUNDES LIGA JERMAN 1
+#EXTINF:-1 tvg-id="Матч! Футбол 3 HD 🇷🇺" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/7-bundesliga.png" group-title="#.LIVE SPORT",BUNDES LIGA JERMAN 1
 http://185.57.68.33/110/mpegts
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/7-bundesliga.png?q=65&w=50" group-title="#.LIVE SPORT",BUNDES LIGA JERMAN 2
+http://opplex.tv:8080/live/12345678910/12345678910/233072.ts
 
 
 
