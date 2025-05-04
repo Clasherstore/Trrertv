@@ -162,8 +162,8 @@ http://opplex.tv:8080/live/mother/mother/353730.ts
 
 LIGA SPANYOL
 
-#EXTINF:-1 tvg-id="LIGA SPANYOL 1" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png" group-title="#.LIVE SPORT",LIGA SPANYOL 1 FEED
-https://top1-cdnnew.newkso.ru/top1-cdn/W0svhc8oj7/mono.m3u8
+#EXTINF:-1 tvg-id="LIGA SPANYOL 1" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png" group-title="#.LIVE SPORT",LIGA SPANYOL 1 FEED LIVE
+https://edge14.xmediaget.com/hls-live/DR_1743215801/1/mediaplaylist.m3u8?s=d125f17787ce9cf38f7201499729ec872d0d7866685cfd68897f342c3c64a4a5&t=1746362403838&ai=101&av=1064&ui=522400845
 
 #EXTINF:-1 tvg-id="LIGA SPANYOL 1" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png" group-title="#.LIVE SPORT",LIGA SPANYOL 1
 https://top1-cdnnew.newkso.ru/top1-cdn/W0svhc8oj7/mono.m3u8
