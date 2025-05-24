@@ -144,6 +144,10 @@ http://opplex.tv:8080/live/mother/mother/353727.ts
 #EXTINF:-1 tvg-id="arena sport 4 croatia" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="#.LIVE SPORT",LIGA ITALIA 5
 http://opplex.tv:8080/live/mother/mother/353728.ts
 
+#EXTINF:-1 tvg-id="abu dhabi sports premium 1" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="#.LIVE SPORT",LIGA ITALIA 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
 
 
