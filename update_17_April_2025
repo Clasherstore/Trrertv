@@ -14,6 +14,14 @@ AFC CHALENGE LEAGUE
 https://bf.jabflive.cc/live/322693_hd01.m3u8?txSecret=4fe53837e05d14b9c4fc6222fe09529b&txTime=68399ea8
 
 
+#EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/318489738_6137214292965035_9049754916048892385_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFv8s8TMh2ekeSqnJxcaSOT4XdIS9yK1Kjhd0hL3IrUqLyA_RkE-UYIE8rLHiql1qXCzXNdZZ9SnmOtzxZ3UsAB&_nc_ohc=mcqHsvMQq1sQ7kNvwGPLe0l&_nc_oc=Admy4i-z8s47nBoyyTuDxftIlJwyAgvEnD3Ql3_becZ0U38SJG5Xo40lF_AtkHrXqKKRG2ZKsUVXNdRuoaDUfqX6&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=yNakuazIPoMK0MtiF4LlCg&oh=00_AfGP6qeEqINudIdU29RmIJr3xkBUM3A0eqftrw6xgdR0iQ&oe=67FD60A9" group-title="#.LIVE SPORT",#LIVE FUTSAL COSMO VS HALUS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
+
+
 BRI LIGA 1
 #EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/318489738_6137214292965035_9049754916048892385_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFv8s8TMh2ekeSqnJxcaSOT4XdIS9yK1Kjhd0hL3IrUqLyA_RkE-UYIE8rLHiql1qXCzXNdZZ9SnmOtzxZ3UsAB&_nc_ohc=mcqHsvMQq1sQ7kNvwGPLe0l&_nc_oc=Admy4i-z8s47nBoyyTuDxftIlJwyAgvEnD3Ql3_becZ0U38SJG5Xo40lF_AtkHrXqKKRG2ZKsUVXNdRuoaDUfqX6&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=yNakuazIPoMK0MtiF4LlCg&oh=00_AfGP6qeEqINudIdU29RmIJr3xkBUM3A0eqftrw6xgdR0iQ&oe=67FD60A9" group-title="#.LIVE SPORT",#MAN.UNITED VS ASTON VILLA LIVE
 
@@ -52,8 +60,6 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/7-bundesliga.png?q=65&w=50" group-title="#.LIVE SPORT",BUNDES LIGA JERMAN 2
 http://opplex.tv:8080/live/12345678910/12345678910/233072.ts
 
-#EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/318489738_6137214292965035_9049754916048892385_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFv8s8TMh2ekeSqnJxcaSOT4XdIS9yK1Kjhd0hL3IrUqLyA_RkE-UYIE8rLHiql1qXCzXNdZZ9SnmOtzxZ3UsAB&_nc_ohc=mcqHsvMQq1sQ7kNvwGPLe0l&_nc_oc=Admy4i-z8s47nBoyyTuDxftIlJwyAgvEnD3Ql3_becZ0U38SJG5Xo40lF_AtkHrXqKKRG2ZKsUVXNdRuoaDUfqX6&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=yNakuazIPoMK0MtiF4LlCg&oh=00_AfGP6qeEqINudIdU29RmIJr3xkBUM3A0eqftrw6xgdR0iQ&oe=67FD60A9" group-title="#.LIVE SPORT",#AZ ALKMAR VS TWENTE LIVE
-https://bf.jabflive.cc/live/5004374_hd01.m3u8?txSecret=bad31b79b5ddb54cb1de4a96a0fbdeaf&txTime=68333aad
 
 
 CHAMPIONSHIP INGGRIS
