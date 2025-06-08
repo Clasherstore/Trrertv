@@ -22,6 +22,14 @@ BRI LIGA 1
 
 
 
+
+
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png" group-title="#.LIVE SPORT" ,UEFA NATION LEAGUE
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+
+
 BUNDES LIGA
 
 #EXTINF:-1 tvg-id="Матч! Футбол 3 HD 🇷🇺" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/7-bundesliga.png" group-title="#.LIVE SPORT",BUNDES LIGA JERMAN 1
