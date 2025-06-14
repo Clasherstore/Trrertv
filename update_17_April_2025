@@ -10,261 +10,37 @@ https://drive.google.com/uc?export=download&id=1_aPxkg69ukhdXGRFMrGY_PMQmDU6Vrly
 
 
 
-
-
-AFC CHALENGE LEAGUE
-#EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/449393352_770391405258507_941339609335962259_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHyNJqvGfJjn2yx7RNqA6y0OTIOC8MaSu05Mg4LwxpK7aRneZgxPcz1AHvIHtUSDG_VEUPij6xk1w0ISaAsmcns&_nc_ohc=ibx_ofuUZcIQ7kNvwGX_ugd&_nc_oc=AdkD_FSrasb0LKAWi62kYmTU-3Vme8sgoZChlUdUB6tB6nCtkrAa4sZLqX4x-bG1m_lod0lo09aZb2yzfIsUPT7d&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=p4OQ1avDyJdCf7gLJLImhQ&oh=00_AfHfWMZa0-Ug1QphM8uQPxRwmhVH1ao4JmmflD6lx_VZVw&oe=67FD71A9" group-title="#.LIVE SPORT",AFC CHALENGE LEAGUE FEED LIVE
-
-
-VNL WOMEN
-#EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/318489738_6137214292965035_9049754916048892385_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFv8s8TMh2ekeSqnJxcaSOT4XdIS9yK1Kjhd0hL3IrUqLyA_RkE-UYIE8rLHiql1qXCzXNdZZ9SnmOtzxZ3UsAB&_nc_ohc=mcqHsvMQq1sQ7kNvwGPLe0l&_nc_oc=Admy4i-z8s47nBoyyTuDxftIlJwyAgvEnD3Ql3_becZ0U38SJG5Xo40lF_AtkHrXqKKRG2ZKsUVXNdRuoaDUfqX6&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=yNakuazIPoMK0MtiF4LlCg&oh=00_AfGP6qeEqINudIdU29RmIJr3xkBUM3A0eqftrw6xgdR0iQ&oe=67FD60A9" group-title="#.LIVE SPORT",#VOLY VNL WOMEN LIVE
-https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=09802555b78080c6300d4e99e71e8b63&txTime=6846584d
-
-
-
-
-
-BADMINTON LIVE
-#EXTINF:-1 group-title="#.LIVE SPORT" tvg-id="jsports1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/1200px-2012_BWF_logo.svg.png",BADMINTON LIVE 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-
-
-
-UEFA NATION LEAGUE
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png" group-title="#.LIVE SPORT" ,UEFA NATION LEAGUE
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-
-BUNDES LIGA
-
-#EXTINF:-1 tvg-id="Матч! Футбол 3 HD 🇷🇺" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/7-bundesliga.png" group-title="#.LIVE SPORT",BUNDES LIGA JERMAN 1
-http://185.57.68.33/110/mpegts
-
-
-
-
-
-CHAMPIONSHIP INGGRIS
-
-#EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="#.LIVE SPORT",CHAMPIONSHIP INGGRIS 1
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
-
-
-
-
-
-COPPA DEL REY
-
-#EXTINF:-1 tvg-id="SSC Extra 1 HD" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT",COPPA DEL REY 1
+LIVE EVENT
+BEIN SPORT 1
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="" group-title="#.LIVE EVENT", FORMULA 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT",COPPA DEL REY 2
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 
+BEIN SPORT 3
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="#.LIVE EVENT",TENIS LIVE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Formula_E_Logo.png" group-title="#.LIVE SPORT",FORMULA E
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-
-
-
-
-
-
-
-
-FUTSAL
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="#.LIVE SPORT",FUTSAL 1
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-
-
-
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="#.LIVE SPORT",MOTO GP LIVE 2
+EUROSPORT
+#EXTINF:-1 group-title="#.LIVE EVENT" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",BALAP MOBIL 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
-
-
-
-
-KUALIFIKASI PIALA ASIA
-#EXTINF:-1 group-title="#.LIVE SPORT" tvg-id="" tvg-logo="data:image/jpeg;base64,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",KUALIFIKASI PIALA ASIA 1
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
-
-
-
-KUALIFIKASI PIALA DUNIA
-
-#EXTINF:-1 tvg-id="SSC 5 4K" tvg-logo="https://assets.kompasiana.com/items/album/2023/11/17/inshot-20231117-051453274-655694a9ee794a12a71dd602.jpg" group-title="#.LIVE SPORT",KUALIFIKASI PIALA DUNIA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
- 
-#EXTINF:-1 tvg-id="SSC Extra 1 HD" tvg-logo="https://assets.kompasiana.com/items/album/2023/11/17/inshot-20231117-051453274-655694a9ee794a12a71dd602.jpg" group-title="#.LIVE SPORT",KUALIFIKASI PIALA DUNIA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://assets.kompasiana.com/items/album/2023/11/17/inshot-20231117-051453274-655694a9ee794a12a71dd602.jpg" group-title="#.LIVE SPORT" ,KUALIFIKASI PIALA DUNIA 3
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 1" tvg-logo="https://assets.kompasiana.com/items/album/2023/11/17/inshot-20231117-051453274-655694a9ee794a12a71dd602.jpg" group-title="#.LIVE SPORT" ,KUALIFIKASI PIALA DUNIA 4
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-
-
-
-
-LIGA INGGRIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT" , EPL LIGA INGRIS 3
-https://7pal.short.gy/ssportspl
-
-
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT",EPL LIGA INGGRIS 9
-http://watchindia.net:8880/live/32612/55103/1070.ts
-
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE SPORT",EPL LIGA INGGRIS 10
-http://watchindia.net:8880/live/32612/55103/1071.ts
-
-
-
-
-
-
-
-LIGA CHAMPIONS
-
-#EXTINF:-1 tvg-id="LIGA CHAMPIONS 1" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=65&w=50" group-title="#.LIVE SPORT",LIGA CHAMPIONS 1
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
-
-
-
-
-
-
-
-
-LIGA ITALIA
-
-#EXTINF:-1 tvg-id="abu dhabi sports premium 1" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="#.LIVE SPORT",LIGA ITALIA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="cbs sport" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="#.LIVE SPORT",LIGA ITALIA 2
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
-
-
-
-
-
-
-
-
-LIGA PERANCIS
-
-
-
-
-
-
-
-
-
-
-
-
-LIGA SPANYOL
-
-#EXTINF:-1 tvg-id="LIGA SPANYOL 1" tvg-url="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png" group-title="#.LIVE SPORT",LIGA SPANYOL 1
-kosong
-
-
-
-
-
-
-
-
-
-LIVE BILLIARD
-
-#EXTINF:-1 group-title="#.LIVE SPORT" tvg-id="truesports3.th" tvg-logo="https://cdn.textstudio.com/output/studio/template/preview/stamped/t/t/b/l/8o0lbtt.webp",LIVE BILLIARD 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-
-
-
-
-MMA
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="#.LIVE SPORT" tvg-logo="https://h7.alamy.com/comp/PBW7GM/mma-mixed-martial-arts-grunge-rubber-stamp-on-white-background-vector-illustration-PBW7GM.jpg",MMA LIVE 1
-https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="#.LIVE SPORT" tvg-logo="https://h7.alamy.com/comp/PBW7GM/mma-mixed-martial-arts-grunge-rubber-stamp-on-white-background-vector-illustration-PBW7GM.jpg",MMA LIVE 2
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-
-
-
-
-MOTO GP
-
-#EXTINF:-1 tvg-id="ESPN 6" group-title="#.LIVE SPORT" language="Español" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/467518278_981455960682256_4650896594190468016_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGeaAb2tl5xQoEhT6V-0sh4B3m_kjAOv1oHeb-SMA6_WiRznPKFRb8lIkvsHcC4a6jPMwVlyA_d6snhlBMT5-dC&_nc_ohc=vOKz4aByXsIQ7kNvwFf8HEK&_nc_oc=AdkVE7ER8LHjM_v01ehAkW7wgEIFFpeoRLO0CotKCm53AqXtQcTiPK28AzaQDOblWk1g2rJBd2WuXvsODRJOLQlW&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=1HlzowKnCBGFtV7RihS7AQ&oh=00_AYGtkz15hOE3-k_JtHSRTFWFBTTztNXYPEw49VXJqJwDPQ&oe=67F685C9",MOTO GP LIVE 1
-http://181.78.74.69:8000/play/a06q/index.m3u8
-
-
-
-
-
-Thai League
-#EXTINF:-1 tvg-id="FEED" group-title="#.LIVE SPORT" language="Español" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/461961763_1079960843486233_4844481965780950919_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGwpVH3_eOJ7GqSUpfBnF_7LJMc-AZEjZQskxz4BkSNlKRfoR3LFJQ5JTxZd2VriFIELVVrgR3T_wi_pum1_29W&_nc_ohc=9EzYoK0_htsQ7kNvwEkUb9C&_nc_oc=AdktptBV4qOJ2tWjdCYH8sapxnOY543nsZSxmTcgtVZ7xRBSr-1w0pBOTHjMu8PrNoQ&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=q7IBAifHJVNd6wxrBgqkNA&oh=00_AfFo9DqbqrUj1bANjBd_tNADm6snK0keC-pcphApbwH-sw&oe=67FD8560",THAI LEAGUE FEED
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="#.LIVE EVENT" tvg-id="jsports1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/1200px-2012_BWF_logo.svg.png",BALAP MOBIL 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
 
