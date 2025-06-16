@@ -12,6 +12,7 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistBU_2_.m3u8
 
 
 
+
 BEIN SPORT 1
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="#.SPORT PREMIUM", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -394,6 +395,12 @@ https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/
 XFC
 #EXTINF:-1 tvg-name="XFC" tvg-id="XFC" group-title="#.SPORT PREMIUM" tvg-logo="https://h7.alamy.com/comp/PBW7GM/mma-mixed-martial-arts-grunge-rubber-stamp-on-white-background-vector-illustration-PBW7GM.jpg",XFC TV
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+
+
+
+
+
+
 
 
 
