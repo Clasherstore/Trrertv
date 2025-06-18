@@ -8,7 +8,16 @@ https://drive.google.com/uc?export=download&id=1_aPxkg69ukhdXGRFMrGY_PMQmDU6Vrly
 
 TELEGRAM
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="" group-title="#.LIVE EVENT", PIALA DUNIA KLUB 1
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistBU_2_.m3u8
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+
+#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="" group-title="#.LIVE EVENT", PIALA DUNIA KLUB 2
+https://shishnebiza.sbs/automatically/1
+
+
+DAZN 5
+#EXTINF:-1 tvg-url="Dazn_5" tvg-id="Dazn_5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FyOT8rwPUwHjF2WdHE-lsQ-U3Y2auInU-Dhduq_xmEcPRKpB04gO4Vg&s=10" group-title="#.LIVE EVENT", PIALA DUNIA KLUB 3
+https://haftezoopmneaa2.sbs/automatically/1
 
 
 
