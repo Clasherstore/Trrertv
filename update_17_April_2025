@@ -13,6 +13,8 @@ PIALA DUNIA KLUB 2025
 https://dcb-fl-live.dtcdn.dazn.com/181jqidk9hkfb1mgsftf0lprjg/all/avc_hls_global-video=3000000.m3u8?channel=2653&outlet=dazn-mena&plang=ar
 
 
+#EXTINF:-1 tvg-url="PREMIERPADEL" tvg-id="PREMIERPADEL2025" tvg-logo="" group-title="#.LIVE SPORT",PIALA DUNIA KLUB 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/1080p2400kbps/video.m3u8
 
 
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="#.LIVE SPORT",TENIS WIMBLEDON
