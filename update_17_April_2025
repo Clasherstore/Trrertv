@@ -4,31 +4,6 @@
 
 
 
-#EXTINF:-1 tvg-url="tvmalaysia" tvg-id="tvmalaysia" tvg-logo="https://static.republika.co.id/uploads/member/images/news/medium_Piala_Dunia_Antarklub_2025_892f41d52a_1751342405.jpeg" group-title="#.LIVE SPORT", Piala Dunia Klub 1
-https://tvmalaysia.website/memfs/9efd8077-a0e6-48b6-9372-18a100af6a53_output_0.m3u8
-
-
-PIALA PRESIDEN 2025
-#EXTINF:-1 tvg-url="PREMIERPADEL" tvg-id="PREMIERPADEL2025" tvg-logo="" group-title="#.LIVE SPORT",PIALA PRESIDEN
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=1059b5d6638d86e13b59323d3e1baf42&txTime=6873aa8c
-
-
-#EXTINF:-1 tvg-url="PREMIERPADEL" tvg-id="PREMIERPADEL2025" tvg-logo="" group-title="#.LIVE SPORT",PIALA DUNIA KLUB 3
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/1080p2400kbps/video.m3u8
-
-
-#EXTINF:-1 tvg-url="PREMIERPADEL" tvg-id="PREMIERPADEL2025" tvg-logo="" group-title="#.LIVE SPORT",PIALA DUNIA KLUB 4
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=a30e37be474092e97031b4c2b32b38fe&txTime=686959de
-
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="#.LIVE SPORT",TENIS WIMBLEDON
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-
-
 
 
 
@@ -170,6 +145,80 @@ BEIN SPORT 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 
+DUBAI SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+
+CHAMPIONS TV 1
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="#.SPORT PREMIUM",Champions TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+
+
+CHAMPIONS TV 2
+#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/ppVgoSYgif_dG_03jAtlQdaRvnQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="#.SPORT PREMIUM",Champions TV 2 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
+
+
+CHAMPIONS TV 3
+#EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="#.SPORT PREMIUM",Champions TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
+
+
+CHAMPIONS TV 5
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://thumbor.prod.vidiocdn.com/rU_gPQKkA6dYjjd21qCpDMLecHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="#.SPORT PREMIUM",Champions TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+
+
+
+CHAMPIONS TV 6
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="#.SPORT PREMIUM",Champions TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
+
+
+DUBAI SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+
+
+DUBAI SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 3	
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+
+
 EUROSPORT
 #EXTINF:-1 group-title="#.SPORT PREMIUM" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -184,6 +233,28 @@ FIGHT SPORTS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
+
+
+#EXTINF:-1 tvg-id="Champions Golf 1" tvg-logo="https://thumbor.prod.vidiocdn.com/Sz_PjKVU4WYuOsnRY7LJ7O2ALAQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-c968f8.jpg" group-title="#.SPORT PREMIUM",Champions Golf 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18189&type=drm 
+http://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
+
+
+GOLF 2
+#EXTINF:-1 tvg-id="Champions Golf 2" tvg-logo="https://thumbor.prod.vidiocdn.com/qHN94dnAkiVkYK5AtnEEna_Z_M4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-5c9462.jpg" group-title="#.SPORT PREMIUM",Champions Golf 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18190&type=drm 
+http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
+
 
 
 MOTORVISION
@@ -215,13 +286,29 @@ PREMIER FOOTBALL
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
-BADMINTON LIVE
-#EXTINF:-1 group-title="#.SPORT PREMIUM" tvg-id="jsports1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/1200px-2012_BWF_logo.svg.png",J SPORTS 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+REDBULL TV
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="#.SPORT PREMIUM",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
+SPORT TV 1
+#EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="#.SPORT PREMIUM", Sport.tv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+ 
 
+SPORT TV 2
+#EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="#.SPORT PREMIUM", Sport.tv 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+ 
 
+SPORT TV 3
+#EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="#.SPORT PREMIUM", Sport.tv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+ 
+
+SPORT TV 4
+#EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="#.SPORT PREMIUM", Sport.tv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
 
 
 BUNDES LIGA
@@ -239,12 +326,28 @@ CHAMPIONSHIP INGGRIS
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 
+NBA TV VIDIO
+#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/JjBvaK3Bf9MIDevMg6HvbmcZ6pQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="#.SPORT PREMIUM", NBA TV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6717&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=6717&type=dash
+
+
 SPOTV
 #EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="#.SPORT PREMIUM",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="#.SPORT PREMIUM",Sports TV 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 SSC 1
@@ -341,15 +444,35 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1" group-title="#.SPORT PREMIUM", unifi Sports 1
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
+SPOTV 1 VIDIO
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://thumbor.prod.vidiocdn.com/qAC7OGb_JYDbEZjLIRXDDD9XIzE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg" group-title="#.SPORT PREMIUM",Spotv VIDI0
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17139&type=drm 
+http://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
+
+
+SPOTV 2 VIDIO
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://thumbor.prod.vidiocdn.com/hFJvgK8aSQDqHuBAfF0ZnD7vlq0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="#.SPORT PREMIUM",Spotv 2 VIDI0
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140&type=drm 
+http://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
 
 
 
-
-
-
-
-
-
+SPOTV 2
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="#.SPORT PREMIUM",SPOTV 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -394,6 +517,18 @@ LIGA INGGRIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+PREMIER LEAGUE VIDIO
+#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://thumbor.prod.vidiocdn.com/mRPZMC2zwT68k6JII0b2tZZHy6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-8d1830.jpg" group-title="#.SPORT PREMIUM",Premier League Vidi0
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9353&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
+
 
 #EXTINF:-1 tvg-id="usa-west" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.SPORT PREMIUM" , USA WEST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -504,11 +639,16 @@ TNT SPORT 4
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503269_tvchannels_v1.jpg" group-title="#.SPORT PREMIUM", WSport ⚪
+https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=lite&chname=W-Sport
+
+
+
 XFC
 #EXTINF:-1 tvg-name="XFC" tvg-id="XFC" group-title="#.SPORT PREMIUM" tvg-logo="https://h7.alamy.com/comp/PBW7GM/mma-mixed-martial-arts-grunge-rubber-stamp-on-white-background-vector-illustration-PBW7GM.jpg",XFC TV
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
-
-
 
 
 
