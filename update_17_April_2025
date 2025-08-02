@@ -1,12 +1,12 @@
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+6#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="#.LIVE BOLA PERSAHABATAN", MAN. UNITED VS LEED UNITED
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=d906758e4517247474512802274c639c&txTime=687b9898
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="#.JALA LIVE", LIVE MRS. V
+https://bf.jlbflive.cc/live/322557_hd01.m3u8?txSecret=413813c82a91c8c8285ef53a0833ef08&txTime=688e2cce
 
 
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="#.LIVE BOLA PERSAHABATAN", PERSEBAYA VS PSS SLEMAN
-https://bf.jabflive.com/live/322695_hd01.m3u8?txSecret=75f7a97265f5fcb626fec4f2dd04a1e5&txTime=687b9482
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="#.JALA LIVE", BAYERN MUNCHEN VS ATALANTA
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=8a3ad8047fe2a38cd51ddc244eb70322&txTime=688e2dad
 
 
 
