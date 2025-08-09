@@ -1,10 +1,14 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="#.JALA LIVE", LIVE PERSIB VS SEMEN PADANG
-https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=3325a38d7ad9e76ff7c53dbcee29d43c&txTime=68970b2e
-
-
+CHAMPIONSHIP INGGRIS
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="#.LIVE SPORT",CHAMPIONSHIP INGGRIS 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
 
 
