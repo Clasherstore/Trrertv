@@ -15,12 +15,14 @@ LIGA 1 INDO
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",LIGA 1 INDONESIA
 https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=254710e514614c8e3b5710c82f858864&txTime=68973dbc
 
-
+AFF WOMEN U20
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",AFF WOMEN U20
 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=1dc64f5dcec27a3abffe5839af5808b7&txTime=689740d9
 
 
-
+JEFRI NICHOL TINJU
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",TINJU JEFRI VS RUMI
+https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=0fa6b533e48aa9eccad5d0a5a72ecee4&txTime=68974e40
 
 
 
