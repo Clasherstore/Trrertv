@@ -11,6 +11,29 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
 
+
+EREDIVISI LIGA BELANDA 
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Eredivisie_nieuw_logo_2017-.svg" group-title="#.LIVE SPORT",EREDIVISIE LIGA BELANDA 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+
+
+
+#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Eredivisie_nieuw_logo_2017-.svg" group-title="#.SPORT PREMIUM",EREDIVISIE LIGA BELANDA 2 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
+
+
 LIGA 1 INDO
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",#PERSIJA JAKARTA VS PERSITA TANGERANG
 https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=1f76aed18dc0d556418ee055be095a9d&txTime=689887cf
