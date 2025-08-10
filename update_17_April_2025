@@ -45,16 +45,11 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 
 
-LIGA 1 INDO
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",#PERSIJA JAKARTA VS PERSITA TANGERANG
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=1f76aed18dc0d556418ee055be095a9d&txTime=689887cf
-
 
 
 LIGA BELANDA
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",#LIGA BELANDA PEC ZWOLE VS TWENTE
-https://bf.jlbflive.cc/live/322713_hd01.m3u8?txSecret=a669ca5ea54c8f66323afd8455ba0fb2&txTime=68986efa
-
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",#FRIENDLY CHELSEA VS MILAN
+https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=234a9be406e4f548bd02b13ab4c8476a&txTime=6898b2fa
 
 
 
