@@ -24,7 +24,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
 
 
-#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Eredivisie_nieuw_logo_2017-.svg" group-title="#.SPORT PREMIUM",EREDIVISIE LIGA BELANDA 2 
+#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Eredivisie_nieuw_logo_2017-.svg" group-title="#.LIVE SPORT",EREDIVISIE LIGA BELANDA 2 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
