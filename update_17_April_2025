@@ -37,10 +37,9 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 
 
 
-LIGA konoha
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",#MALUT UNITED VS BALI UNITED
-https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=48815cd4a97d8c5a8701403b091d24af&txTime=689f1bc2
-
+LIGA spanyol
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",#LA LIGA GIRONA VS VALECANO
+https://bf.jlbflive.cc/live/5004455_hd01.m3u8?txSecret=5ad8b58296041ceac02ca540c873cd41&txTime=689f62e5
 
 
 
