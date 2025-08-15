@@ -38,6 +38,12 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 
 
 LIGA spanyol
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_logo_2023.svg" group-title="#.LIVE SPORT" ,La Liga Spanyol
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="" group-title="#.LIVE SPORT",#LA LIGA GIRONA VS VALECANO
 https://bf.jlbflive.cc/live/5004455_hd01.m3u8?txSecret=5ad8b58296041ceac02ca540c873cd41&txTime=689f62e5
 
