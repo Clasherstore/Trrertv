@@ -1,5 +1,9 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
+https://raw.githubusercontent.com/hpmurah2u/pejal/refs/heads/PEJAL/sekupanggonap
+
+
+
 CHAMPIONSHIP INGGRIS
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="#.LIVE SPORT",CHAMPIONSHIP INGGRIS 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
