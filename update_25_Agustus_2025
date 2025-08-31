@@ -6,6 +6,17 @@ JALA LIVE
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=73b86ec55208ba59908b73a505022823&txTime=68b46725
 
 
+L16A P0RTU6AL
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/S%C3%ADmbolo_da_Liga_Portugal_Betclic.png" group-title="#.LIVE_BOLA",L1GA P0RTUGAL
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+
+
+L16A PERANC15
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Logo_de_la_Ligue_1_%282008%29.svg/1280px-Logo_de_la_Ligue_1_%282008%29.svg.png" group-title="#.SPORT PREMIUM", Sport.tv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+ 
+
+
 
 L16A 8ELANDA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
