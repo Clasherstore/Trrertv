@@ -6,6 +6,14 @@ JALA LIVE
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=73b86ec55208ba59908b73a505022823&txTime=68b46725
 
 
+
+L16A 8ELANDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://id.m.wikipedia.org/wiki/Eredivisie#/media/Berkas%3AEredivisie_nieuw_logo_2017-.svg" group-title="#.LIVE_BOLA", L16A 8ELANDA
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+
+
+
 L16A 1N66R15
 #EXTINF:-1 tvg-id="Feed" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="#.LIVE_BOLA",L16A 1N66R15
 https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1755633289-0-0-1d883d4554783889d8c3de0684eba02f
