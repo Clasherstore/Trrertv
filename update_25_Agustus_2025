@@ -1,6 +1,7 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+https://raw.githubusercontent.com/boimalik/indihome/refs/heads/main/Vision%2B
 
 
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_logo_2023.svg" group-title="#.LIVE_Bola" ,La Tes
