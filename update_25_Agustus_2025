@@ -4,10 +4,8 @@
 https://raw.githubusercontent.com/warungtvbox/lokal/main/playlist2022
 
 
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_logo_2023.svg" group-title="#.LIVE_Bola" ,La Tes
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://smart-tv.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_logo_2023.svg" group-title="#.LIVE_Bola" ,INDONESIA U23 VS LAOS
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=42d607f0d256cb5eef1eac3e29dd52b2&txTime=68b83674
 
 L16A P0RTU6AL
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/S%C3%ADmbolo_da_Liga_Portugal_Betclic.png" group-title="#.LIVE_BOLA",L1GA P0RTUGAL
