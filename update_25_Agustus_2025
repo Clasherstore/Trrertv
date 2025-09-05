@@ -1,49 +1,26 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
-KUAL1F1KA51 Z0NA AFR1KA
-#EXTINF:-1 group-title="#.LIVE_BOLA" tvg-id="SSC 1" tvg-logo="https://img.antaranews.com/cache/1200x800/2018/08/afrika.jpg.webp",KUAL1F1KA51 WC Z0NA AFR1CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+Italia vs Estonia
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="#.LIVE_BOLA",ITALIA VS ESTONIA (KUALIFIKASI PIALA DUNIA)
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_logo_2023.svg" group-title="#.LIVE_Bola" ,INDONESIA VS CHINESE TAIPEI
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=1ffbdccf14f537d707c258f0267967e6&txTime=68bae181
 
 
 
-L16A P0RTU6AL
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/S%C3%ADmbolo_da_Liga_Portugal_Betclic.png" group-title="#.LIVE_BOLA",L1GA P0RTUGAL
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-
-
-L16A PERANC15
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Logo_de_la_Ligue_1_%282008%29.svg/1280px-Logo_de_la_Ligue_1_%282008%29.svg.png" group-title="#.LIVE_BOLA", Sport.tv 3
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
- 
 
 
 
-L16A 8ELANDA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://id.m.wikipedia.org/wiki/Eredivisie#/media/Berkas%3AEredivisie_nieuw_logo_2017-.svg" group-title="#.LIVE_BOLA", L16A 8ELANDA
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
 
 
 
-L16A 1N66R15
-#EXTINF:-1 tvg-id="Feed" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="#.LIVE_BOLA",L16A 1N66R15
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1755633289-0-0-1d883d4554783889d8c3de0684eba02f
 
 
-LIGA spanyol
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_logo_2023.svg" group-title="#.LIVE_Bola" ,La Liga Spanyol
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
