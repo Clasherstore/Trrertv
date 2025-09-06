@@ -7,15 +7,24 @@ MACAU vs INDONESIA
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=cdddc88f681e5e17044dc544920e019c&txTime=68bc2de6
 
 
-Ukraina vs Perancis
+KUALIFIKASI WC ZONA EROPA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTINF:-1 tvg-logo="https://img.inews.co.id/media/450/files/inews_new/2021/03/28/european_qualifier.jpg" group-title="#.LIVE_BOLA",KUALIFIKASI WORLD CUP (EROPA)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+
+KUALIFIKASI WC ZONA EROPA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="" group-title="#.LIVE_BOLA", UKRAINA VS PERANCIS (KUALIFIKASI PIALA DUNIA)
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://img.inews.co.id/media/450/files/inews_new/2021/03/28/european_qualifier.jpg" group-title="#.LIVE_BOLA", KUALIFIKASI WORLD CUP (EROPA) 2
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
 
 
 
