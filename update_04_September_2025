@@ -1,6 +1,11 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+Jalalive Charlotte vs Inter Miami
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA",Charlotte vs Inter Miamy
+https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=fa544dcbbd629488e2a672687f925138&txTime=68c5fbb9
+
+
 
 LIGA JERMAN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
