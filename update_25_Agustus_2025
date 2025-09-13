@@ -3,6 +3,17 @@
 bit.ly/46a9tfa
 
 
+
+LIGA JERMAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/7-bundesliga.png?q=75&w=50" group-title="#.LIVE_BOLA",LIGA JERMAN
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
 L16A 1N66R15
 #EXTINF:-1 tvg-id="Feed" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE_BOLA",L16A 1N66R15
 https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1755633289-0-0-1d883d4554783889d8c3de0684eba02f
