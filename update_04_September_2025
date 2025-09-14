@@ -1,6 +1,61 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+LIGA spanyol
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_logo_2023.svg" group-title="#.LIVE_BOLA" ,La Liga Spanyol
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+
+Liga Spanyol 2
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_logo_2023.svg" group-title="#.LIVE_BOLA", La Liga Spanyol 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
+Liga Spanyol 3
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_logo_2023.svg" group-title="#.LIVE_BOLA",La Liga Spanyol 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+
+L16A 8ELANDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://id.m.wikipedia.org/wiki/Eredivisie#/media/Berkas%3AEredivisie_nieuw_logo_2017-.svg" group-title="#.LIVE_BOLA", L16A 8ELANDA
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+
+
+L16A P0RTU6AL
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/S%C3%ADmbolo_da_Liga_Portugal_Betclic.png" group-title="#.LIVE_BOLA",L1GA P0RTUGAL
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+
+
+L16A PERANC15
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Logo_de_la_Ligue_1_%282008%29.svg/1280px-Logo_de_la_Ligue_1_%282008%29.svg.png" group-title="#.LIVE_BOLA", Liga Perancis
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+
+
+LIGA JERMAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/7-bundesliga.png?q=75&w=50" group-title="#.LIVE_BOLA",LIGA JERMAN
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+
 LIGA ITALIA 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="#.LIVE_BOLA", LIGA ITALIA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
