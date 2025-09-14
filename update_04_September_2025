@@ -14,6 +14,29 @@ PERSIJA VS BALI UNITED
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666241.m3u8
 
 
+L16A 1N66R15
+#EXTINF:-1 tvg-id="Feed" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE_BOLA",L16A 1N66R15
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1755633289-0-0-1d883d4554783889d8c3de0684eba02f
+
+L16A IN66R15 1
+#EXTINF:-1 tvg-id="PREMIER_LEAGUE" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE_BOLA" ,L1GA IN66RIS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+L164 1N66R15 2
+#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png" group-title="#.LIVE_BOLA",L164 1N66R15 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
 
 
 
