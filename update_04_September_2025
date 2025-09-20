@@ -1,13 +1,8 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
-LIGA ITALIA 2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="#.LIVE_BOLA", LIGA ITALIA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
-
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", MANCHESTER UNITED VS CHELSEA
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=4338f2345227b38bc7382b7278322f7e&txTime=68ced55a
 
 LIGA ITALIA
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/astro-arena-2.png" group-title="#.LIVE_BOLA", LIGA ITALIA
