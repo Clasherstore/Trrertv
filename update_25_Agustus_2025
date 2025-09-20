@@ -7,6 +7,10 @@ LIGA INGGRIS
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="" group-title="#.LIVE_FOOTBALL", LIVERPOOL VS EVERTON
 https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=44c4372fc18d963117843593e4316687&txTime=68ce9019
 
+LIGA INDO
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="" group-title="#.LIVE_FOOTBALL", BALI UNITED VS PSIM YOGYAKARTA
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=5f9449f0d24c25f79bebd0ca52c388f2&txTime=68ce9bb7
+
 
 
 
