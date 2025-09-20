@@ -1,10 +1,9 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-bit.ly/46a9tfa
 
-
-#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", MANCHESTER UNITED VS CHELSEA
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=4338f2345227b38bc7382b7278322f7e&txTime=68ced55a
+LIGA ARAB
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", AL NASSR VS AL RIYADH
+https://bf.jlbflive.cc/live/322700_hd01.m3u8?txSecret=4b7865123089052213bfa0cf009c8791&txTime=68cee6da
 
 
 LIGA ITALIA
