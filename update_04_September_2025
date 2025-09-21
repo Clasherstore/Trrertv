@@ -1,6 +1,10 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+LIGA ITALIA
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", LAZIO VS ROMA
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=19ab7be174589b5d400e23cb10e2befa&txTime=68cfe7ad
+
 LIGA BELANDA
 #EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", PEC ZWOLE VS GO AHEAD
 https://bf.jlbflive.cc/live/322582_hd01.m3u8?txSecret=a72bcd340f5a17b6c5bb320ff289b3ad&txTime=68cfe638
