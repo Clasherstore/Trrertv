@@ -1,9 +1,9 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
-LIGA INDO
-#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", JEPARA VS TANGERANG
-https://bf.jlbflive.cc/live/322663_hd01.m3u8?txSecret=4e9d6a3348317f57c9c84277fbbea703&txTime=68cfc723
+LIGA BELANDA
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", PEC ZWOLE VS GO AHEAD
+https://bf.jlbflive.cc/live/322582_hd01.m3u8?txSecret=a72bcd340f5a17b6c5bb320ff289b3ad&txTime=68cfe638
 
 
 LIGA ITALIA
