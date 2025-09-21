@@ -1,9 +1,9 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
-LIGA ARAB
-#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", AL NASSR VS AL RIYADH
-https://bf.jlbflive.cc/live/322700_hd01.m3u8?txSecret=4b7865123089052213bfa0cf009c8791&txTime=68cee6da
+LIGA INDO
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", JEPARA VS TANGERANG
+https://bf.jlbflive.cc/live/322663_hd01.m3u8?txSecret=4e9d6a3348317f57c9c84277fbbea703&txTime=68cfc723
 
 
 LIGA ITALIA
