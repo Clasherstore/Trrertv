@@ -570,6 +570,9 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+#EXTINF:-1 group-title="KNOWLEDGE⏳" tvg-id="Animal Planet HD World"  tvg-logo="https://i.ibb.co.com/tpLZdK6/animalplanet.png", ANIMAL PLANET 🔴 🇺🇸
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
