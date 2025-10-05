@@ -1,8 +1,8 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-LIGA INDO
-#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", PSM MAKASSAR VS PERSIJA JAKARTA
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=af0f7f19f457b55a07612562e390f997&txTime=68cfe88f
+LIGA KORSEL
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", LIGA 1 KORSEL
+https://bf.jlbflive.cc/live/5004542_hd01.m3u8?txSecret=971541ea8c996156752099179011ecb7&txTime=68e2053d
 
 LIGA ITALIA
 #EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", LAZIO VS ROMA
