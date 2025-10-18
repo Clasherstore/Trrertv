@@ -1,4 +1,10 @@
 
+
+#EXTINF:-1 tvg-logo="" group-title="#.SPORT PREMIUM", LIGA MESSI
+https://bf.jlbflive.cc/live/322647_hd01.m3u8?txSecret=3b5ec204f71c8e0a005c9192cb539280&txTime=68f4226a
+
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", RCTI 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
