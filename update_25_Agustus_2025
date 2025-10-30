@@ -1,26 +1,133 @@
+BANG DOEL
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", LIVE BOLA 1
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=e59bbd5f8fbfc664514d93f37a013aa2&txTime=6903d64a
 
 
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="beIN Sports 1" tvg-logo="" group-title="#.SPORT PREMIUM", Bangkok United
-https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=d1e6a2219fec14a97bf96fae7cfffeb5&txTime=69035d57
+JOKER
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", LIVE BOLA 2
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=244e71237e8becf2fb297bd76209ba54&txTime=6903d83c
 
 
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="beIN Sports 1" tvg-logo="" group-title="#.SPORT PREMIUM", Swansea VS Man. City
-https://bf.jlbflive.cc/live/5004640_hd01.m3u8?txSecret=367579853fb7432b0853915c07e3b8fc&txTime=69027688
+BANG JALI
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", LIVE BOLA 3
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=7272f9f4168743387c4b397a9ad2f006&txTime=6903d901
 
 
-#EXTINF:-1 tvg-logo="" group-title="#.SPORT PREMIUM", LIVERPOOL VS PALACE
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=72d922635a246dce7981bfed74765103&txTime=69027616
+ROCKY
+#EXTINF:-1 tvg-logo="" group-title="#.LIVE_BOLA", LIVE BOLA 4
+https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=3b68b2db7d79b3712335310bbcebdb1f&txTime=6903d981
 
 
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="beIN Sports 1" tvg-logo="" group-title="#.SPORT PREMIUM", Wolves VS Chelsea
-https://bf.jlbflive.cc/live/322808_hd01.m3u8?txSecret=3da86f4f3ef520b9e31237871c2f6ea2&txTime=6902771e
-
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="beIN Sports 1" tvg-logo="" group-title="#.SPORT PREMIUM", Genoa VS Cremonese
-https://bf.jlbflive.cc/live/322813_hd01.m3u8?txSecret=2ca924a1e5817285a82d161afef254c1&txTime=690277e7
 
 
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="beIN Sports 1" tvg-logo="" group-title="#.SPORT PREMIUM", Inter VS Fiorentina
-https://bf.jlbflive.cc/live/322658_hd01.m3u8?txSecret=82ee98e7295374f355899b5d2cff1a67&txTime=6902784b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", RCTI 1
