@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="EPG Generator GPT-5" source-info-name="Fubo Sports 1">
+  <channel id="fubosports1.us">
+    <display-name>Fubo Sports 1</display-name>
+    <icon src="https://example.com/logo/fubosports1.png" />
+  </channel>
+
+  <!-- Contoh jadwal -->
+  <programme start="20251102080000 +0800" stop="20251102090000 +0800" channel="fubosports1.us">
+    <title lang="en">European Football Highlights</title>
+    <desc lang="en">Highlights from recent European football matches.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+
+  <programme start="20251102090000 +0800" stop="20251102100000 +0800" channel="fubosports1.us">
+    <title lang="en">Fubo Sports Talk</title>
+    <desc lang="en">Daily talk show featuring sports news and analysis.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+
+</tv>
+
