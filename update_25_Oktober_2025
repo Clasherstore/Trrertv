@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
+
 ==========
 
 
@@ -14,7 +15,7 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro
 
 
 BEIN SPORT 1
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="beIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="#.SPORT PREMIUM", beIN Sports 1
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="#.SPORT PREMIUM", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -75,7 +76,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 Bein Sport Xtra
-#EXTINF:-1 tvg-id="" tvg-url="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9KYWthcnRh&date=20251101&channel_id=413152" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="#.SPORT PREMIUM",beIN Sports Xtra [US]
+#EXTINF:-1 tvg-id="413152" tvg-url="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9KYWthcnRh&date=20251101&channel_id=413152" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="#.SPORT PREMIUM",beIN Sports Xtra [US]
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 CT Sport HD
@@ -90,15 +91,15 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
 
 INDOSIAR
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 1
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 1
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162138
 
 INDOSIAR 2
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 2
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 2
 http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 
 INDOSIAR 2 (LIGA 2)
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 2 (LIGA 2)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 2 (LIGA 2)
 http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 
 
@@ -106,11 +107,11 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 
 
 INDOSIAR 3
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 3
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 3
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666241.m3u8
 
 INDOSIAR 4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 4
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 4
 http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 
 
