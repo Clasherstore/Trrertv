@@ -1,19 +1,49 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-
 LIGA ITALIA
 #EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIGA ITALIA
 https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 
 
-LIVE LAMPHUN VS PORT FC
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LAMPHUN WARIOR VS PORT FC
-https://bf.jlbflive.cc/live/5004459_hd01.m3u8?txSecret=95005d2694d174b2ccb4bfce846b72e8&txTime=690742c8
+LIVE BOLA 7
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 7
+https://bf.jlbflive.cc/live/322582_hd01.m3u8?txSecret=71a170a4cb88fc0573399f48babd79be&txTime=6907685e
 
 
-LIVE BANGKOK UNITED
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BANGKOK UNITED
-https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=414dbf65b1f85a3f6a5f5f207f7c8eb0&txTime=69074370
+LIVEBOLA 6
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 6
+https://bf.jlbflive.cc/live/5004685_hd01.m3u8?txSecret=9a61fa2d187cbcc2d81084c961be77c2&txTime=690767e6
+
+
+LIVEBOLA 5
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 5
+https://bf.jlbflive.cc/live/322673_hd01.m3u8?txSecret=eecab1018dfd92137c22bdad9865e37c&txTime=69076737
+
+LIVE BOLA 4
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 4
+https://bf.jlbflive.cc/live/5004453_hd01.m3u8?txSecret=42814dd724b4890e0b0fbdcd98f31b21&txTime=6907669e
+
+
+LIVE BOLA 3
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 3
+https://bf.jlbflive.cc/live/5004681_hd01.m3u8?txSecret=0d1c23165873069a1c13d66b9945adef&txTime=69076612
+
+
+
+
+LIVE BOLA 2
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 2
+https://bf.jlbflive.cc/live/5004374_hd01.m3u8?txSecret=c0a90bcd95faa2c7f33e0dd5c3003725&txTime=69076514
+
+
+LIVE BOLA 1
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 1
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=c8967986ba42144f999baaeead165a07&txTime=6907645e
+
+
+
+
+
 
 ASTRO ARENA VERSI 2
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251101&channel_id=399508" tvg-id="399508" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", ASTRO ARENA 2
