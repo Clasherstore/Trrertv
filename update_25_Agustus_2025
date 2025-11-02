@@ -6,6 +6,10 @@ LIGA ITALIA
 https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 
 
+LIVEBOLA 5
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 5
+https://bf.jlbflive.cc/live/322673_hd01.m3u8?txSecret=eecab1018dfd92137c22bdad9865e37c&txTime=69076737
+
 LIVE BOLA 4
 #EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 4
 https://bf.jlbflive.cc/live/5004453_hd01.m3u8?txSecret=42814dd724b4890e0b0fbdcd98f31b21&txTime=6907669e
