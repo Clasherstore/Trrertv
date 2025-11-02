@@ -1,6 +1,20 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+LIGA ITALIA
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIGA ITALIA
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
+
+
+LIVE LAMPHUN VS PORT FC
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LAMPHUN WARIOR VS PORT FC
+https://bf.jlbflive.cc/live/5004459_hd01.m3u8?txSecret=95005d2694d174b2ccb4bfce846b72e8&txTime=690742c8
+
+
+LIVE BANGKOK UNITED
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BANGKOK UNITED
+https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=414dbf65b1f85a3f6a5f5f207f7c8eb0&txTime=69074370
+
 
 ASTRO ARENA VERSI 2
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251101&channel_id=399508" tvg-id="399508" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", ASTRO ARENA 2
