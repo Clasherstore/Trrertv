@@ -6,6 +6,11 @@ LIGA ITALIA
 https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 
 
+LIVE LAMPHUN VS PORT FC
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LAMPHUN WARIOR VS PORT FC
+https://bf.jlbflive.cc/live/5004459_hd01.m3u8?txSecret=95005d2694d174b2ccb4bfce846b72e8&txTime=690742c8
+
+
 ASTRO ARENA VERSI 2
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251101&channel_id=399508" tvg-id="399508" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", ASTRO ARENA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
