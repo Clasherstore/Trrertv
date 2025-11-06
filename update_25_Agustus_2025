@@ -1,45 +1,12 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
-LIGA ITALIA
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIGA ITALIA
-https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
-
-
-LIVE BOLA 7
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 7
-https://bf.jlbflive.cc/live/322582_hd01.m3u8?txSecret=71a170a4cb88fc0573399f48babd79be&txTime=6907685e
-
-
-LIVEBOLA 6
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 6
-https://bf.jlbflive.cc/live/5004685_hd01.m3u8?txSecret=9a61fa2d187cbcc2d81084c961be77c2&txTime=690767e6
-
-
-LIVEBOLA 5
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 5
-https://bf.jlbflive.cc/live/322673_hd01.m3u8?txSecret=eecab1018dfd92137c22bdad9865e37c&txTime=69076737
-
-LIVE BOLA 4
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 4
-https://bf.jlbflive.cc/live/5004453_hd01.m3u8?txSecret=42814dd724b4890e0b0fbdcd98f31b21&txTime=6907669e
-
-
-LIVE BOLA 3
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 3
-https://bf.jlbflive.cc/live/5004681_hd01.m3u8?txSecret=0d1c23165873069a1c13d66b9945adef&txTime=69076612
+ARAB SPORT
+#EXTINF:-1 group-title="#.SPORT PREMIUM", ARAB SPORTS
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/3.m3u8
 
 
 
-
-LIVE BOLA 2
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 2
-https://bf.jlbflive.cc/live/5004374_hd01.m3u8?txSecret=c0a90bcd95faa2c7f33e0dd5c3003725&txTime=69076514
-
-
-LIVE BOLA 1
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="" group-title="#.SPORT PREMIUM",#LIVE BOLA 1
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=c8967986ba42144f999baaeead165a07&txTime=6907645e
 
 
 ASTRO ARENA VERSI 2
@@ -82,15 +49,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 
-BEIN SPORT 3 (LA LIGA SPANYOL)
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="#.SPORT PREMIUM",beIN Sports 3 (LALIGA SPANYOL)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
 
 ==========
 
@@ -116,6 +74,55 @@ Bein Sport Xtra
 #EXTINF:-1 tvg-id="413152" tvg-url="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9KYWthcnRh&date=20251101&channel_id=413152" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="#.SPORT PREMIUM",beIN Sports Xtra [US]
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
+
+
+BEIN SPORT 1 ARAB
+#EXTINF:-1 tvg-id="beinsport1.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
+
+
+BEIN SPORT 2 ARAB
+#EXTINF:-1 tvg-id="beinsport2.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
+
+
+BEIN SPORT 3 ARAB
+#EXTINF:-1 tvg-id="beinsport3.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
+
+
+BEIN SPORT 4 ARAB
+#EXTINF:-1 tvg-id="beinsport4.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
+
+
+BEIN SPORT 5 ARAB
+#EXTINF:-1 tvg-id="beinsport5.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
+
+
+BEIN SPORT 6 ARAB
+#EXTINF:-1 tvg-id="beinsport6.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
+
+
+BEIN SPORT 7 ARAB
+#EXTINF:-1 tvg-id="beinsport7.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
+
+
+BEIN SPORT 8 ARAB
+#EXTINF:-1 tvg-id="beinsport8.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
+
+
+BEIN SPORT 9
+#EXTINF:-1 tvg-id="beinsport1.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
+
+
+
+
 CT Sport HD
 #EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://i.ibb.co.com/vL0VSmb/ctsport.png" group-title="#.SPORT PREMIUM", ČT Sport 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -125,6 +132,79 @@ CT Sport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+
+DAZN 1
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="#.SPORT PREMIUM",DaznSerieA
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
+
+
+ELEVEN SPORT 1
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="#.SPORT PREMIUM", ElevenSport1
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+
+
+ELEVEN SPORT 2
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="#.SPORT PREMIUM", ElevenSport2
+https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+
+
+ELEVEN SPORT 3
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="#.SPORT PREMIUM", ElevenSport3
+https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+
+
+
+FIFA+
+#EXTINF:-1 group-title="#.SPORT PREMIUM",FIFA+ AU
+https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+
+
+
+FOX SPORTS 1
+#EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="#.SPORT PREMIUM", FOX SPORTS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+
+FOX SPORTS 2
+#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="#.SPORT PREMIUM", FOX SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+
+FOX SPORTS 3
+#EXTINF:-1 tvg-id="FOX SPORTS 3.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="#.SPORT PREMIUM", FOX SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+
+FOX SPORT PREMIUM
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="#.SPORT PREMIUM", FOX SPORTS PREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+
+
+FS 2
+#EXTINF:-1 group-title="#.SPORT PREMIUM",FS2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
+
+
 
 
 INDOSIAR
@@ -195,6 +275,8 @@ SEPAKBOLA LIVE 1
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 
+
+
 MOTORVISION
 #EXTINF:-1 tvg-id="98" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="#.SPORT PREMIUM", MOTOR VISION+
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -207,6 +289,28 @@ MOTOR RACING TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV
+
+
+ONE SPORT
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/one-sports-philippines.png" group-title="#.SPORT PREMIUM", ONE SPORTS
+http://ip96.uk:8080//adilmus03/002870/290887
+
+
+ONE SPORT+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/one-sportsplus.png" group-title="#.SPORT PREMIUM", ONE SPORTS+
+http://ip96.uk:8080//adilmus03/002870/290888
+
+
+
+PREMIER LEAGUE TV
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="#.SPORT PREMIUM", PREMIER LEAGUE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
 
 
 PREMIER SPORT
@@ -222,6 +326,13 @@ RCTI SPORTS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
+
+
+
+RCTI SPORTS 2
+#EXTINF:-1 tvg-id="Rcti.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", RCTI SPORTS 2
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
+
 
 
 REDBULL TV
@@ -344,10 +455,35 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
+PSJ TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="Psjtv.id tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/cf58fdbdfa9f44a9b848d6c7097c3da9.jpg" group-title="Sports",PSJ TV 🔴
+https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
 
 
 
+
+
+RAI SPORT
+#EXTINF:-1 tvg-id="RAI Sport.it" tvg-logo="https://iili.io/2rWV8ml.png" group-title="#.SPORT PREMIUM",Rai Sport
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87a5beac54c74bf4a95a142b90fb817f:4618d1d8d1903223990635f181afd202
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+
+
+SOCCER CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="Soccerchannel.id" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="#.SPORT PREMIUM",Soccer Channel
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 
@@ -391,10 +527,41 @@ Sport Stars 4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
+Super Sport 1
+#EXTINF:-1 tvg-id="Supersport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="#.SPORT PREMIUM", SuperSport1
+https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
+
+
+Super Sport 2
+#EXTINF:-1 tvg-id="Supersport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="#.SPORT PREMIUM", SuperSport2
+https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
+
+
+Super Sport 3
+#EXTINF:-1 tvg-id="Supersport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="#.SPORT PREMIUM", SuperSport3
+https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
+
+
+TRT SPOR
+#EXTINF:-1 group-title="#.SPORT PREMIUM",TRT SPOR VNL
+http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
+
 
 TVRI SPORT
 #EXTINF:-1 tvg-logo="" group-title="#.SPORT PREMIUM",TVRI-SPORT 
 http://103.66.62.83:8000/play/a00n/index.m3u8
+
+
+ZIGGO SPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport.png" group-title="#.SPORT PREMIUM", Ziggo Sport Select 1
+https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+
+
+ZIGGO SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="#.SPORT PREMIUM", Ziggo Sport Select 2
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+
+
 
 
 
