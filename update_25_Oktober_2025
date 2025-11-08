@@ -6,10 +6,10 @@ FEED LIGA INGGRIS
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=53a998305ce1a1e1b57e2fa7272a282a&txTime=690f3447
 
 
-
 FEED LIGA 1 INDONESIA
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="BRI LIGA 1", BRI LIGA 1
 https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=8cb98a8213a1975c3468b3fc104d1ddd&txTime=690f2d23
+
 
 
 ARAB SPORT
@@ -89,6 +89,8 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 BEIN SPORT 1 ARAB
 #EXTINF:-1 tvg-id="beinsport1.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
+#EXTINF:-1 tvg-id="beinsport1.ar" group-title="LIGA INGGRIS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 ARAB
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
 
@@ -217,6 +219,21 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
 
 
 
+FUBO SPORT 1
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Clasherstore/Trrertv/refs/heads/main/Search.xml" tvg-id="fubosports1.us" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="#.SPORT PREMIUM", Fubo Sports Network [US]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+FUBO SPORT 1
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Clasherstore/Trrertv/refs/heads/main/Search.xml" tvg-id="fubosports1.us" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="LIGA INGGRIS", Fubo Sports Network [US]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+
+
 
 
 INDOSIAR
@@ -246,7 +263,6 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 
 
-
 DUBAI SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 1
@@ -272,13 +288,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mas
 
 
 
-
-FUBO SPORT 1
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Clasherstore/Trrertv/refs/heads/main/Search.xml" tvg-id="fubosports1.us" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="#.SPORT PREMIUM", Fubo Sports Network [US]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
 
@@ -400,24 +409,6 @@ CHAMPIONSHIP INGGRIS
 #EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="#.SPORT PREMIUM",CBS SPORTS
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-
-
-SPOTV
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="#.SPORT PREMIUM",SpoTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-
-
-SPOTV V.2
-#EXTINF:-1 tvg-logo="" group-title="#.SPORT PREMIUM",SPOTV 
-http://103.66.62.83:8000/play/a034/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="#.SPORT PREMIUM",SPOTV 2 
-http://103.66.62.83:8000/play/a035/index.m3u8
 
 
 
@@ -550,6 +541,9 @@ https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
 Super Sport 2
 #EXTINF:-1 tvg-id="Supersport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="#.SPORT PREMIUM", SuperSport2
 https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
+Super Sport 2
+#EXTINF:-1 tvg-id="Supersport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="LIGA INGGRIS", SuperSport2
+https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
 
 
 Super Sport 3
@@ -562,19 +556,25 @@ TRT SPOR
 http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
 
 
-TVRI SPORT
-#EXTINF:-1 tvg-logo="" group-title="#.SPORT PREMIUM",TVRI-SPORT 
-http://103.66.62.83:8000/play/a00n/index.m3u8
+USA
+#EXTINF:-1 group-title="#.SPORT PREMIUM", USA
+https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
+
 
 
 ZIGGO SPORT 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport.png" group-title="#.SPORT PREMIUM", Ziggo Sport Select 1
+https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+ZIGGO SPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport.png" group-title="MOTO GP", Ziggo Sport Select 1
 https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 
 
 ZIGGO SPORT 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="#.SPORT PREMIUM", Ziggo Sport Select 2
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+
+
 
 
 
