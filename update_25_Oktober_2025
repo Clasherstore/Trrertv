@@ -57,6 +57,14 @@ BEIN SPORT 3
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+BEIN SPORT 3
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="LIGA SPANYOL",beIN Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
 
@@ -97,6 +105,9 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 BEIN SPORT 2 ARAB
 #EXTINF:-1 tvg-id="beinsport2.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2 ARAB
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
+BEIN SPORT 2 ARAB
+#EXTINF:-1 tvg-id="beinsport2.ar" group-title="LIGA 2 INGGRIS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
 
 
 BEIN SPORT 3 ARAB
@@ -127,11 +138,24 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
 BEIN SPORT 8 ARAB
 #EXTINF:-1 tvg-id="beinsport8.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8 ARAB
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
+BEIN SPORT 8 ARAB
+#EXTINF:-1 tvg-id="beinsport8.ar" group-title="MOTO GP" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 
 
 BEIN SPORT 9
 #EXTINF:-1 tvg-id="beinsport1.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 ARAB
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
+
+
+
+CBS SPORT
+#EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="#.SPORT PREMIUM",CBS SPORTS
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+CBS SPORT
+#EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="LIGA 2 INGGRIS ",CBS SPORTS
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
 
 
 
@@ -405,9 +429,6 @@ http://185.57.68.33/110/mpegts
 
 
 
-CHAMPIONSHIP INGGRIS
-#EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="#.SPORT PREMIUM",CBS SPORTS
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 
 
@@ -573,6 +594,12 @@ https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 ZIGGO SPORT 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="#.SPORT PREMIUM", Ziggo Sport Select 2
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+ZIGGO SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="LIGA SPANYOL", Ziggo Sport Select 2
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+
+
+
 
 
 
