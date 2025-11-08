@@ -214,26 +214,29 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
 INDOSIAR
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 1
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162138
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="BRI LIGA 1", INDOSIAR 1
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162138
 
 INDOSIAR 2
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 2
 http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
-
-INDOSIAR 2 (LIGA 2)
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 2 (LIGA 2)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="BRI LIGA 1", INDOSIAR 2
 http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
-
-
-====================
 
 
 INDOSIAR 3
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 3
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666241.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="BRI LIGA 1", INDOSIAR 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666241.m3u8
+
 
 INDOSIAR 4
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.SPORT PREMIUM", INDOSIAR 4
 http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="BRI LIGA 1", INDOSIAR 4
+http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
+
 
 
 DUBAI SPORTS 1
