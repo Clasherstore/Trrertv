@@ -1,6 +1,12 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+FEED LIGA INGGRIS
+#EXTINF:-1 tvg-id="Sctv.id" group-title="LIGA INGGRIS", LIGA INGGRIS
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=53a998305ce1a1e1b57e2fa7272a282a&txTime=690f3447
+
+
+
 FEED LIGA 1 INDONESIA
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="BRI LIGA 1", BRI LIGA 1
 https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=8cb98a8213a1975c3468b3fc104d1ddd&txTime=690f2d23
