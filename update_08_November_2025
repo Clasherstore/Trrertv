@@ -1,19 +1,9 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
-FEED LIGA ARAB
-#EXTINF:-1 tvg-id="Sctv.id" group-title="LIGA ARAB", LIGA ARAB
-https://bf.jlbflive.cc/live/322713_hd01.m3u8?txSecret=e8dba5fab751dc8e4e7026d521155ccc&txTime=690f4886
-
-
-FEED LIGA INGGRIS
-#EXTINF:-1 tvg-id="Sctv.id" group-title="LIGA INGGRIS", LIGA INGGRIS
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=53a998305ce1a1e1b57e2fa7272a282a&txTime=690f3447
-
-
-FEED LIGA 1 INDONESIA
+FEED LIGA BELANDA
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="BRI LIGA 1", BRI LIGA 1
-https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=8cb98a8213a1975c3468b3fc104d1ddd&txTime=690f2d23
+https://bf.jlbflive.cc/live/322715_hd01.m3u8?txSecret=dc945320bc1cd18556ba90258a586b45&txTime=69107697
 
 
 
