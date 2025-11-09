@@ -7,8 +7,12 @@ https://bf.jlbflive.cc/live/322715_hd01.m3u8?txSecret=dc945320bc1cd18556ba90258a
 
 
 
+
 ARAB SPORT
 #EXTINF:-1 group-title="#.SPORT PREMIUM", ARAB SPORTS
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/3.m3u8
+ARAB SPORT
+#EXTINF:-1 group-title="LIGA ITALIA", ARAB SPORTS
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/3.m3u8
 
 
@@ -22,6 +26,14 @@ ASTRO ARENA VERSI 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+ASTRO ARENA VERSI 2
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251101&channel_id=399508" tvg-id="399508" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="#.LIGA ITALIA", ASTRO ARENA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
 
 
 BEIN SPORT 1
@@ -42,6 +54,7 @@ BEIN SPORT 2
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
 
 
 BEIN SPORT 3
@@ -103,6 +116,10 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
 BEIN SPORT 2 ARAB
 #EXTINF:-1 tvg-id="beinsport2.ar" group-title="LIGA 2 INGGRIS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2 ARAB
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
+BEIN SPORT 2 ARAB
+#EXTINF:-1 tvg-id="beinsport2.ar" group-title="LIGA SPANYOL" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
+
 
 
 BEIN SPORT 3 ARAB
@@ -113,6 +130,10 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
 BEIN SPORT 4 ARAB
 #EXTINF:-1 tvg-id="beinsport4.ar" group-title="#.SPORT PREMIUM" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4 ARAB
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
+BEIN SPORT 4 ARAB
+#EXTINF:-1 tvg-id="beinsport4.ar" group-title="LIGA PERANCIS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4 ARAB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
+
 
 
 BEIN SPORT 5 ARAB
@@ -164,25 +185,78 @@ CT Sport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+CT Sport HD
+#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://i.ibb.co.com/vL0VSmb/ctsport.png" group-title="PIALA DUNIA U17", ČT Sport 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+
+
+
 
 
 DAZN 1
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="#.SPORT PREMIUM",DaznSerieA
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="#.SPORT PREMIUM",Dazn 1
 https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
+DAZN 1
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="LIGA ITALIA",Dazn 1
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
+DAZN 1
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="LIGA SPANYOL",Dazn 1
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
+
+
+DUBAI SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+
+DUBAI SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+DUBAI SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="LIGA BELANDA", DubaiSports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+
+
+DUBAI SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 3	
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+
 
 
 ELEVEN SPORT 1
 #EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="#.SPORT PREMIUM", ElevenSport1
 https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+ELEVEN SPORT 1
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="LIGA INGGRIS", ElevenSport1
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+
 
 
 ELEVEN SPORT 2
 #EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="#.SPORT PREMIUM", ElevenSport2
 https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+ELEVEN SPORT 2
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="LIGA ITALIA", ElevenSport2
+https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+
 
 
 ELEVEN SPORT 3
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="#.SPORT PREMIUM", ElevenSport3
+https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+ELEVEN SPORT 3
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="LIGA JERMAN", ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
 
@@ -235,6 +309,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/
 FS 2
 #EXTINF:-1 group-title="#.SPORT PREMIUM",FS2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
+FS 2
+#EXTINF:-1 group-title="PIALA DUNIA U17",FS2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
 
 
 
@@ -250,6 +327,13 @@ FUBO SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+FUBO SPORT 1
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Clasherstore/Trrertv/refs/heads/main/Search.xml" tvg-id="fubosports1.us" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="LIGA ITALIA", Fubo Sports Network [US]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 
 
 
@@ -282,28 +366,6 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 
 
-DUBAI SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-DUBAI SPORTS 1 (LIGA BELANDA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 1 (LIGA BELANDA)
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-
-
-DUBAI SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-
-
-DUBAI SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="#.SPORT PREMIUM", DubaiSports 3	
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
 
 
@@ -316,6 +378,15 @@ SEPAKBOLA LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+
+
+Матч! 🇷🇺
+#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.SPORT PREMIUM",Матч! 🇷🇺
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+Матч! 🇷🇺
+#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="LIGA ITALIA",Матч! 🇷🇺
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 
 
@@ -391,6 +462,14 @@ SOCCER CHANNEL
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="#.SPORT PREMIUM",Soccer Channel
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+SOCCER CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="LIGA JERMAN",Soccer Channel
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 
@@ -413,6 +492,10 @@ https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 SPORT TV 4
 #EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="#.SPORT PREMIUM", Sport.tv 4
 https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+SPORT TV 4
+#EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="LIGA ITALIA", Sport.tv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+
 
 
 BUNDES LIGA
@@ -436,9 +519,6 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 
-Матч! 🇷🇺
-#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.SPORT PREMIUM",Матч! 🇷🇺
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 
 Unifi Sports 1
@@ -565,6 +645,11 @@ https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
 Super Sport 3
 #EXTINF:-1 tvg-id="Supersport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="#.SPORT PREMIUM", SuperSport3
 https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
+Super Sport 3
+#EXTINF:-1 tvg-id="Supersport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="LIGA SPANYOL", SuperSport3
+https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
+
+
 
 
 TRT SPOR
@@ -592,6 +677,12 @@ https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
 ZIGGO SPORT 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="LIGA SPANYOL", Ziggo Sport Select 2
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+ZIGGO SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="LIGA ITALIA", Ziggo Sport Select 2
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+
+
+
 
 
 
