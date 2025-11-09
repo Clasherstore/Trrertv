@@ -1,9 +1,9 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
-FEED LIGA BELANDA
-#EXTINF:-1 tvg-id="Indosiar.id" group-title="BRI LIGA 1", BRI LIGA 1
-https://bf.jlbflive.cc/live/322715_hd01.m3u8?txSecret=dc945320bc1cd18556ba90258a586b45&txTime=69107697
+FEED LIGA THAILAND
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="LIGA THAILAND", LIGA THAILAND
+https://bf.jlbflive.cc/live/322665_hd01.m3u8?txSecret=5220a9687a7e4dcc1610adc2f16fab02&txTime=69108873
 
 
 
