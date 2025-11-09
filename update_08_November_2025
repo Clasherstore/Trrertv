@@ -6,6 +6,10 @@ FEED LIGA THAILAND
 https://bf.jlbflive.cc/live/322665_hd01.m3u8?txSecret=5220a9687a7e4dcc1610adc2f16fab02&txTime=69108873
 
 
+FEED LIGA INDONESIA
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="BRI LIGA 1", BRI LIGA 1
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=894863b76fd8dbf29267bc3673229e6e&txTime=69108f09
+
 
 
 ARAB SPORT
