@@ -1,6 +1,8 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+#EXTINF:-1 tvg-logo="" group-title="LIGA THAILAND", LIGA THAILAND
+https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=cdd16c4ad8dfd14bcaaed5838b2b4494&txTime=692c2e1f
 
 
 
