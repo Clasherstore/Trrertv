@@ -3,6 +3,8 @@
 #EXTM3U
 Last Update : 08 November 2025
 
+#EXTINF:-1 group-title="LIGA INGGRIS", Tottenham
+https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=ce480cbda4dec23d9bfb7b789fb61428&txTime=6956c86c
 
 #EXTINF:-1 group-title="LIGA INGGRIS", Manchester City
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=6f7aba81401aae8accd063f2aa83de6d&txTime=6956c736
