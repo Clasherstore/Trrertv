@@ -3,8 +3,13 @@
 #EXTM3U
 Last Update : 08 November 2025
 
-#EXTINF:-1 group-title="LIGA ITALIA", Milan
-https://bf.jlbflive.cc/live/322580_hd01.m3u8?txSecret=fc01940a063661c9a87a167461ede753&txTime=69582bfc
+#EXTINF:-1 group-title="LIGA INDONESIA", Persija
+https://bf.jlbflive.cc/live/5004847_hd01.m3u8?txSecret=ed3857694d387136b84ad75e58d0c1f6&txTime=6958d01d
+
+
+#EXTINF:-1 group-title="LIGA INDONESIA", Borneo
+https://bf.jlbflive.cc/live/322647_hd01.m3u8?txSecret=1c5a48edaf51943801e646b9286b2115&txTime=6958cf70
+
 
 ARAB SPORT
 #EXTINF:-1 group-title="#.SPORT PREMIUM", ARAB SPORTS
