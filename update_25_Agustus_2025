@@ -1,6 +1,8 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+#EXTINF:-1 group-title="LIGA 2 INDONESIA", LIGA 2 INDONESIA
+https://bf.jlbflive.cc/live/5005022_hd01.m3u8?txSecret=5de40b03b2237ad7a45b66ecad56b388&txTime=697b1839
 
 
 ARAB SPORT
