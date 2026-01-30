@@ -9,6 +9,9 @@ https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=9013d8d9df8969293829516469
 https://bf.jlbflive.cc/live/5005031_hd01.m3u8?txSecret=1d335a9ddba1cac54d83396b5b7b0070&txTime=697c643c
 
 
+#EXTINF:-1 group-title="LIGA 2 INDONESIA", PSIS VS TORNADO
+https://bf.jlbflive.cc/live/5005017_hd01.m3u8?txSecret=abad91b7063fd96eee368af7d06e017c&txTime=697c7460
+
 ARAB SPORT
 #EXTINF:-1 group-title="#.SPORT PREMIUM", ARAB SPORTS
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/3.m3u8
