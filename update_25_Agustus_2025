@@ -1,6 +1,10 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+#EXTINF:-1 group-title="LIGA 1 INDONESIA", PERSITA VS PERSIJA JAKARTA
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=9013d8d9df8969293829516469c0cc33&txTime=697c6bfc
+
+
 #EXTINF:-1 group-title="LIGA 2 INDONESIA", PERSIKU VS PERSIPURA
 https://bf.jlbflive.cc/live/5005031_hd01.m3u8?txSecret=1d335a9ddba1cac54d83396b5b7b0070&txTime=697c643c
 
