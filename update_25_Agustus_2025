@@ -1,4 +1,11 @@
 #EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="LIGA 1 INDONESIA",PERSIS SOLO VS PERSIB BANDUNG
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=8428e7c5c03cf9245fc7dfea86cdffd2&txTime=697db43b
+
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="PL | SPORT",PL: CANAL+ SPORT
 http://vipbhbiss.top:8080/VIP013961741195150363/426164261fc5/876
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="PL | SPORT",PL: CANAL+ SPORT 2
