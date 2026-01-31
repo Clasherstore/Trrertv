@@ -1,5 +1,7 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="LIGA 1 INDONESIA",PERSIS SOLO VS PERSIB BANDUNG
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=8428e7c5c03cf9245fc7dfea86cdffd2&txTime=697db43b
 
 
 
