@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="LIGA SPANYOL", LIVE 1
+https://bf.jlbflive.cc/live/322708_hd01.m3u8?txSecret=45779b36be1a9f8dbf1493fffb2d48cf&txTime=697f3b35
+
+
 #EXTINF:-1 group-title="LIGA INDONESIA", LIVE 1
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=7751b19f206ca987576ec7d33f8373b6&txTime=697f36e3
 
