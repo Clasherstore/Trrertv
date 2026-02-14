@@ -1,5 +1,9 @@
 #EXTM3U
 
+LIGA 1 Thailand
+#EXTINF:-1 group-title="LIGA 1 Thailan", LIGA 1 LIVE
+https://bf.jlbflive.cc/live/5004691_hd01.m3u8?txSecret=1a7ff283c6a885b472af23ee43454666&txTime=69906094
+
 LIGA 2 INDO
 #EXTINF:-1 group-title="LIGA 2 INDONESIA", LIGA 2 LIVE
 https://bf.jlbflive.cc/live/322673_hd01.m3u8?txSecret=d00aed7467ff90e9cc84347af8c211e6&txTime=69905f71
