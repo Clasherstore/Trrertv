@@ -1,5 +1,8 @@
 #EXTM3U
 
+LIGA 2 INDO
+#EXTINF:-1 group-title="LIGA 2 INDONESIA", LIGA 2 LIVE
+https://bf.jlbflive.cc/live/322673_hd01.m3u8?txSecret=d00aed7467ff90e9cc84347af8c211e6&txTime=69905f71
 
 LIGA 1 INDO
 #EXTINF:-1 group-title="LIGA 1 INDONESIA", LIGA 1 LIVE
