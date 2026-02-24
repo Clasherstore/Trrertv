@@ -1,10 +1,8 @@
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 2", Live 1
-https://bf.jlbflive.cc/live/5004994_hd01.m3u8?txSecret=318c1c23897f2af1bbb07f9ab4880185&txTime=699c5826
 
-
-BALI UNITED
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 1", LIVE LIGA 1
-https://bf.jlbflive.cc/live/5005018_hd01.m3u8?txSecret=ec76cd29abb1ce9c4382380b98815fba&txTime=699c4c1c
+Malut United vs Persija
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 1", Live 1
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=4363185e0239770b4661a02bf7d5e820&txTime=699d81b1
 
 
 
