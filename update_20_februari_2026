@@ -1,19 +1,11 @@
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 2", Live 1
 
 
-Borneo vs Arema
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 1", Borneo FC vs Arema
-https://bf.jlbflive.cc/live/5004991_hd01.m3u8?txSecret=a0e5a24626f5db5e7640e41aaf915d43&txTime=69a04bb3
+Zagreb
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="LIGA CHAMPIONS", RC Genk vs Dinamo Zagreb
+https://bf.jlbflive.cc/live/5004475_hd01.m3u8?txSecret=982f98bf76f6e37d513fdb6ed6a8c13d&txTime=69a0bedf
 
 
-Persita vs Madura
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 1", Live Persita vs D.U
-https://bf.jlbflive.cc/live/5004994_hd01.m3u8?txSecret=7ca3ae899a228f8d71a56a313d112a47&txTime=69a049ec
-
-
-Persib
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 1", Live Persib vs MU
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=cecab878cf4355cc0ce5d868c23ae7ec&txTime=69a05123
 
 
 =============================================
