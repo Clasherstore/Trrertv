@@ -8,7 +8,8 @@ https://bf.jlbflive.cc/live/5004991_hd01.m3u8?txSecret=a0e5a24626f5db5e7640e41aa
 
 Persita vs Madura
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 1", Live Persita vs D.U
-https://bf.jlbflive.cc/live/5004994_hd01-1772111998.ts?txspiseq=103113647695553770177
+https://bf.jlbflive.cc/live/5004994_hd01.m3u8?txSecret=7ca3ae899a228f8d71a56a313d112a47&txTime=69a049ec
+
 
 Persib
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 1", Live Persib vs MU
