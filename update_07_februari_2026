@@ -1,5 +1,12 @@
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 2", Live 1
 
+Feed Jala
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",Live Wolverhamton vs Aston Vila
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=4655a56e094030a531ec2d5ee594ab5c&txTime=69a1f8df
+
+
+
+
 
 ALWAN SPORT 1 HD L1GA 1NGGRIS
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",Alwan Sport 1 HD
