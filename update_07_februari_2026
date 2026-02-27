@@ -1,6 +1,15 @@
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 2", Live 1
 
 
+ALWAN SPORT 1 HD L1GA 1NGGRIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",Alwan Sport 1 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
+
+ALWAN SPORT 1 (SERVER 1) L1GA 1NGGRIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",Alwan Sport 1 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
+
+
 HUB PREMIER 1 (SERVER 1) LIGA 1NGGRIS
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="L1GA 1NGGRIS",HUB PREMIER 1 (Server 1)
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
