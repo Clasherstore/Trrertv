@@ -1,6 +1,19 @@
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 2", Live 1
 
 FEED ECA DEPOK VS ACEH
+Feed bang doel Barcelona vs Villareal
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA SPANYOL",Live Barcelona vs Villareal
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=277a3b15454255c815d28dd1a18af061&txTime=69a2dbd8
+
+
+
+FEED NANA BORUSIA MONCHENGLADBACH VS UNION BERLIN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA JERMAN",Live M. Gladbach vs Union Berlin
+https://bf.jlbflive.cc/live/5005029_hd01.m3u8?txSecret=8a038b3ed221491116d850c0f01cb0e3&txTime=69a2f27b
+
+
+
+FEED ECA DEPOK VS ACEH
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 2 1NDONESIA",Live Depok vs Aceh
 https://bf.jlbflive.cc/live/5005029_hd01.m3u8?txSecret=8a038b3ed221491116d850c0f01cb0e3&txTime=69a2f27b
 
@@ -14,11 +27,6 @@ FEED BOKIR BALI VS JEPARA
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1 1NDONESIA",Live Bali United vs Jepara
 https://bf.jlbflive.cc/live/5005043_hd01.m3u8?txSecret=6d91afaf55398887ef2989a4a1070881&txTime=69a2e9ce
 
-
-
-Feed bang doel Bournemouth vs Sunderland
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",Live Bournemouth vs Sunderland
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=277a3b15454255c815d28dd1a18af061&txTime=69a2dbd8
 
 
 
