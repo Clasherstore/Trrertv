@@ -1,8 +1,21 @@
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 2", Live 1
 
+FEED JOKER DORTMUN VS MUNCHEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA JERMAN", DORTMUND VS MUNCHEN
+https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=73120561704eaf32e6811aa7682e6d3b&txTime=69a3029a
+FEED JOKER INTERMILAN VS GENOA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA ITALIA", INTER VS GENOA
+https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=73120561704eaf32e6811aa7682e6d3b&txTime=69a3029a
+
 
 Feed bang doel Barcelona vs Villareal
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA SPANYOL",Live Barcelona vs Villareal
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=277a3b15454255c815d28dd1a18af061&txTime=69a2dbd8
+Feed bang doel LEED vs MAN.CITY
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",LEED vs MAN. CITY
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=277a3b15454255c815d28dd1a18af061&txTime=69a2dbd8
+Feed bang doel Havre AC vs PSG
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA PRANCIS",HAVRE AC vs PSG
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=277a3b15454255c815d28dd1a18af061&txTime=69a2dbd8
 
 
