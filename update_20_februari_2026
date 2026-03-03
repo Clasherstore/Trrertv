@@ -1,43 +1,27 @@
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 2", Live 1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA ITALIA", INTER VS GENOA
-https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=817aaf8f851e717090aaf35efbf12ade&txTime=69a348ed
-
-
-Feed bang doel Havre AC vs PSG
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA PRANCIS",HAVRE AC vs PSG
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=cdb13ed9296ac9673911ed19fa71689f&txTime=69a34c5b
 
 
 
+=============================================
+ALWAN SPORT
 
-
-
+ALWAN SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 ALWAN SPORT 1 HD L1GA 1NGGRIS
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",Alwan Sport 1 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 
+
+ALWAN SPORT 1 (SERVER 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
 ALWAN SPORT 1 (SERVER 1) L1GA 1NGGRIS
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",Alwan Sport 1 SD (Server 1)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
 
 
-HUB PREMIER 1 (SERVER 1) LIGA 1NGGRIS
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="L1GA 1NGGRIS",HUB PREMIER 1 (Server 1)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
-
-HUB PREMIER 1 (SERVER 2) L1GA 1NGGRIS
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="L1GA 1NGGRIS",HUB PREMIER 1 (Server 2)
-https://7pal.short.gy/HPremier1
-
-=============================================
-ALWAN SPORT
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 HD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 SD (Server 1)
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 SD (Server 2)
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641624.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 2 HD
@@ -86,26 +70,15 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
 
 
 
-
 =====================÷===÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷33
 
 
 ANTV SPORTS
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mVLwvXW5/GIF-Image1766349820061.gif" group-title="SPORTS TV NASIONAL",ANTV SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mVLwvXW5/GIF-Image1766349820061.gif" group-title="#.SPORT PREMIUM",ANTV SPORTS
 https://wahyu1ptv.pages.dev/AnTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
 ANTV SPORTS LIGA ITALIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mVLwvXW5/GIF-Image1766349820061.gif" group-title="LIGA ITALIA",ANTV SPORTS
 https://wahyu1ptv.pages.dev/AnTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
-
-
-
-ARENA SPORTS 1
-#EXTINF:-1 group-title="#.SPORT PREMIUM",ARENA SPORTS 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
-ARENA SPORTS 1
-#EXTINF:-1 group-title="FA CUP",ARENA SPORTS 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
-
 
 
 BEIN SPORT 1
@@ -348,13 +321,6 @@ DD SPORTS 2.0 BULU TANGKIS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png" group-title="BADMINTON",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-ESPN 7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="#.SPORT PREMIUM", ESPN 7
-http://201.230.121.186:8000/play/a0dz/index.m3u8
-ESPN 7 LIGA JERMAN
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="LIGA JERMAN", ESPN 7
-http://201.230.121.186:8000/play/a0dz/index.m3u8
-
 
 EUROSPORT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -472,10 +438,18 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff
 
 HUB PREMIER
 
+HUB PREMIER 1 (SERVER 1)
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Hub Sports",HUB PREMIER 1 (Server 1)
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
+HUB PREMIER 1 (SERVER 1) LIGA AR53N4L
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="L1GA 1NGGRIS",HUB PREMIER 1 (Server 1)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
 
+HUB PREMIER 1 (SERVER 2)
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Hub Sports",HUB PREMIER 1 (Server 2)
+https://7pal.short.gy/HPremier1
+HUB PREMIER 1 (SERVER 2) L1GA 1NGGRIS
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="L1GA 1NGGRIS",HUB PREMIER 1 (Server 2)
 https://7pal.short.gy/HPremier1
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="Hub Sports",HUB PREMIER 3
@@ -671,6 +645,14 @@ SOCCER CHANNEL LIGA JERMAN
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+
+SONY TEN 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10" group-title="#.SPORT PREMIUM",SONY TEN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+SONY TEN 1 (LIGA CHAMPIONS)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10" group-title="#.SPORT PREMIUM",SONY TEN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
 SPORT TV 1
 #EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="#.SPORT PREMIUM", Sport.tv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
@@ -832,6 +814,30 @@ SOCCER CHANNEL
 #EXTINF:-1 tvg-id="Soccerchannel.id" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="#.SPORT PREMIUM",Soccer Channel
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+SONY TEN 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10" group-title="#.SPORT PREMIUM",SONY TEN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+SONY TEN 1 (LIGA CHAMPIONS)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10" group-title="LIGA CHAMPIONS",SONY TEN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+
+SONY TEN 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1gnQndipVVzLEAlN4Z9kZXM-9AkfJujhVkjUug_Xqg&s=10" group-title="#.SPORT PREMIUM",SONY TEN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+SONY TEN 2 (LIGA CHAMPIONS)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1gnQndipVVzLEAlN4Z9kZXM-9AkfJujhVkjUug_Xqg&s=10" group-title="LIGA CHAMPIONS",SONY TEN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+
+SONY TEN 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVTrEegxS7G9uvj0Q1mD3x5MC21ueSFzJYfBfrvZoA&s=10" group-title="#.SPORT PREMIUM",SONY TEN 3
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
+SONY TEN 3 (LIGA CHAMPIONS)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVTrEegxS7G9uvj0Q1mD3x5MC21ueSFzJYfBfrvZoA&s=10" group-title="LIGA CHAMPIONS",SONY TEN 3
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
 SPEED TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1008,11 +1014,6 @@ XTREAM SPORTS
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Extreme.sports.sk" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/xtreamsports.jpg" group-title="#.SPORT PREMIUM",XTREAM SPORTS
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
-
-
-
-
-
 
 
 
