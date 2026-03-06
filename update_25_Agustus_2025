@@ -1,5 +1,20 @@
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="" group-title="Indonesia Liga 2", Live 1
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA JERMAN",BAYERN VS GLADBACH
+https://bf.jabflive.com/live/322580_hd01.m3u8?txSecret=b9cbc7261c38cc6f7240b2050121a2dc&txTime=69ab2e23
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA PRANCIS",PSG VS AS MONACO
+https://bf.jabflive.com/live/5004994_hd01.m3u8?txSecret=aca2409f6290bcb68f4eae6d0ec68fb0&txTime=69ab3d98
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA SPANYOL",CELTA VIGO VS REAL MADRID
+https://bf.jabflive.com/live/322708_hd01.m3u8?txSecret=105b5da84472b1695f3d9c097cdfd64f&txTime=69ab362e
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="FA CUP",WOLVES VS LIVERPOOL
+https://bf.jabflive.com/live/322673_hd01.m3u8?txSecret=6839dbc3310e447f00061b30de01fd3c&txTime=69ab3c6f
+
 
 
 
