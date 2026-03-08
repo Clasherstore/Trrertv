@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",BAYERN VS GLADBACH
-http://195.128.26.171/live/play/Y0VkSFZXbE5PWFZzYkRWbGFYaG5lbTUyZGpoMGJGSndOblpWYm1wT1pVUndabnB0VGxCb2FrNXZNRDA9/276734
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",BAYERN
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="LIGA PRANCIS",PSG VS AS MONACO
