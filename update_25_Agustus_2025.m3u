@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/fongmitv/epg/main/EPG.xml"
+#EXTM3U
+x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+#EXTM3U url-tvg="https://bit.ly/pondan-epg,
+https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="1 ID 1
+DEVICE | SUBSCRIPTION : BASIC"
+#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://epg.v1.mk/fy.xml"
+refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html ,
+https://vod.pondan.workers.dev/dewanonton.json ,
+https://www.dropbox.com/scl/fi/x5hwcfzcii5yzrmivqwjg/RKH-movie.txt?
+rlkey=43hqbafl9pvf7lbpppk6ubxxm&st=zsor4flu&dl=1 ,
+https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="1 ID 1 DEVICE | SUBSCRIPTION
+: PREMIUM"
+#EXTINF:-1 group-title="",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
+index_5.m3u8?checkedby:iptvcat.net
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",BAYERN
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
