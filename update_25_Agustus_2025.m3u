@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://cdn.technadu.com/wp-content/uploads/2021/05/USANetwork-Logotype.jpg”, tvg-id=”ksport1hd” group-title=”Singapore Channel”, USA
-Network (West)
+#EXTINF:-1
+tvg-logo=”https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737″, tvg-id=”ksport1hd” group-title=”Singapore Channel”, NBC USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee56075
-9ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/
-master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
+#EXTINF:-1 group-title="Singapore Channel" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="452.unifi" tvglogo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW SG
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",BAYERN
