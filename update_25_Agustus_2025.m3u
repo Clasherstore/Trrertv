@@ -3,6 +3,14 @@
 
 #LIVE EVENT 10/03/2026
 
+20:30WIB BHAYANGKARA VS AREMA
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TQ7FW2pjCFVM05jTAaKxxFvnr-Fdwfp_hO5bbw_VSw&s" group-title="LIVE EVENT 10/03/2026",20:30WIB BHAYANGKARA VS AREMA
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+
 19:15 WIB BURIRAM VS MELBOURNE CITY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
