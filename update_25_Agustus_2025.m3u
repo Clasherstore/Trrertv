@@ -53,12 +53,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 20:30WIB BHAYANGKARA VS AREMA
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TQ7FW2pjCFVM05jTAaKxxFvnr-Fdwfp_hO5bbw_VSw&s" group-title="LIVE EVENT 10/03/2026",20:30WIB BHAYANGKARA VS AREMA
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
+https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=a59c0d00b6ec6637bdaff21bd769c0e8&txTime=69b018ec
 
 =============================================
 ALWAN SPORT
@@ -98,10 +94,9 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641621
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641627
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 5 HD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641622
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.me/Rochdi70sam/d3hm7lsqrh/1641622
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 5 SD (Server 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Se="ALWAN SPORT",Alwan Sport 5 SD (Server 1)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641628
 
 
