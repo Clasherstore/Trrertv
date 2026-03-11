@@ -1,60 +1,7 @@
 #EXTM3U
 
-#LIVE EVENT 11/03/2026
-
-16.00 WIB SWISS OPEN
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSQtrsDB16mOIbPozopHsNpIwx58g243Hxj5llEkYFbw&s=10" group-title="LIVE EVENT 11/03/2026",16.00 WIB SWISS OPEN
-https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299633472061_AiHD.m3u8?txSecret=91adff919689597ad3b75d423405217d&txTime=69B26470
-
-20.30 WIB PSIM VS PERSIJAP
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TQ7FW2pjCFVM05jTAaKxxFvnr-Fdwfp_hO5bbw_VSw&s" group-title="LIVE EVENT 11/03/2026",20.30 WIB PSIM VS PERSIJAP
-https://tfu34gr5domt1gc41hctogezdgqjpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=f56bef7bf4aa7288d3fe39aac3ca7d85&wsABSTime=1761932703&wsSession=355d292e7b296e9bc0e706c3-177323293577093&wsIPSercert=ccf31d6fdd6fb624f5fa0887ac21f3a0&wsiphost=local&wsBindIP=1
-==========================================================================================================
 
 #LIVE EVENT 12/03/2026
-
-00.45 WIB LEVERKUSEN VS ARSENAL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1280px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE EVENT 12/03/2026",00.45 WIB LEVERKUSEN VS ARSENAL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-03.00 WIB COVENTRY VS PRESTON
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqJFYyQUYSE9MgaFSvTlkNrB8hKvtg5C9Ig&s" group-title="LIVE EVENT 12/03/2026",03.00 WIB COVENTRY VS PRESTON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-03.00 WIB REAL MADRID VS MAN CITY
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1280px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE EVENT 12/03/2026",03.00 WIB REAL MADRID VS MAN CITY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-03.00 WIB BODO/GLIMT VS SPORTING
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1280px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE EVENT 12/03/2026",03.00 WIB BODO/GLIMT VS SPORTING
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-03.00 WIB PSG VS CHELSEA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1280px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE EVENT 12/03/2026",03.00 WIB PSG VS CHELSEA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 06.30 WIB NASHVILLE VS INTER MIAMI
 #EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/1000017364.png" group-title="LIVE EVENT 12/03/2026",06.30 WIB NASHVILLE VS INTER MIAMI
@@ -65,6 +12,12 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT:h0ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
+07.30 WIB TOLIMA VS O'HIGGINS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QLgjJXz2T_L0XmoHaHSOkfsNCNPQoznQuzZuGTSSz7JVbFxwq6BNH__FGr_5vSxPaaTHA-vf=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE EVENT 12/03/2026",07.30 WIB TOLIMA VS O'HIGGINS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 08.30 WIB LA GALAXY VS MOUNT PLEASANT
 #EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/1000017364.png" group-title="LIVE EVENT 12/03/2026",08.30 WIB LA GALAXY VS MOUNT PLEASANT
