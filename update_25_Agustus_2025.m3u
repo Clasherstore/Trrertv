@@ -63,7 +63,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/1000017364.png" group-title="LIVE EVENT 12/03/2026",06.30 WIB NASHVILLE VS INTER MIAMI
+08.30 WIB LA GALAXY VS MOUNT PLEASANT
+#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/1000017364.png" group-title="LIVE EVENT 12/03/2026",08.30 WIB LA GALAXY VS MOUNT PLEASANT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
