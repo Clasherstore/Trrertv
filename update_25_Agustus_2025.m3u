@@ -19,9 +19,12 @@ https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=a59c0d00b6ec6637bdaff21b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-02.45 WIB MIDDLESBROUGH VS CHARLTON
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqJFYyQUYSE9MgaFSvTlkNrB8hKvtg5C9Ig&s" group-title="LIVE EVENT 12/03/2026",02.45 WIB MIDDLESBROUGH VS CHARLTON
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+03.00 WIB COVENTRY VS PRESTON
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqJFYyQUYSE9MgaFSvTlkNrB8hKvtg5C9Ig&s" group-title="LIVE EVENT 12/03/2026",03.00 WIB COVENTRY VS PRESTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 03.00 WIB REAL MADRID VS MAN CITY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1280px-UEFA_Champions_League_logo_2.svg.png" group-title="LIVE EVENT 12/03/2026",03.00 WIB REAL MADRID VS MAN CITY
