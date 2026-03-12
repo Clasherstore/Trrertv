@@ -20,9 +20,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-00.45 WIB STUTTGART VS PORTO
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOOqGUfB5GsoBEX8ElkpZ6ZPUY4uXUg_uI0Pv-tU-Qg&s=10" group-title="LIVE EVENT 13/03/2026",00.45 WIB STUTTGART VS PORTO
-
 00.45 WIB BOLOGNA VS ROMA
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOOqGUfB5GsoBEX8ElkpZ6ZPUY4uXUg_uI0Pv-tU-Qg&s=10" group-title="LIVE EVENT 13/03/2026",00.45 WIB BOLOGNA VS ROMA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -31,6 +28,34 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+03.00 WIB FOREST VS MIDTJYLLAND
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOOqGUfB5GsoBEX8ElkpZ6ZPUY4uXUg_uI0Pv-tU-Qg&s=10" group-title="LIVE EVENT 13/03/2026",03.00 WIB FOREST VS MIDTJYLLAND
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+03.00 WIB CELTA VS LYON
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOOqGUfB5GsoBEX8ElkpZ6ZPUY4uXUg_uI0Pv-tU-Qg&s=10" group-title="LIVE EVENT 13/03/2026",03.00 WIB CELTA VS LYON
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+03.00 WIB CRYSTAL PALACE VS AEK LARNACA
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRK5k-VE2svExClLvw2mSduhGk8GB7zee8NWY-cKKutg&s" group-title="LIVE EVENT 13/03/2026",03.00 WIB CRYSTAL PALACE VS AEK LARNACA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 #LIVE EVENT 12/03/2026
 
