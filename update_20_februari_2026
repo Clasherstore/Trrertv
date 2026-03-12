@@ -1,16 +1,63 @@
 #EXTM3U
 
+#LIVE EVENT 13/03/2026
 
-#LIVE EVENT 12/03/2026
-
-06.30 WIB NASHVILLE VS INTER MIAMI
-#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/1000017364.png" group-title="LIVE EVENT 12/03/2026",06.30 WIB NASHVILLE VS INTER MIAMI
+00.45 WIB LILLE VS ASTON VILLA
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOOqGUfB5GsoBEX8ElkpZ6ZPUY4uXUg_uI0Pv-tU-Qg&s=10" group-title="LIVE EVENT 13/03/2026",00.45 WIB LILLE VS ASTON VILLA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-#EXTVLCOPT:h0ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+00.45 WIB STUTTGART VS PORTO
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOOqGUfB5GsoBEX8ElkpZ6ZPUY4uXUg_uI0Pv-tU-Qg&s=10" group-title="LIVE EVENT 13/03/2026",00.45 WIB STUTTGART VS PORTO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+00.45 WIB BOLOGNA VS ROMA
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOOqGUfB5GsoBEX8ElkpZ6ZPUY4uXUg_uI0Pv-tU-Qg&s=10" group-title="LIVE EVENT 13/03/2026",00.45 WIB BOLOGNA VS ROMA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+03.00 WIB FOREST VS MIDTJYLLAND
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOOqGUfB5GsoBEX8ElkpZ6ZPUY4uXUg_uI0Pv-tU-Qg&s=10" group-title="LIVE EVENT 13/03/2026",03.00 WIB FOREST VS MIDTJYLLAND
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+03.00 WIB CELTA VS LYON
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOOqGUfB5GsoBEX8ElkpZ6ZPUY4uXUg_uI0Pv-tU-Qg&s=10" group-title="LIVE EVENT 13/03/2026",03.00 WIB CELTA VS LYON
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+03.00 WIB CRYSTAL PALACE VS AEK LARNACA
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRK5k-VE2svExClLvw2mSduhGk8GB7zee8NWY-cKKutg&s" group-title="LIVE EVENT 13/03/2026",03.00 WIB CRYSTAL PALACE VS AEK LARNACA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#LIVE EVENT 12/03/2026
 
 07.30 WIB TOLIMA VS O'HIGGINS
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QLgjJXz2T_L0XmoHaHSOkfsNCNPQoznQuzZuGTSSz7JVbFxwq6BNH__FGr_5vSxPaaTHA-vf=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE EVENT 12/03/2026",07.30 WIB TOLIMA VS O'HIGGINS
@@ -19,24 +66,30 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-08.30 WIB LA GALAXY VS MOUNT PLEASANT
-#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/1000017364.png" group-title="LIVE EVENT 12/03/2026",08.30 WIB LA GALAXY VS MOUNT PLEASANT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+19.15 WIB TAMPINES ROVERS VS BANGKOK UTD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYl4vyLkh5yknPbKXKkYO-Ro72uHwVmzHvPg3KxTq7g&s=10" group-title="LIVE EVENT 12/03/2026",19.15 WIB TAMPINES ROVERS VS BANGKOK UTD
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-10.30 WIB SAN DIEGO FC VS TOLUCA
-#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/1000017364.png" group-title="LIVE EVENT 12/03/2026",08.30 WIB LA GALAXY VS MOUNT PLEASANT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+19.30 WIB DEWA UTD VS MANILA DIGGER FC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="Soccerchannel.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5MCJcWWZ-HyZSSJfmdrlPvOiPxzXIsQyRT8sc1PGUWA&s=10" group-title="LIVE EVENT 12/03/2026",19.30 WIB DEWA UTD VS MANILA DIGGER FC
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+19.30 WIB PERSIS VS BALI UTD
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncZueFzWsbLR3dr70JFN3EbB75-SYYg5UeTxMdwL_zw&s" group-title="LIVE EVENT 12/03/2026",19.30 WIB PERSIS VS BALI UTD
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 =============================================
 ALWAN SPORT
