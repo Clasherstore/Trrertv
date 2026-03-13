@@ -1,5 +1,16 @@
 #EXTM3U
 
+LIVE EVENT 14/03/2026
+
+15.00 WIB BRISBANE ROAR VS WESTERN SYDNEY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Liga_Pro_Saudi_logo.png" group-title="LIVE EVENT 14/03/2026",02.00 WIB AL-QADSIAH VS AL-AHLI
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+=====================
 
 LIVE EVENT 13/03/2026
 
