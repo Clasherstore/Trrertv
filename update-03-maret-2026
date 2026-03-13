@@ -42,6 +42,15 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBinfiO-Ye1VDU8Rm2R7QlGqm_jKF727O9w&s" group-title="LIVE EVENT 14/03/2026",02.30 WIB M'GLADBACH VS ST. PAULI
 http://77.46.130.252:99/maxsport3
 
+03.00 WIB ALAVES VS VILLAREAL
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKH2XO2vag0LiNfOiArKY92wyfbKFUzSXoIA&s" group-title="LIVE EVENT 14/03/2026", 03.00 WIB ALAVES VS VILLAREAL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
 =====================
 
 LIVE EVENT 13/03/2026
