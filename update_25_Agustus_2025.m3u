@@ -2,6 +2,14 @@
 
 
 LIVE EVENT 15/03/2026
+
+00.00 WIB NAPOLI VS LECCE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBinfiO-Ye1VDU8Rm2R7QlGqm_jKF727O9w&s" group-title="LIVE EVENT 15/03/2026",00.00 WIB NAPOLI VS LECCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
 00.30 WIB ARSENAL VS EVERTON
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdSf5gn3oMTABdA0bCEx2WcYJi6oEufvKPypuSvUihQ&s=10" group-title="LIVE EVENT 15/03/2026",00.30 WIB ARSENAL VS EVERTON
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
@@ -12,6 +20,13 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+02.45 WIB UDINESE VS JUVENTUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBinfiO-Ye1VDU8Rm2R7QlGqm_jKF727O9w&s" group-title="LIVE EVENT 15/03/2026",02.45 UDINESE VS JUVENTUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 03.00 WIB WEST HAM VS MAN CITY
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdSf5gn3oMTABdA0bCEx2WcYJi6oEufvKPypuSvUihQ&s=10" group-title="LIVE EVENT 15/03/2026",03.00 WIB WEST HAM VS MAN. CITY
