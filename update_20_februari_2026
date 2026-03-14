@@ -1,18 +1,28 @@
 #EXTM3U
 
-LIVE EVENT 14/03/2026
 
-00.00 WIB KARAGUMRUK VS FENERBAHCE
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="LIVE EVENT 14/03/2026", 00.00 WIB KARAGUMRUK VS FENERBAHCE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+LIVE EVENT 15/03/2026
+
+00.00 WIB NAPOLI VS LECCE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBinfiO-Ye1VDU8Rm2R7QlGqm_jKF727O9w&s" group-title="LIVE EVENT 15/03/2026",00.00 WIB NAPOLI VS LECCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-01.00 WIB SUNDOWNS VS STADE MALIEN
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKH2XO2vag0LiNfOiArKY92wyfbKFUzSXoIA&s" group-title="LIVE EVENT 14/03/2026", 01.00 WIB SUNDOWNS VS STADE MALIEN
+00.30 WIB ARSENAL VS EVERTON
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdSf5gn3oMTABdA0bCEx2WcYJi6oEufvKPypuSvUihQ&s=10" group-title="LIVE EVENT 15/03/2026",00.30 WIB ARSENAL VS EVERTON
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
+
+00.30 WIB CHELSEA VS NEWCASTLE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdSf5gn3oMTABdA0bCEx2WcYJi6oEufvKPypuSvUihQ&s=10" group-title="LIVE EVENT 15/03/2026",00.30 WIB CHELSEA VS NEWCASTLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+00.30 WIB REAL OVIEDO VS VALENCIA
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwi-OZx6kWmunmnvIQgjkYMl3bWzNexNB5EajZTHUig&s=10" group-title="LIVE EVENT 15/03/2026",00.30 WIB REAL OVIEDO VS VALENCIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,50 +30,76 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-
-02.00 WIB AL-QADSIAH VS AL-AHLI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+02.45 WIB UDINESE VS JUVENTUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBinfiO-Ye1VDU8Rm2R7QlGqm_jKF727O9w&s" group-title="LIVE EVENT 15/03/2026",02.45 WIB UDINESE VS JUVENTUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Liga_Pro_Saudi_logo.png" group-title="LIVE EVENT 14/03/2026",02.00 WIB AL-QADSIAH VS AL-AHLI
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-02.30 WIB M'GLADBACH VS ST. PAULI
+03.00 WIB WEST HAM VS MAN CITY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdSf5gn3oMTABdA0bCEx2WcYJi6oEufvKPypuSvUihQ&s=10" group-title="LIVE EVENT 15/03/2026",03.00 WIB WEST HAM VS MAN. CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+03.00 WIB REAL MADRID VS ELCHE
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwi-OZx6kWmunmnvIQgjkYMl3bWzNexNB5EajZTHUig&s=10" group-title="LIVE EVENT 15/03/2026",03.00 WIB REAL MADRID VS ELCHE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+=======================
+
+LIVE EVENT 14/03/2026
+
+21.00 WIB INTER VS ATALANTA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBinfiO-Ye1VDU8Rm2R7QlGqm_jKF727O9w&s" group-title="LIVE EVENT 14/03/2026",21.00 WIB INTER VS ATALANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+21.00 WIB NAPOLI (W) VS LAZIO (W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="WSport.my" tvg-name="WSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrrZ8h4P48b5jCqsLIR6-wdk2mensZ4G-NJvYjAeMLNg&s=10" group-title="LIVE EVENT 14/03/2026",21.00 WIB NAPOLI (W) VS LAZIO (W)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+
+21.30 WIB LEVERKUSEN VS BAYERN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jGl4JDtii4CvTigG2vAIHClpJy6lZf8F6A&s" group-title="LIVE EVENT 14/03/2026",02.30 WIB M'GLADBACH VS ST. PAULI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS550bNUhspIToIN8rNPeD4tb5WDB5jyx4LALFwFjHW-A&s=10" group-title="LIVE EVENT 14/03/2026",21.30 WIB LEVERKUSEN VS BAYERN
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-02.45 WIB TORINO VS PARMA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBinfiO-Ye1VDU8Rm2R7QlGqm_jKF727O9w&s" group-title="LIVE EVENT 14/03/2026",02.30 WIB 02.45 WIB TORINO VS PARMA
-http://77.46.130.252:99/maxsport3
-
-03.00 WIB ALAVES VS VILLAREAL
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ157bazeHVrTqhMy5hl5HR2-_81U0PoQOnnw&s" group-title="LIVE EVENT 14/03/2026", 03.00 WIB ALAVES VS VILLAREAL
+22.15 WIB ATL. MADRID VS GETAFE
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwi-OZx6kWmunmnvIQgjkYMl3bWzNexNB5EajZTHUig&s=10" group-title="LIVE EVENT 14/03/2026",22.15 WIB ATL. MADRID VS GETAFE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-
-=====================
-
-LIVE EVENT 13/03/2026
-
-15.00 WIB BRISBANE ROAR VS WESTERN SYDNEY
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+22.30 WIB VOLENDAM VS FORTUNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1H4HQKiyClq6ZjXoaVJL88VmJUyY1DwbFg&s" group-title="LIVE EVENT 13/03/2026",15.00 WIB BRISBANE ROAR VS WESTERN SYDNEY
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWRK4DIzbHklU7XAhNJcLzLj2zHlzdZjkX0QOkizASg&s=10" group-title="LIVE EVENT 14/03/2026",22.30 WIB VOLENDAM VS FORTUNA
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
-=============================================
+
+============================================
 ALWAN SPORT
 
 ALWAN SPORT 1 HD
