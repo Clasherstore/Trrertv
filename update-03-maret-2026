@@ -90,10 +90,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 22.30 WIB VOLENDAM VS FORTUNA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWRK4DIzbHklU7XAhNJcLzLj2zHlzdZjkX0QOkizASg&s=10" group-title="LIVE EVENT 14/03/2026",22.30 WIB VOLENDAM VS FORTUNA
 https://bf.jabflive.com/live/5004449_hd01.m3u8?txSecret=eaccf06ecef700fb2dea8ba2ab688f84&txTime=69b5766a
 
