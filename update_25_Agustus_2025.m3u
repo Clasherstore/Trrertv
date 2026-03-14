@@ -64,6 +64,13 @@ LIVE EVENT 14/03/2026
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
+21.00 WIB NAPOLI (W) VS LAZIO (W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="WSport.my" tvg-name="WSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrrZ8h4P48b5jCqsLIR6-wdk2mensZ4G-NJvYjAeMLNg&s=10" group-title="LIVE EVENT 14/03/2026",21.00 WIB NAPOLI (W) VS LAZIO (W)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+
 21.30 WIB LEVERKUSEN VS BAYERN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
