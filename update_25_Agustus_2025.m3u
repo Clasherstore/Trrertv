@@ -11,6 +11,11 @@ https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773531578-0-0-25b1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkMen7orSRNoVy-eQLZcExHCln04u4IBsPuu-TLfwgw&s=10" group-title="LIVE EVENT 15/03/2026",20.30 WIB PERSIJA VS DEWA UNITED
 https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773531578-0-0-25b1079612938e7931402100d2b76be9
 
+20.30 WIB FEYENOORD VS EXCELSIOR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWRK4DIzbHklU7XAhNJcLzLj2zHlzdZjkX0QOkizASg&s=10" group-title="LIVE EVENT 15/03/2026",20.30 WIB FEYENOORD VS EXCELSIOR
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773531578-0-0-25b1079612938e7931402100d2b76be9
+
+
 00.30 WIB CHELSEA VS NEWCASTLE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdSf5gn3oMTABdA0bCEx2WcYJi6oEufvKPypuSvUihQ&s=10" group-title="LIVE EVENT 15/03/2026",00.30 WIB CHELSEA VS NEWCASTLE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
