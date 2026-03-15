@@ -1,6 +1,25 @@
 #EXTM3U
 
 
+
+LIVE EVENT 16/03/2026
+
+00.00 WIB COMO VS ROMA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Qi3wIjYbxgTscCRnfMeag5W_qU3I5qV1UxCYrJHpLA&s=10" group-title="LIVE EVENT 16/03/2026",00.00 WIB COMO VS ROMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+00.00 WIB LAZIO VS MILAN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Qi3wIjYbxgTscCRnfMeag5W_qU3I5qV1UxCYrJHpLA&s=10" group-title="LIVE EVENT 16/03/2026",00.00 WIB COMO VS ROMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+===========≈=========
+
 LIVE EVENT 15/03/2026
 
 18.30 WIB VERONA VS GENOA
