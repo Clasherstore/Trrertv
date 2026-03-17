@@ -1,62 +1,46 @@
 #EXTM3U
 
 
+LIVE EVENT 18/03/2026
 
-LIVE EVENT 16/03/2026
-
-00.00 WIB COMO VS ROMA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Qi3wIjYbxgTscCRnfMeag5W_qU3I5qV1UxCYrJHpLA&s=10" group-title="LIVE EVENT 16/03/2026",00.00 WIB COMO VS ROMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+00.45 WIB SPORTING VS BODO/GLIMT
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3orWkTnba6lceVTxXsxkYFleMnDVqFoopCsl29n4-A&s=10" group-title="LIVE EVENT 18/03/2026", 00.45 WIB SPORTING VS BODO/GLIMT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-00.00 WIB LAZIO VS MILAN
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Qi3wIjYbxgTscCRnfMeag5W_qU3I5qV1UxCYrJHpLA&s=10" group-title="LIVE EVENT 16/03/2026",00.00 WIB COMO VS ROMA
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+03.00 WIB CHELSEA VS PSG
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3orWkTnba6lceVTxXsxkYFleMnDVqFoopCsl29n4-A&s=10" group-title="LIVE EVENT 18/03/2026", 03.00 WIB CHELSEA VS PSG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-===========≈=========
-
-LIVE EVENT 15/03/2026
-
-18.30 WIB VERONA VS GENOA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Qi3wIjYbxgTscCRnfMeag5W_qU3I5qV1UxCYrJHpLA&s=10" group-title="LIVE EVENT 15/03/2026",18.30 WIB VERONA VS GENOA
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+03.00 WIB MAN. CITY VS REAL MADRID
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3orWkTnba6lceVTxXsxkYFleMnDVqFoopCsl29n4-A&s=10" group-title="LIVE EVENT 18/03/2026", 03.00 WIB MAN. CITY VS REAL MADRID
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-20.30 WIB BORNEO VS PERSIB
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkMen7orSRNoVy-eQLZcExHCln04u4IBsPuu-TLfwgw&s=10" group-title="LIVE EVENT 15/03/2026",20.30 WIB BORNEO VS PERSIB
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773531578-0-0-25b1079612938e7931402100d2b76be9
-
-20.30 WIB PERSIJA VS DEWA UNITED
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkMen7orSRNoVy-eQLZcExHCln04u4IBsPuu-TLfwgw&s=10" group-title="LIVE EVENT 15/03/2026",20.30 WIB PERSIJA VS DEWA UNITED
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773531578-0-0-25b1079612938e7931402100d2b76be9
-
-20.30 WIB FEYENOORD VS EXCELSIOR
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWRK4DIzbHklU7XAhNJcLzLj2zHlzdZjkX0QOkizASg&s=10" group-title="LIVE EVENT 15/03/2026",20.30 WIB FEYENOORD VS EXCELSIOR
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773531578-0-0-25b1079612938e7931402100d2b76be9
-
-
-21.00 WIB MAN. UTD VS ASTON VILLA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdSf5gn3oMTABdA0bCEx2WcYJi6oEufvKPypuSvUihQ&s=10" group-title="LIVE EVENT 15/03/2026",21.00 WIB MAN. UTD VS ASTON VILLA
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
-
-21.00 WIB SASSUOLO VS BOLOGNA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Qi3wIjYbxgTscCRnfMeag5W_qU3I5qV1UxCYrJHpLA&s=10" group-title="LIVE EVENT 15/03/2026",21.00 WIB SASSUOLO VS BOLOGNA
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+03.00 WIB ARSENAL VS LEVERKUSEN
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3orWkTnba6lceVTxXsxkYFleMnDVqFoopCsl29n4-A&s=10" group-title="LIVE EVENT 18/03/2026", 03.00 WIB ARSENAL VS LEVERKUSEN
+https://raw.githubusercontent.com/Clasherstore/Trrertv/refs/heads/main/update_25_Agustus_2025.m3u#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-23.30 WIB LIVERPOOL VS TOTTENHAM
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdSf5gn3oMTABdA0bCEx2WcYJi6oEufvKPypuSvUihQ&s=10" group-title="LIVE EVENT 15/03/2026",23.30 WIB LIVERPOOL VS TOTTENHAM
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
+
 
 
 ============================================
