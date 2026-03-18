@@ -4,8 +4,8 @@
 
 LIVE EVENT 19 MARET 2026
 
-00.45 WIB SPORTING VS BODO/GLIMT
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3orWkTnba6lceVTxXsxkYFleMnDVqFoopCsl29n4-A&s=10" group-title="LIVE EVENT 19 MARET 2026", 00.45 WIB SPORTING VS BODO/GLIMT
+00.45 WIB BARCELONA VS NEWCASTLE
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3orWkTnba6lceVTxXsxkYFleMnDVqFoopCsl29n4-A&s=10" group-title="LIVE EVENT 19 MARET 2026", 00.45 WIB BARCELONA VS NEWCASTLE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13,7 +13,7 @@ LIVE EVENT 19 MARET 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-03.00 WIB CHELSEA VS PSG
+03.00 WIB LIVERPOOL VS GALATASARAAY
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3orWkTnba6lceVTxXsxkYFleMnDVqFoopCsl29n4-A&s=10" group-title="LIVE EVENT 18/03/2026", 03.00 WIB CHELSEA VS PSG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
