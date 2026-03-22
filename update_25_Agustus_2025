@@ -4,51 +4,18 @@
 
 LIVE EVENT 22 MARET 2026
 
-00:00 WIB Milan vs Torino
-#EXTINF:-1 tvg-logo="https://www.k-vision.tv/uploads/2021/10/94458135.png" group-title="LIVE EVENT 22 MARET 2026",00:00 WIB Milan vs Torino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+20:00 WIB Barcelona vs Rayo Vallecano
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMYN-gVKhOjmMtMdJtlbRmsIT91HLlTHqog&s" group-title="LIVE EVENT 22 MARET 2026", 20:00 WIB Barcelona vs Rayo Vallecano
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-
-00:30 WIB Everton vs Chelsea WIB
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/1280px-Premier_League_Logo.svg.png" group-title="LIVE EVENT 22 MARET 2026",00:30 WIB Everton vs Chelsea
+21:15 WIB Tottenham Hotspur vs Nottingham Forest
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVBP7f2WOuM5MlTMW7CeTj_eqxVRf3Tz_6A&s" group-title="LIVE EVENT 22 MARET 2026",21:15 WIB Tottenham Hotspur vs Nottingham Forest
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
-
-02:45 WIB Juventus vs Sassuolo
-#EXTINF:-1 tvg-logo="https://www.k-vision.tv/uploads/2021/10/94458135.png" group-title="LIVE EVENT 22 MARET 2026",02:45 WIB Juventus vs Sassuolo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-03:05 WIB Nice vs PSG
-#EXTINF:-1 tvg-logo="https://www.k-vision.tv/uploads/2021/10/94458135.png" group-title="LIVE EVENT 22 MARET 2026",03:05 WIB Nice vs PSG
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1774129239-0-0-9313e03248d07f9bdf52e3fafba36c5c
-
-
-========================================================================================
-LIVE EVENT 21 MARET 2026
-
-19.45 WIB Brighton & Hove Albion vs Liverpool
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/1280px-Premier_League_Logo.svg.png" group-title="LIVE EVENT 21 MARET 2026",19.45 WIB Brighton & Hove Albion vs Liverpool
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774106259-0-0-52ee9a61218305e7be4a11292491a6b3
-
-21:30 WIB Heidenheim vs Bayer Leverkusen
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/Bundesliga_Logo_%282017%29.svg" group-title="LIVE EVENT 21 MARET 2026",21:30 WIB Heidenheim vs Bayer Leverkusen
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-21:30 WIB Bayern München vs Union Berlin
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/Bundesliga_Logo_%282017%29.svg" group-title="LIVE EVENT 21 MARET 2026",21:30 WIB Bayern München vs Union Berlin
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=7732a0e5258ed6b1f81a4d7248f500b0&txTime=69bf058f
 
 
 =============================================
