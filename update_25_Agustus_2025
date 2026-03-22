@@ -19,7 +19,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 03.00 WIB Real Madrid vs Atletico Madrid
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMYN-gVKhOjmMtMdJtlbRmsIT91HLlTHqog&s" group-title="LIVE EVENT 22 MARET 2026", 03.00 WIB Real Madrid vs Atletico Madrid
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMYN-gVKhOjmMtMdJtlbRmsIT91HLlTHqog&s" group-title="LIVE EVENT 23 MARET 2026", 03.00 WIB Real Madrid vs Atletico Madrid
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
