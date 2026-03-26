@@ -1,61 +1,14 @@
 #EXTM3U
 
-LIVE EVENT 23 MARET 2026
+LIVE EVENT 27 MARET 2026
 
-00:00 WIB Roma VS Lecce
-#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 23 MARET 2026",00:00 WIB Roma VS Lecce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+00:00 WIB TURKI VS RUMANIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed97084
-0a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-02.45 WIB Fiorentina vs Inter Milan
-#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 23 MARET 2026",02.45 WIB Fiorentina vs Inter Milan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed97084
-0a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-03.00 WIB Real Madrid vs Atletico Madrid
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMYN-gVKhOjmMtMdJtlbRmsIT91HLlTHqog&s" group-title="LIVE EVENT 23 MARET 2026", 03.00 WIB Real Madrid vs Atletico Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-==========================
-
-LIVE EVENT 22 MARET 2026
-
-20:00 WIB Barcelona vs Rayo Vallecano
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMYN-gVKhOjmMtMdJtlbRmsIT91HLlTHqog&s" group-title="LIVE EVENT 22 MARET 2026", 20:00 WIB Barcelona vs Rayo Vallecano
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-21:15 WIB Tottenham Hotspur vs Nottingham Forest
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVBP7f2WOuM5MlTMW7CeTj_eqxVRf3Tz_6A&s" group-title="LIVE EVENT 22 MARET 2026",21:15 WIB Tottenham Hotspur vs Nottingham Forest
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
-
-22:00 WIB MotoGP
-#EXTINF:-1 tvg-id="SUKAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUm8NJFC6br0Nw5z_uS1zMsejWqkQiGWiPDV_O7PAOkaz_w3ZTVV8Rtng&s=10" group-title="LIVE EVENT 22 MARET 2026",22:00 WIB LIVE MotoGP
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
-
-23:30 WIB Arsenal vs Manchester City
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png" group-title="LIVE EVENT 22 MARET 2026",23:30 WIB Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://cdn1.katadata.co.id/media/images/thumb/2025/11/13/Jadwal_Kualifikasi_Piala_Dunia_2026_Zona_Eropa-2025_11_13-19_07_59_9b6656a6a13e38074a9f795399bca9b0_960x640_thumb.jpg" group-title="LIVE EVENT 27 MARET 2026", 00:00 WIB TURKI VS RUMANIA
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 =============================================
