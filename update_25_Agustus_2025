@@ -2,72 +2,9 @@
 
 LIVE EVENT 27 MARET 2026
 
-00:00 WIB TURKI VS RUMANIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://cdn1.katadata.co.id/media/images/thumb/2025/11/13/Jadwal_Kualifikasi_Piala_Dunia_2026_Zona_Eropa-2025_11_13-19_07_59_9b6656a6a13e38074a9f795399bca9b0_960x640_thumb.jpg" group-title="LIVE EVENT 27 MARET 2026", 00:00 WIB TURKI VS RUMANIA
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+15:30 WIB Persikad Depok FC vs Persekat 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 27 MARET 2026",15:30 WIB Persikad Depok FC vs Persekat 
 
-02.45 WIB Republik Ceko vs Republik Irlandia
-#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://cdn1.katadata.co.id/media/images/thumb/2025/11/13/Jadwal_Kualifikasi_Piala_Dunia_2026_Zona_Eropa-2025_11_13-19_07_59_9b6656a6a13e38074a9f795399bca9b0_960x640_thumb.jpg" group-title="LIVE EVENT 27 MARET 2026", 02.45 WIB Republik Ceko vs Republik Irlandia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-
-
-02.45 WIB DENMARK VS MAKEDONIA UTARA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://cdn1.katadata.co.id/media/images/thumb/2025/11/13/Jadwal_Kualifikasi_Piala_Dunia_2026_Zona_Eropa-2025_11_13-19_07_59_9b6656a6a13e38074a9f795399bca9b0_960x640_thumb.jpg" group-title="LIVE EVENT 27 MARET 2026", 02.45 WIB DENMARK VS MAKEDONIA UTARA
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-02.45 WIB ITALIA VS IRLANDIA UTARA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://cdn1.katadata.co.id/media/images/thumb/2025/11/13/Jadwal_Kualifikasi_Piala_Dunia_2026_Zona_Eropa-2025_11_13-19_07_59_9b6656a6a13e38074a9f795399bca9b0_960x640_thumb.jpg" group-title="LIVE EVENT 27 MARET 2026", 02.45 WIB ITALIA VS IRLANDIA UTARA
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-02.45 WIB POLANDIA VS ALBANIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://cdn1.katadata.co.id/media/images/thumb/2025/11/13/Jadwal_Kualifikasi_Piala_Dunia_2026_Zona_Eropa-2025_11_13-19_07_59_9b6656a6a13e38074a9f795399bca9b0_960x640_thumb.jpg" group-title="LIVE EVENT 27 MARET 2026", 02.45 WIB POLANDIA VS ALBANIA
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-02.45 WIB UKRAINA VS SWEDIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://cdn1.katadata.co.id/media/images/thumb/2025/11/13/Jadwal_Kualifikasi_Piala_Dunia_2026_Zona_Eropa-2025_11_13-19_07_59_9b6656a6a13e38074a9f795399bca9b0_960x640_thumb.jpg" group-title="LIVE EVENT 27 MARET 2026", 02.45 WIB UKRAINA VS SWEDIA
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-02.45 WIB WALES VS BOSNIA HERZEGOVINA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://cdn1.katadata.co.id/media/images/thumb/2025/11/13/Jadwal_Kualifikasi_Piala_Dunia_2026_Zona_Eropa-2025_11_13-19_07_59_9b6656a6a13e38074a9f795399bca9b0_960x640_thumb.jpg" group-title="LIVE EVENT 27 MARET 2026", 02.45 WIB WALES VS BOSNIA HERZEGOVINA
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-03:00 WIB BRAZIL VS PRANCIS
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10" group-title="LIGA CHAMPIONS",SONY TEN 1
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
 =============================================
 ALWAN SPORT
