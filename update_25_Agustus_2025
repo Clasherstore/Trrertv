@@ -1,11 +1,18 @@
 #EXTM3U
 
+LIVE EVENT 28 MARET 2026
+
+02:45 WIB Swiss vs Jerman
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt3ofqZReVv5tZedzDMK4ASLVI50k4OR5a0Q&s" group-title="LIVE EVENT 28 MARET 2026",02:45 WIB Swiss vs Jerman
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+=========================
 LIVE EVENT 27 MARET 2026
-
-15:30 WIB Persikad Depok FC vs Persekat 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 27 MARET 2026", 15:30 WIB Persikad Depok FC vs Persekat 
-https://live3.procdnlive.com/livecdn/channel63.m3u8?auth_key=3000001774601435-0-0-afce7a5d2fb3202180054e9095f8b514
-
 
 20:00 WIB Indonesia vs St. Kitts And Nevis
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzg3JFQXIdS7PBy9W69jjqCpIqH_Ah__WkRz6-2O4UrRRcXkwny5begt5Q&s=10" group-title="LIVE EVENT 27 MARET 2026", 20:00 WIB Indonesia vs St. Kitts And Nevis
