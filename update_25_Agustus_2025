@@ -1,9 +1,9 @@
 #EXTM3U
 
-LIVE EVENT 29 MARET 2026
+LIVE EVENT 30 MARET 2026
 
-08:00 WIB Mexico vs Portugal
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-a3SQSORCmo4pgAi441cz0z9_Kc9cBo9VqeRu8EwIbA&s=10" group-title="LIVE EVENT 29 MARET 2026", 08:00 WIB Mexico vs Portugal
+20:00 WIB Indonesia vs Bulgaria
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79o5g465JuZgreEMj9yrEsmON2Dpgf1rqlg&s" group-title="LIVE EVENT 30 MARET 2026", 20:00 WIB Indonesia vs Bulgaria
 https://live5.msrktz.app/live/02456966.m3u8
 
 
