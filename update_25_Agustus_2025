@@ -37,6 +37,15 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+22:00 WIB Ceko U-21 vs Gibraltar U-21
+#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJwekd2TvRj19v2ob7N76q3Z-1xtSymiFjA&s" group-title="LIVE EVENT 31 MARET 2026", 22:00 WIB Ceko U-21 vs Gibraltar U-21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
 =============================================
 ALWAN SPORT
