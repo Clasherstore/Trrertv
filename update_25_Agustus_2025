@@ -6,6 +6,19 @@ LIVE EVENT 30 MARET 2026
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79o5g465JuZgreEMj9yrEsmON2Dpgf1rqlg&s" group-title="LIVE EVENT 30 MARET 2026", 20:00 WIB Indonesia vs Bulgaria
 https://live5.msrktz.app/live/02456966.m3u8
 
+===========================================================================================================================================
+
+LIVE EVENT 31 MARET 2026
+
+01:45 WIB Jerman vs Ghana
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdn.footystats.org/img/competitions/international-international-friendlies.png" group-title="LIVE EVENT 31 MARET 2026", 01:45 WIB Jerman vs Ghana
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 
 =============================================
 ALWAN SPORT
