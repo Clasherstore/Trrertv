@@ -18,9 +18,7 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/75005
 
 01.45 WIB Kosovo vs Turki
 #EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMzejsAV5RKliDVIIDswc_nZwQAmm-OPTjdazrrUAxQElnlBebBjWgxnr&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01.45 WIB KOSOVO VS TURKI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1774987660-0-0-847e14ac8603e981fccb79614171d2ac
 
 01:45 WIB Bosnia Herzegovina vs Italia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,6 +45,11 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMzejsAV5RKliDVIIDswc_nZwQAmm-OPTjdazrrUAxQElnlBebBjWgxnr&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01:45 WIB Republik Ceko vs Denmark
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+02.00 WIB Spanyol vs Mesir
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 02.00 WIB Spanyol vs Mesir
+https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1774987960-0-0-1f4b0625945ce5d5e21d0d68a401a3aa
+
 
 =============================================
 ALWAN SPORT
