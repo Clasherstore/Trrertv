@@ -1,61 +1,54 @@
 #EXTM3U
 
-LIVE EVENT 30 MARET 2026
+LIVE EVENT 01 April 2026
 
-20:00 WIB Indonesia vs Bulgaria
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79o5g465JuZgreEMj9yrEsmON2Dpgf1rqlg&s" group-title="LIVE EVENT 30 MARET 2026", 20:00 WIB Indonesia vs Bulgaria
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1774879480-0-0-3b96da2469b665215803a370f306d414
+01:45 WIB Belanda vs Ekuador
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01:45 WIB Belanda vs Ekuador 
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-23:00 WIB Siprus vs Moldova
+01.45 WIB Inggris vs Jepang
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01.45 WIB Inggris vs Jepang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/75005
+
+01.45 WIB Kosovo vs Turki
+#EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMzejsAV5RKliDVIIDswc_nZwQAmm-OPTjdazrrUAxQElnlBebBjWgxnr&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01.45 WIB KOSOVO VS TURKI
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1774987660-0-0-847e14ac8603e981fccb79614171d2ac
+
+01:45 WIB Bosnia Herzegovina vs Italia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMzejsAV5RKliDVIIDswc_nZwQAmm-OPTjdazrrUAxQElnlBebBjWgxnr&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01:45 WIB Bosnia Herzegovina vs Italia
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+01:45 WIB Swedia vs Polandia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTINF:-1 tvg-logo="https://cdn.footystats.org/img/competitions/international-international-friendlies.png" group-title="LIVE EVENT 30 MARET 2026", 23:00 WIB Siprus vs Moldova
+#EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMzejsAV5RKliDVIIDswc_nZwQAmm-OPTjdazrrUAxQElnlBebBjWgxnr&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01:45 WIB Swedia vs Polandia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-===========================================================================================================================================
-
-LIVE EVENT 31 MARET 2026
-
-01:45 WIB Jerman vs Ghana
+01:45 WIB Republik Ceko vs Denmark
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://cdn.footystats.org/img/competitions/international-international-friendlies.png" group-title="LIVE EVENT 31 MARET 2026", 01:45 WIB Jerman vs Ghana
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMzejsAV5RKliDVIIDswc_nZwQAmm-OPTjdazrrUAxQElnlBebBjWgxnr&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01:45 WIB Republik Ceko vs Denmark
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-19:00 WIB Kazakhstan vs Comoros
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://cdn.footystats.org/img/competitions/international-international-friendlies.png" group-title="LIVE EVENT 31 MARET 2026", 19:00 WIB Kazakhstan vs Comoros
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-22:00 WIB Ceko U-21 vs Gibraltar U-21
-#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJwekd2TvRj19v2ob7N76q3Z-1xtSymiFjA&s" group-title="LIVE EVENT 31 MARET 2026", 22:00 WIB Ceko U-21 vs Gibraltar U-21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-
-
-
-
-
-
-
-
-
-
+02.00 WIB Spanyol vs Mesir
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 02.00 WIB Spanyol vs Mesir
+https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1774987960-0-0-1f4b0625945ce5d5e21d0d68a401a3aa
 
 
 
