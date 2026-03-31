@@ -2,14 +2,9 @@
 
 LIVE EVENT 01 April 2026
 
-01:45 WIB Belanda vs Ekuador
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01:45 WIB Belanda vs Ekuador 
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+06:00 WIB US Amerika vs Portugal
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 06:00 WIB US AMERIKA VS PORTUGAL 
+https://tfun4gr3uomttgr31hcjtgozdkqbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=7b558f34e96f7e5d39b761405d14d01e&wsABSTime=1775044168&wsSession=2f22d81ab71aa7e58b8823c2-177500097515965&wsIPSercert=9510360270a812596934aafd810924af&wsBindIP=2&wsserid=1168240905485119020
 
 01.45 WIB Inggris vs Jepang
 #EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01.45 WIB Inggris vs Jepang
