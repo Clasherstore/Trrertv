@@ -26,6 +26,16 @@ https://mimipipi22.github.io/logo/offline.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mp
 
+01:45 WIB Bosnia Herzegovina vs Italia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMzejsAV5RKliDVIIDswc_nZwQAmm-OPTjdazrrUAxQElnlBebBjWgxnr&s=10" group-title="LIVE EVENT 01 APRIL 2026", 01:45 WIB Bosnia Herzegovina vs Italia
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
 =============================================
 ALWAN SPORT
 
