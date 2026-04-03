@@ -1,19 +1,14 @@
 #EXTM3U
 
-LIVE EVENT 01 April 2026
+LIVE EVENT 03 April 2026
 
-06:00 WIB US Amerika vs Portugal
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 06:00 WIB US AMERIKA VS PORTUGAL 
-https://tfun4gr3uomttgr31hcjtgozdkqbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=7b558f34e96f7e5d39b761405d14d01e&wsABSTime=1775044168&wsSession=2f22d81ab71aa7e58b8823c2-177500097515965&wsIPSercert=9510360270a812596934aafd810924af&wsBindIP=2&wsserid=1168240905485119020
+15:30 WIB AREMA VS MALUT UNITED
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="LIVE EVENT 03/04/2026", 15:30 WIB (AREMA VS MALUT UNITED)
+https://tfuq0gr3uomttgr31hcttfa5dqmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel10/playlist.m3u8?wsSecret=cc1be33f93a1571f3c9c5bfa34f8df4f&wsABSTime=1775246508&wsSession=16baa2f4705b513db1b83d80-177520331308320&wsIPSercert=498e39ff644279aa98ff51815d8a56a9&wsBindIP=2&wsserid=1168278531255916870
 
-06:30 WIB Argentina vs Zambia
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 06:30 WIB Argentina vs Zambia
-https://tfun4gr3uomttgr31hcjtgozdkqbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=801d111170ee4b451515f74aba45cf30&wsABSTime=1775044566&wsSession=2f22d81ab71aa7e58b8823c2-177500137175728&wsIPSercert=9510360270a812596934aafd810924af&wsBindIP=2&wsserid=1168240905485119020
-
-07.00 WIB Brazil vs Kroasia
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkEJwcPQZREqqVW1LCwSG57N7Pi-wez6V6OYbp--19Q&s=10" group-title="LIVE EVENT 01 APRIL 2026", 07.00 WIB Brazil vs Kroasia
-https://tfuo4gr3uomttgr31hcjtgozdkqbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel24/playlist.m3u8?wsSecret=333364cb7a1b58a1ab16fd1397586a8c&wsABSTime=1775045049&wsSession=62e15ee777234b0b4d5cf171-177500185026830&wsIPSercert=9510360270a812596934aafd810924af&wsBindIP=2&wsserid=1168240905488264804
-
+15:30  WIB SRIWIJAYA VS PSPS
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 03/04/2026", 15:30 WIB 15:30  WIB SRIWIJAYA VS PSPS
+https://bf.jabflive.com/live/5005008_hd01.m3u8?txSecret=3eccac10be223ae88bcbfefedeb962d7&txTime=69cf6aff
 
 
 
