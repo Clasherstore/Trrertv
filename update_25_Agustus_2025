@@ -24,9 +24,11 @@ https://bf.jabflive.com/live/322801_hd01.m3u8?txSecret=52ba6d37f8f6fbf25a31800d8
 
 01:45 WIB PSG vs TOULOUSE
 #EXTINF:-1 tvg-id="bein3" tvg-name="BeIN Sports 3" tvg-logo="https://cdn-jjmn.jawapos.com/images/8/2024/03/29/liga1-3145851706.jpg" group-title="LIVE EVENT 04 April 2026", 01:45 WIB PSG vs TOULOUSE 
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/ 
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d 
+https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 
 
 
