@@ -5,71 +5,67 @@ LIVE EVENT 04 April 2026
 
 15:30 WIB PSM Makassar vs Persis Solo
 #EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiACO4x5B0DGh7Ww-1PWIhGnYzI7Ldt-gui508xhFh1w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 15:30 WIB PSM Makassar vs Persis Solo
-https://bf.jabflive.com/live/322666_hd01.m3u8?txSecret=84219c6c4bf5d0054f0486cc2a2ebb09&txTime=69d0af89
+https://tfur4gr3uomttgr31hcjtgozdkp3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel13/playlist.m3u8?wsSecret=ca9183012c458fa6b2b0cd7a00f97ed2&wsABSTime=1775333388&wsSession=bb3a075ac200f7bf01d3722c-177529019531281&wsIPSercert=0f01b4458ade291726982869601a3a0c&wsBindIP=2&wsserid=1168240919671906981
+
+15:30 WIB Persiku vs Tornado
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 15:30 WIB Persiku vs Tornado
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+
+15:30 WIB PSS vs Persipal Palu
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 15:30 WIB PSS vs Persipal Palu
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+
+18:45 WIB Manchester City vs Liverpool
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMI1WNCdG23m2Y9MwOp7IKlRr70-cTunOyzYPRU65jRtJi0sb-YqQuw0&s=10" group-title="LIVE EVENT 04 APRIL 2026",18:45 WIB Manchester City vs Liverpool
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+19:00 WIB Persebaya vs Persita
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiACO4x5B0DGh7Ww-1PWIhGnYzI7Ldt-gui508xhFh1w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:00 WIB Persebaya vs Persita
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+
+19:00 WIB Buriram vs Ratchaburi
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMicV58gBObsnTdVfKu1CzJjzqOY7WB_etcy0OQNS9w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:00 WIB Buriram vs Ratchaburi
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+
+19:00 WIB Persiba vs Persipura
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:00 WIB Persiba vs Persipura
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+
+19:30 WIB Port FC vs PT Prachuap FC
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMicV58gBObsnTdVfKu1CzJjzqOY7WB_etcy0OQNS9w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:30 WIB Port FC vs PT Prachuap FC
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+
+21:00 WIB Sassuolo vs Cagliari
+#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 04 APRIL 2026", 21:00 WIB Sassuolo vs Cagliari
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+20:30 WIB Borussia M'gladbach vs Heidenheim
+#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Borussia M'gladbach vs Heidenheim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
+https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+
+20:30 WIB Bayer Leverkusen vs Wolfsburg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Bayer Leverkusen vs Wolfsburg
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/53w7.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
+===========================≈==≈====≈===========
+
+LIVE EVENT 05 APRIL 2026
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-===============================/==============
-
-LIVE EVENT 04 April 2026
-
-01:00 WIB Al-Nassr VS Al-Najma
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkTD62dMe6rcxtPrUIvRs499CkS7AhYuUOrTub3cxEIvCXxkdZwoMU7Dh&s=10" group-title="LIVE EVENT 04 APRIL 2026", 01:00 WIB Al-Nassr VS Al-Najma
-https://bf.jabflive.com/live/322801_hd01.m3u8?txSecret=52ba6d37f8f6fbf25a31800d8ef454b5&txTime=69cfa8e3
-
-01:45 WIB PSG vs TOULOUSE
-#EXTINF:-1 tvg-id="bein3" tvg-name="BeIN Sports 3" tvg-logo="https://cdn-jjmn.jawapos.com/images/8/2024/03/29/liga1-3145851706.jpg" group-title="LIVE EVENT 04 April 2026", 01:45 WIB PSG vs TOULOUSE 
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/ 
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-====================================
+=============================================
 ALWAN SPORT
 
 ALWAN SPORT 1 HD
@@ -1216,11 +1212,11 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 
 
 Sport Stars 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="#.SPORT PREMIUM", Sportstars 3
+#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="#.SPORT PREMIUM", Sportstars 03
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
