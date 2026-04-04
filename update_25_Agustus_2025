@@ -54,12 +54,12 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
 https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 
-20:30 Bayer Leverkusen vs Wolfsburg
+20:30 WIB Bayer Leverkusen vs Wolfsburg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Borussia M'gladbach vs Heidenheim
+#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Bayer Leverkusen vs Wolfsburg
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/53w7.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
