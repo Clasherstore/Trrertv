@@ -5,9 +5,7 @@ LIVE EVENT 04 April 2026
 
 18:45 WIB Manchester City vs Liverpool
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMI1WNCdG23m2Y9MwOp7IKlRr70-cTunOyzYPRU65jRtJi0sb-YqQuw0&s=10" group-title="LIVE EVENT 04 APRIL 2026",18:45 WIB Manchester City vs Liverpool
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+https://tfur4gr3uomttgr31hcjtgozdkctpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=94eb50b8deb5b483d46e070b8eaaff07&wsABSTime=1775349258&wsSession=aa482f09bb3128e3a94b4086-177530606225679&wsIPSercert=0f01b4458ade291726982869601a3a0c&wsBindIP=2&wsserid=1168217442096459944
 
 19:00 WIB Persebaya vs Persita
 #EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiACO4x5B0DGh7Ww-1PWIhGnYzI7Ldt-gui508xhFh1w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:00 WIB Persebaya vs Persita
@@ -22,12 +20,8 @@ https://bf.jabflive.com/live/5005007_hd01.m3u8?txSecret=dab825d31fd12b5bfdff82e8
 https://bf.jabflive.com/live/5005011_hd01.m3u8?txSecret=bb74e834d78eaedb494cf73af332148e&txTime=69d0fb26
 
 
-19:30 WIB Port FC vs PT Prachuap FC
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMicV58gBObsnTdVfKu1CzJjzqOY7WB_etcy0OQNS9w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:30 WIB Port FC vs PT Prachuap FC
-https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
-
-21:00 WIB Sassuolo vs Cagliari
-#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 04 APRIL 2026", 21:00 WIB Sassuolo vs Cagliari
+20:00 WIB Sassuolo vs Cagliari
+#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 04 APRIL 2026", 20:00 WIB Sassuolo vs Cagliari
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -35,9 +29,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 20:30 WIB Borussia M'gladbach vs Heidenheim
 #EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Borussia M'gladbach vs Heidenheim
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+https://tfur0gr3uomttgr31hcttfa5dqmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=decdc0f0faafa169f29428292d5c863c&wsABSTime=1775352791&wsSession=184828c7f207c6b1cb0f2aea-177530959594127&wsIPSercert=0f01b4458ade291726982869601a3a0c&wsBindIP=2&wsserid=1168278524586706381
 
 20:30 WIB Bayer Leverkusen vs Wolfsburg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,10 +40,29 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+20:30 WIB Freiburg vs Bayern München
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Freiburg vs Bayern München
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
 
 ===========================≈==≈====≈===========
 
 LIVE EVENT 05 APRIL 2026
+
+
+=============================================
+
+
+A SPOR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10" 
+group-title="#.SPORT PREMIUM",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
 
 =============================================
@@ -123,10 +134,9 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan UFC FHD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
 
+ALWAN WWE FHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan WWE FHD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
-
-
 
 
 =====================÷===÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷33
@@ -214,16 +224,6 @@ BEIN SPORT 3 LIGA SPANYOL
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-BEIN SPORT 3 AFRICA CUP
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="AFRICA CUP 2025",beIN Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
 
 
 
@@ -305,6 +305,40 @@ BEIN SPORTS 8 ARAB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/18769
 
+BEIN SPORTS 1 TR
+#EXTINF:-1 tvg-id="bein1" tvg-name="BeIN Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="#.SPORT PREMIUM",BeIN Sports TR 1 
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/ 
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
+
+BEIN SPORTS 2 TR
+#EXTINF:-1 tvg-id="bein2" tvg-name="BeIN Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="#.SPORT PREMIUM",BeIN Sports TR 2 
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/ 
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8 
+
+BEIN SPORTS 3 TR
+#EXTINF:-1 tvg-id="bein3" tvg-name="BeIN Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="#.SPORT PREMIUM",BeIN Sports TR 3 
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/ 
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8 
+
+BEIN SPORTS 4 TR
+#EXTINF:-1 tvg-id="bein4" tvg-name="BeIN Sports 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="#.SPORT PREMIUM",BeIN Sports TR 4 
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/ 
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8 
+
+BEIN SPORTS 5 TR
+#EXTINF:-1 tvg-id="bein5" tvg-name="BeIN Sports 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="#.SPORT PREMIUM",BeIN Sports TR 5 
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/ 
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8 
+
+BEIN SPORTS TR MAX 1
+#EXTINF:-1 tvg-id="beinmax1" tvg-name="BeIN Sports Max 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="#.SPORT PREMIUM",BeIN Sports TR Max 1 
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/ 
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsportsmax1/playlist.m3u8 
+
+BEIN SPORTS TR MAX 2
+#EXTINF:-1 tvg-id="beinmax2" tvg-name="BeIN Sports Max 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="#.SPORT PREMIUM",BeIN Sports TR Max 2 
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/ 
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsportsmax2/playlist.m3u8 
 
 Bein Sport Xtra
 #EXTINF:-1 tvg-id="413152" tvg-url="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9KYWthcnRh&date=20251101&channel_id=413152" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="#.SPORT PREMIUM",beIN Sports Xtra [US]
@@ -432,6 +466,19 @@ DD SPORTS 2.0 BULU TANGKIS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png" group-title="BADMINTON",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
+ESPN 5 RED
+#EXTINF:-1 group-title="#.SPORT PREMIUM" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 3 RED http://46.151.196.223:14444
+
+ESPN 5 HD RED
+#EXTINF:-1 group-title="#.SPORT PREMIUM" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 5 HD RED 
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.ts
+
+ESPN 5 SD
+#EXTINF:-1 group-title="#.SPORT PREMIUM" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 5 SD RED http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+
+ESPN 6 RED
+#EXTINF:-1 group-title="#.SPORT PREMIUM" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 6 RED 
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 
 EUROSPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -823,6 +870,13 @@ ON SPORTS NEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d 
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
+ON SPORTS NEWS (LIGA PRANCIS)
+#EXTINF:-1 tvg-id="onsportsnews" group-title="LIGA PRANCIS" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png",ON Sports News HD (VTV Prime) 
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d 
+https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 
 ON SPORTS HD
 #EXTINF:-1 tvg-id="onsports" group-title="#.SPORT PREMIUM" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports.png",ON Sports HD (VTVPrime) 
@@ -1201,14 +1255,14 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 
 
 Sport Stars 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="#.SPORT PREMIUM", Sportstars 03
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
+#EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars3.jpg" group-title="#.SPORT PREMIUM",SPORTSTARS 3
+https://mimipipi22.github.io/logo/offline.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
+https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mp
 
 Sport Stars 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
