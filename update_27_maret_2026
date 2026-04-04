@@ -3,13 +3,6 @@
 
 LIVE EVENT 04 April 2026
 
-
-18:45 WIB Manchester City vs Liverpool
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMI1WNCdG23m2Y9MwOp7IKlRr70-cTunOyzYPRU65jRtJi0sb-YqQuw0&s=10" group-title="LIVE EVENT 04 APRIL 2026",18:45 WIB Manchester City vs Liverpool
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-
 19:00 WIB Persebaya vs Persita
 #EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiACO4x5B0DGh7Ww-1PWIhGnYzI7Ldt-gui508xhFh1w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:00 WIB Persebaya vs Persita
 https://bf.jabflive.com/live/5004449_hd01.m3u8?txSecret=abcfcd0239195e1f31e1db7a5b558fc4&txTime=69d0fad0
