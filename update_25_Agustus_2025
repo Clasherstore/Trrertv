@@ -20,12 +20,8 @@ https://bf.jabflive.com/live/5005007_hd01.m3u8?txSecret=dab825d31fd12b5bfdff82e8
 https://bf.jabflive.com/live/5005011_hd01.m3u8?txSecret=bb74e834d78eaedb494cf73af332148e&txTime=69d0fb26
 
 
-19:30 WIB Port FC vs PT Prachuap FC
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMicV58gBObsnTdVfKu1CzJjzqOY7WB_etcy0OQNS9w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:30 WIB Port FC vs PT Prachuap FC
-https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
-
-21:00 WIB Sassuolo vs Cagliari
-#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 04 APRIL 2026", 21:00 WIB Sassuolo vs Cagliari
+20:00 WIB Sassuolo vs Cagliari
+#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 04 APRIL 2026", 20:00 WIB Sassuolo vs Cagliari
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -45,6 +41,16 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/53w7.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+20:30 WIB Freiburg vs Bayern München
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Freiburg vs Bayern München
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 
 
 ===========================≈==≈====≈===========
