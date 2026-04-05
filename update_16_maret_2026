@@ -1,61 +1,21 @@
 #EXTM3U
 
-
-LIVE EVENT 04 April 2026
-
-20:00 WIB Sassuolo vs Cagliari
-#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 04 APRIL 2026", 20:00 WIB Sassuolo vs Cagliari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-20:30 WIB Borussia M'gladbach vs Heidenheim
-#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Borussia M'gladbach vs Heidenheim
-https://tfur0gr3uomttgr31hcttfa5dqmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=decdc0f0faafa169f29428292d5c863c&wsABSTime=1775352791&wsSession=184828c7f207c6b1cb0f2aea-177530959594127&wsIPSercert=0f01b4458ade291726982869601a3a0c&wsBindIP=2&wsserid=1168278524586706381
-
-20:30 WIB Bayer Leverkusen vs Wolfsburg
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Bayer Leverkusen vs Wolfsburg
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/53w7.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-20:30 WIB Freiburg vs Bayern München
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://g-sports.id/wp-content/uploads/2025/09/Bundesliga-Jerman-768x509.jpg" group-title="LIVE EVENT 04 APRIL 2026" , 20:30 WIB Freiburg vs Bayern München
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-20:30 WIB Persiraja Aceh vs Sumsel United
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 20:30 WIB Persiraja Aceh vs Sumsel United
-https://bf.jabflive.com/live/5005029_hd01.m3u8?txSecret=e48deacd4a2c41c74e79a370a218710f&txTime=69d11535
-
-21:15 WIB Mallorca vs Real Madrid
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGRq475LTsmxi-p_LYyLtO-gDomkc2Sxixg&s" group-title="LIVE EVENT 04 APRIL 2026", 21:15 WIB Mallorca vs Real Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-23:15 WIB Chelsea vs Port Vale
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTINF:-1 tvg-id="beIN SPORT 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="LIVE EVENT 04 APRIL 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5iaovxG3pZLLhWkZcqsDADZKWWCFZzjNHag&s", 23:15 WIB Chelsea vs Port Vale
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-
-
-===========================≈==≈====≈===========
-
 LIVE EVENT 05 APRIL 2026
+
+15:30 WIB Bhayangkara vs Persija Jakarta
+#EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZppdiSAcJ8sWLEJgBj203UdcEd8oN1q0RqGSOXYY3A&s=10", 15:30 WIB Bhayangkara vs Persija Jakarta (CTV)
+https://live5.msrktz.app/live/14707124.m3u8
+
+15:30 WIB Persikad Depok vs PSMS 
+#EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10", 15:30 WIB Persikad Depok vs PSMS (JL)
+https://bf.jabflive.com/live/5005011_hd01.m3u8?txSecret=b82d7ec8ec36dca0b6cdef4b07d45f9b&txTime=69d20b86
+
+15:30 WIB PSIS vs Barito Putra 
+#EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZppdiSAcJ8sWLEJgBj203UdcEd8oN1q0RqGSOXYY3A&s=10", 15:30 WIB PSIS vs Barito Putra (JL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36 
+https://bf.jabflive.com/live/5005094_hd01.m3u8?txSecret=4e0c25bb79b21621c3a92b84d9441f3e&txTime=69d218b9
+
+
 
 
 =============================================
