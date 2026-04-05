@@ -35,6 +35,14 @@ http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36 
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
 
+20:00 WIB Cremonese vs Bologna
+#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 05 APRIL 2026",20:00 WIB Cremonese vs Bologna (BAU)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
 =============================================
 
 
