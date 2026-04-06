@@ -1,27 +1,10 @@
 #EXTM3U
 
-LIVE EVENT 05 APRIL 2026
+LIVE EVENT 06 APRIL 2026
 
 19:00 WIB Semen Padang vs Persib
-#EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZppdiSAcJ8sWLEJgBj203UdcEd8oN1q0RqGSOXYY3A&s=10", 19:00 WIB Semen Padang vs Persib (JL)
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=68e1ac1dd5f22e66bab8852b22162d2f&txTime=69d25084
-
-19:00 WIB Madura United vs Borneo
-#EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZppdiSAcJ8sWLEJgBj203UdcEd8oN1q0RqGSOXYY3A&s=10", 19:00 WIB Madura vs Borneo (JL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36 
-https://bf.jabflive.com/live/5004991_hd01.m3u8?txSecret=5d197a82b350b0f39157491678dd4910&txTime=69d248e5
-
-19:00 WIB Deltras vs Persela
-#EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10", 19:00 WIB Deltras vs Persela (JL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36 
-https://bf.jabflive.com/live/322813_hd01.m3u8?txSecret=8aeb43fc148feddef0309815f54828bc&txTime=69d24f78
-
-20:00 WIB Cremonese vs Bologna
-#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 05 APRIL 2026",20:00 WIB Cremonese vs Bologna (BAU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT 06 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZppdiSAcJ8sWLEJgBj203UdcEd8oN1q0RqGSOXYY3A&s=10", 19:00 WIB Persik Kediri vs Persijap
+https://tfut4gr3uomttgr31hcjtgozdkp3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=e1d6198e797bed700d3a73d566d01b73&wsABSTime=1775512588&wsSession=9a94aaed378ae989df649023-177546939614578&wsIPSercert=0f01b4458ade291726982869601a3a0c&wsBindIP=2&wsserid=1168240905494556376
 
 ===============================================
 
