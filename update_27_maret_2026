@@ -1,11 +1,10 @@
 #EXTM3U
 
-LIVE EVENT 06 APRIL 2026
+LIVE EVENT 11 APRIL 2026
 
-19:00 WIB Bali United vs PSBS
-#EXTINF:-1 group-title="LIVE EVENT 06 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZppdiSAcJ8sWLEJgBj203UdcEd8oN1q0RqGSOXYY3A&s=10", LIVERPOOL VS PSG
-https://fullmatchshows.embedseek.com/hls/sMAAawcodfYeq6-HM2ccZw/sc/puo3lcki/mdeqwl/tt/index-f2-v1-a1.m3u8?v=1766826492
-
+15:30 WIB Borneo vs PSBS
+#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/04/logo-indonesia-super-league-1754282529163_169.png?w=600&q=90" group-title="LIVE EVENT 11 APRIL 2026", 15:30 WIB Borneo vs PSBS
+http://opplextv.cyou:8080/nasir6160/nasir/233072
 ===============================================
 
 LIVE EVENT 06 APRIL 2026
