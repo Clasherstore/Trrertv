@@ -5,21 +5,21 @@
 LIVE BOLA
 
 BOLA LIVE 1
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 1
+#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE LIGA 1
 https://tfuz4gr3uomttgr31hcjtgozdkqbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel8/playlist.m3u8?wsSecret=cf3907a3ed07deaa3cd0743e3310fd34&wsABSTime=1776024226&wsSession=9c40e076c0b005460e49c521-177598103155762&wsIPSercert=9594595fe9ced705eb567310824bb554&wsBindIP=2&wsserid=1168240905488264804c2e150ec70fb3f69-177589579479691&wsIPSercert=105bc404a2fd249aa54eb8d6ad726439&wsBindIP=2&wsserid=1168240919671906981
 
 BOLA LIVE 2
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 2
+#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE LIGA 2
 https://bf.jabflive.com/live/5005094_hd01.m3u8?txSecret=e83c8a47d89a2144c78d5f4fdaa930d4&txTime=69db5148
 
 
 BOLA LIVE 3
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 3
+#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE LIGA 2 (2)
 https://bf.jabflive.com/live/5005011_hd01.m3u8?txSecret=c5ae28eeb69ae0d5b0f8418e6f095dc5&txTime=69db4f03
 
 BOLA LIVE 4
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 4
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=4c109e5822ab83b6599bec4c234f9696&txTime=69dabb29
+#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE LIGA 2 (3)
+https://bf.jabflive.com/live/5005074_hd01.m3u8?txSecret=7eaa745b23dba87deb5189bae83781a1&txTime=69db4c06
 
 BOLA LIVE 5
 #EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 5
