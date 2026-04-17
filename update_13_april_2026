@@ -4,9 +4,8 @@
 LIVE EVENT 17 APRIL 2026
 
 15.30 WIB Liverpool vs PSG
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE EVENT 17 APRIL 2026", 15.30 WIB Bhayangkara vs PSIM
-https://live.bbs456.com/live/12704440_d6283a4c37fa61231540f41bf9d96cb9_h1080p.m3u8?auth_key=1776429221-0-0-ee10ab7582061cd5cd68ca00c0bf6a36
-https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE EVENT 17 APRIL 2026", 15.30 WIB Bhayangkara vs PSIM YOGYAKARTA
+https://live.bbs456.com/live/12704440_d6283a4c37fa61231540f41bf9d96cb9_h540p.m3u8?auth_key=1776430201-0-0-07e1ee5c7a72c354d093f6618b4a990f
 
 02.00 WIB Atlético Madrid vs Barcelona
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://static.republika.co.id/uploads/member/images/news/medium_Liga_Championns_2025_2026_b97bdee462_1758151204.jpeg" group-title="LIVE EVENT 15 APRIL 2026",02.00 WIB Atlético Madrid vs Barcelona
