@@ -1,47 +1,21 @@
 
-LIVE BOLA
-
-BOLA LIVE 1
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 1
-https://bf.jabflive.com/live/5005008_hd01.m3u8?txSecret=07a63d47e434932e3cc683e0f34084ec&txTime=69e359f3
-
-BOLA LIVE 2
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 2
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=e9c8b12e9a739e4b8fe3ff48a7d88657&txTime=69e36420
+LIVE EVENT 19 APRIL 2026
 
 
-BOLA LIVE 3
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 3
-https://bf.jabflive.com/live/5004975_hd01.m3u8?txSecret=e97c3764728678ddf31105cd5faa18d2&txTime=69e3608f
+17:30 WIB Cremonese vs Torino	Serie A
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="LIVE EVENT 19 APRIL 2026", 17:30 WIB Cremonese vs Torino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-BOLA LIVE 4
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 4
-https://bf.jabflive.com/live/5004994_hd01.m3u8?txSecret=67b724ac8f9444e17960dcb785eddbf7&txTime=69e373e4
 
-BOLA LIVE 5
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 5
-https://bf.jabflive.com/live/5004451_hd01.m3u8?txSecret=502f56f729972ba8d7dedcc6115c0d07&txTime=69e376d7
-
-BOLA LIVE 6
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 6
-https://tfuy0gr3uomttgr31hcttfa5dqmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=1516443ea1f3084fc0f11fd34f10d04f&wsABSTime=1775964852&wsSession=35bd47eff6cd06766826038f-177592166222015&wsIPSercert=105bc404a2fd249aa54eb8d6ad726439&wsBindIP=2&wsserid=1168278524584609170
-
-BOLA LIVE 7
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 7
-https://tfuy0gr3uomttgr31hcttfa5dqmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=6f861ffd9eb6bdb940badf868b83ddcf&wsABSTime=1775964999&wsSession=77e40e0a652d9c55e3e1bcab-177592180544305&wsIPSercert=105bc404a2fd249aa54eb8d6ad726439&wsBindIP=2&wsserid=1168278524586706381
-
-BOLA LIVE 8
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 8
-https://tfuy0gr3uomttgr31hcttfa5dqmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=579cf01895ab650e8fc7a2c79d84a5b3&wsABSTime=1775965351&wsSession=35bd47eff6cd06766826038f-177592215728275&wsIPSercert=105bc404a2fd249aa54eb8d6ad726439&wsBindIP=2&wsserid=1168278524584609170
-
-BOLA LIVE 9
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 9
-https://tfuy0gr3uomttgr31hcttfa5dqmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=28a3c8378782396f0c326d7b23714d62&wsABSTime=1775965187&wsSession=35bd47eff6cd06766826038f-177592199355870&wsIPSercert=105bc404a2fd249aa54eb8d6ad726439&wsBindIP=2&wsserid=1168278524584609170
-
-BOLA LIVE 10
-#EXTINF:-1:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="" group-title="BOLA LIVE", LIVE BOLA 10
-https://tfuy0gr3uomttgr31hcttfa5dqmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=1516443ea1f3084fc0f11fd34f10d04f&wsABSTime=1775964852&wsSession=35bd47eff6cd06766826038f-177592166222015&wsIPSercert=105bc404a2fd249aa54eb8d6ad726439&wsBindIP=2&wsserid=1168278524584609170st.m3u8?wsSecret=6f861ffd9eb6bdb940badf868b83ddcf&wsABSTime=1775964999&wsSession=77e40e0a652d9c55e3e1bcab-177592180544305&wsIPSercert=105bc404a2fd249aa54eb8d6ad726439&wsBindIP=2&wsserid=1168278524586706381
-
+22:30 WIB Manchester City vs Arsenal
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="LIVE EVENT 19 APRIL 2026", 22:30 WIB Manchester City vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
 #EXTM3U
