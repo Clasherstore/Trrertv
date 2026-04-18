@@ -4,7 +4,7 @@
 LIVE EVENT 18 APRIL 2026
 
 15.30 WIB Liverpool vs PSG
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE EVENT 18/04/2026", 17.00 WIB Persipura vs PSIS
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE BOLA 18/04/2026", 17.00 WIB Persipura vs PSIS
 https://bf.jabflive.com/live/5005008_hd01.m3u8?txSecret=07a63d47e434932e3cc683e0f34084ec&txTime=69e359f3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
