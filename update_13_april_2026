@@ -19,6 +19,11 @@ https://bf.jabflive.com/live/322707_hd01.m3u8?txSecret=9f1880ffef6c3ed380eb5742a
 https://bf.jabflive.com/live/5005029_hd01.m3u8?txSecret=207cc786268262de06c45c9e1b44de19&txTime=69e4c0b8
 
 
+19:00 WIB PSPS Riau vs Persekat Tegal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png" group-title="LIVE EVENT 19 APRIL 2026", 19:00 WIB PSMS Medan vs Sriwijaya FC
+https://bf.jabflive.com/live/5004451_hd01.m3u8?txSecret=1dcd64c125dbba00f2944fc9bba36e0f&txTime=69e4b9d4
+
+
 20:00 WIB Everton vs Liverpool
 #EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/member/images/news/medium_Jadwal_Liga_Inggris_2025_2026_3860a13a4a_1753361404.jpeg" group-title="LIVE EVENT 19 APRIL 2026", 20:00 WIB Everton vs Liverpool
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
