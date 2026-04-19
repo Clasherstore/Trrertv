@@ -26,6 +26,15 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
+20:00 WIB AS MONACO VS AUXERE
+#EXTINF:-1 tvg-id="onsportsnews" group-title="LIVE EVENT 19 APRIL 2026" tvg-logo="https://detak.media/wp-content/uploads/2026/04/Jadwal-Liga-Prancis-12-April-Duel-Rennes-vs-Angers-SCO-dan-Toulouse-FC-vs-LOSC-Lille-Warnai-Pekan-ke-29-640x360.webp", 20:00 WIB AS MONACO VS AUXERE
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d 
+https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
+
+
 21:00 WIB Al Wasl vs Al Nassr	AFC Champions League Two
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
