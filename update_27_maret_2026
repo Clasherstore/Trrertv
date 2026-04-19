@@ -1,9 +1,6 @@
 
 LIVE EVENT 19 APRIL 2026
 
-15:30 WIB PERSIK Kediri vs PERSITA Tangerang
-#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/member/images/news/medium_Whats_App_Image_2025_06_16_at_13_38_58_39c5a25059_1751629804.jpeg" group-title="LIVE EVENT 19 APRIL 2026", 15:30 WIB PERSIK Kediri vs PERSITA Tangerang
-https://bf.jabflive.com/live/322707_hd01.m3u8?txSecret=9f1880ffef6c3ed380eb5742a3404c71&txTime=69e48114
 
 
 15:30 WIB Deltras Sidoarjo vs Kendal Tornado
@@ -17,6 +14,11 @@ https://bf.jabflive.com/live/5005011_hd01.m3u8?txSecret=8d26fdacb81a7b9dc83b68e9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+
+19:00 WIB Bali United vs Malut United
+#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/member/images/news/medium_Whats_App_Image_2025_06_16_at_13_38_58_39c5a25059_1751629804.jpeg" group-title="LIVE EVENT 19 APRIL 2026", 19:00 WIB Bali United vs Malut United
+https://bf.jabflive.com/live/322707_hd01.m3u8?txSecret=9f1880ffef6c3ed380eb5742a3404c71&txTime=69e48114
 
 
 20:00 WIB Everton vs Liverpool
