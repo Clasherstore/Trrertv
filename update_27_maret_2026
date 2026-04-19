@@ -44,6 +44,16 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+
+22:15 WIB STRASBOURG VS RENNES
+#EXTINF:-1 tvg-id="onsportsnews" group-title="LIVE EVENT 19 APRIL 2026" tvg-logo="https://detak.media/wp-content/uploads/2026/04/Jadwal-Liga-Prancis-12-April-Duel-Rennes-vs-Angers-SCO-dan-Toulouse-FC-vs-LOSC-Lille-Warnai-Pekan-ke-29-640x360.webp", 22:15 WIB STRASBOURG VS RENNES
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d 
+https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
+
+
 22:30 WIB Bayern München vs Stuttgart	Bundesliga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
