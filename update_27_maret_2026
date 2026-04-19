@@ -85,7 +85,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 
 01:45 WIB PSG VS LYON
-#EXTINF:-1 tvg-id="onsportsnews" group-title="LIVE EVENT 20 APRIL 2026" tvg-logo="", 01:45 WIB PSG VS LYON
+#EXTINF:-1 tvg-id="onsportsnews" group-title="LIVE EVENT 20 APRIL 2026" tvg-logo="https://detak.media/wp-content/uploads/2026/04/Jadwal-Liga-Prancis-12-April-Duel-Rennes-vs-Angers-SCO-dan-Toulouse-FC-vs-LOSC-Lille-Warnai-Pekan-ke-29-640x360.webp", 01:45 WIB PSG VS LYON
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
