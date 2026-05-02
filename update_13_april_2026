@@ -4,9 +4,20 @@
 LIVE EVENT 2 MEI 2026
 
 
+19:00 WIB VILLAREAL VS LEVANTE
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="LIVE EVENT 2 MEI 2026", 19:00 WIB VILLAREAL VS LEVANTE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+
 19:00 WIB MALUT UNITED VS PERSIS SOLO
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-W88Xlw3wuKIAi57KgYHjNTz6-jxasOcZDTztotE3CQ&s=10" group-title="LIVE EVENT 2 MEI 2026", 19:00 WIB MALUT UNITED VS PERSIS SOLO
 https://bf.jabflive.com/live/5005009_hd01.m3u8?txSecret=23209015df44c46d7d6c869aaaae3a39&txTime=69f5d877
+
 
 
 A SPOR
@@ -150,8 +161,8 @@ BEIN SPORT 2
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-BEIN SPORT 2 (LIGA TURKI)
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="LIGA TURKI", beIn Sports 2
+BEIN SPORT 2 (LIGA SPANYOL)
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="LIGA SPANYOL", beIn Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
