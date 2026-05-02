@@ -5,7 +5,7 @@ LIVE EVENT 2 MEI 2026
 
 
 19:00 WIB VILLAREAL VS LEVANTE
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="LIVE EVENT 2 MEI 2026", 19:00 WIB VILLAREAL VS LEVANTE
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuxC4e9-1b6rCrPtuhHiBGHEWu8QhOBcI3BHOB6DbRw&s" group-title="LIVE EVENT 2 MEI 2026", 19:00 WIB VILLAREAL VS LEVANTE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
