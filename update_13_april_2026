@@ -5,11 +5,7 @@ LIVE EVENT 3 MEI
 
 17:30 WIB Bologna vs Cagliari
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktR3TiOjHOLdxFqzco4JswLMz2tcJeWZjPemi4z6aOXUmXGQHaU6gYWA&s=10" group-title="LIVE EVENT 3 MEI 2026", 17:30 WIB Bologna vs Cagliari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc
-
+https://tfvk4gr3uomttgr31hcjtgozdkp3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=f8ba1e7bbad296d8f0cf430e8411916e&wsABSTime=1777851299&wsSession=77990b7489ef7dbe90fc15a6-177780810423242&wsIPSercert=ac5554f32c5f70ce3189b8841645e393&wsBindIP=2&wsserid=1168240905500847944
 
 23:00 WIB Juventus vs Verona
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktR3TiOjHOLdxFqzco4JswLMz2tcJeWZjPemi4z6aOXUmXGQHaU6gYWA&s=10" group-title="LIVE EVENT 3 MEI 2026", 23:00 WIB Juventus vs Verona
