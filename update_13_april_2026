@@ -25,6 +25,15 @@ https://bf.jabflive.com/live/5005011_hd01.m3u8?txSecret=4a8140976a1db29424a7be1b
 https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1777813165-0-0-1c75ea087b807f36df7aa1309bdbff58
 
 
+22:30 WIB Borussia M'gladbach vs Borussia Dortmund
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/2020/05/29/800px-bundesliga_logo_2017_ratio-16x9.jpg" group-title="LIVE EVENT 3 MEI 2026", 22:30 WIB Borussia M'gladbach vs Borussia Dortmund
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 
 23:00 WIB Juventus vs Verona
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktR3TiOjHOLdxFqzco4JswLMz2tcJeWZjPemi4z6aOXUmXGQHaU6gYWA&s=10" group-title="LIVE EVENT 3 MEI 2026", 23:00 WIB Juventus vs Verona
