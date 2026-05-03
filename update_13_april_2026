@@ -3,14 +3,6 @@
 LIVE EVENT 3 MEI
 
 
-17:30 WIB Bologna vs Cagliari
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktR3TiOjHOLdxFqzco4JswLMz2tcJeWZjPemi4z6aOXUmXGQHaU6gYWA&s=10" group-title="LIVE EVENT 3 MEI 2026", 17:30 WIB Bologna vs Cagliari
-https://tfvk4gr3uomttgr31hcjtgozdkp3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=f8ba1e7bbad296d8f0cf430e8411916e&wsABSTime=1777851299&wsSession=77990b7489ef7dbe90fc15a6-177780810423242&wsIPSercert=ac5554f32c5f70ce3189b8841645e393&wsBindIP=2&wsserid=1168240905500847944
-
-
-19:00 WIB Celta de Vigo vs Elche
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYRRseLIlt-E_Ll3DLnYD8ztJl5H06w4GVbNIYoaJjMo7erHVRDM49QjjJ&s=10" group-title="LIVE EVENT 3 MEI 2026", 19:00 WIB Celta de Vigo vs Elche
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1777813165-0-0-1c75ea087b807f36df7aa1309bdbff58
 
 
 19:00 WIB Dewa United vs Semen Padang
@@ -26,6 +18,11 @@ https://bf.shandongjncz.com/live/sd-1-4344737_hd01.m3u8?txSecret=fc192eac8a80067
 20:00 WIB Sassuolo vs AC Milan
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktR3TiOjHOLdxFqzco4JswLMz2tcJeWZjPemi4z6aOXUmXGQHaU6gYWA&s=10" group-title="LIVE EVENT 3 MEI 2026", 20:00 WIB Sassuolo vs AC Milan
 https://bf.jabflive.com/live/5005011_hd01.m3u8?txSecret=4a8140976a1db29424a7be1bf55b590d&txTime=69f74446
+
+
+21:30 WIB Manchester United vs Liverpool
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSbbHQRwkCxTJpTb_nFIz2tVqsWEGofVqUu-ALzPyZed6RK9i7VtXZU9Y&s=10" group-title="LIVE EVENT 3 MEI 2026", 21:30 WIB Manchester United vs Liverpool
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1777813165-0-0-1c75ea087b807f36df7aa1309bdbff58
 
 
 
