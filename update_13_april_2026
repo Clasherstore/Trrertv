@@ -11,9 +11,8 @@ LIVE EVENT 3 MEI
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc
 
 
-23:00 WIB
-Juventus vs Verona
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvht3Vvx9Gz1UNHKukYRaAoEyqhhCc1IHt2qkVAE-e3AKEiI8Tuncnvmj&s=10" group-title="#.PREMIUM SPORTS",BEIN SPORTS 2 AU
+23:00 WIB Juventus vs Verona
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktR3TiOjHOLdxFqzco4JswLMz2tcJeWZjPemi4z6aOXUmXGQHaU6gYWA&s=10" group-title="LIVE EVENT 3 MEI 2026", 23:00 WIB Juventus vs Verona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
