@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-LIVE EVENT 3 MEI 2026
+LIVE EVENT 4 MEI 2026
 
 
-19:00 WIB Racing Santander vs Huesca
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaO6mRBXGQkIzmduWemj1SJavJNdkk9GYj9bPFtythfQ&s=10" group-title="LIVE EVENT 3 MEI 2026", 19:00 WIB Racing Santander vs Huesca
+02:00 WIB Espanyol vs Real Madrid
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYRRseLIlt-E_Ll3DLnYD8ztJl5H06w4GVbNIYoaJjMo7erHVRDM49QjjJ&s=10" group-title="LIVE EVENT 4 MEI 2026", 02:00 WIB Espanyol vs Real Madrid
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
