@@ -4,6 +4,14 @@
 LIVE EVENT 4 MEI 2026
 
 
+01:45 WIB Internazionale vs Parma
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktR3TiOjHOLdxFqzco4JswLMz2tcJeWZjPemi4z6aOXUmXGQHaU6gYWA&s=10" group-title="LIVE EVENT 4 MEI 2026", 01:45 WIB Internazionale vs Parma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+
 02:00 WIB Espanyol vs Real Madrid
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYRRseLIlt-E_Ll3DLnYD8ztJl5H06w4GVbNIYoaJjMo7erHVRDM49QjjJ&s=10" group-title="LIVE EVENT 4 MEI 2026", 02:00 WIB Espanyol vs Real Madrid
 #KODIPROP:inputstreamaddon=inputstream.adaptive
