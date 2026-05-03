@@ -3,13 +3,6 @@
 LIVE EVENT 3 MEI
 
 
-
-
-19:00 WIB Dewa United vs Semen Padang
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIVE EVENT 3 MEI 2026", 19:00 WIB Dewa United vs Semen Padang
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=2460b907f6be7d5bcd056d54587dcb86&txTime=69f72ab4
-
-
 19:30 WIB Fortuna vs Feyenord
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3 MEI 2026", 19:30 WIB Fortuna vs Feyenord
 https://bf.shandongjncz.com/live/sd-1-4344737_hd01.m3u8?txSecret=fc192eac8a80067a380f33ddf3883ab2&txTime=69f73ee7
@@ -22,7 +15,7 @@ https://bf.jabflive.com/live/5005011_hd01.m3u8?txSecret=4a8140976a1db29424a7be1b
 
 21:30 WIB Manchester United vs Liverpool
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSbbHQRwkCxTJpTb_nFIz2tVqsWEGofVqUu-ALzPyZed6RK9i7VtXZU9Y&s=10" group-title="LIVE EVENT 3 MEI 2026", 21:30 WIB Manchester United vs Liverpool
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1777813165-0-0-1c75ea087b807f36df7aa1309bdbff58
+https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=2460b907f6be7d5bcd056d54587dcb86&txTime=69f72ab4
 
 
 22:30 WIB Borussia M'gladbach vs Borussia Dortmund
