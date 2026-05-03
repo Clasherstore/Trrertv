@@ -1,87 +1,17 @@
 #EXTM3U
 
 
-LIVE EVENT 2 MEI 2026
-
-
-19:00 WIB VILLAREAL VS LEVANTE
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuxC4e9-1b6rCrPtuhHiBGHEWu8QhOBcI3BHOB6DbRw&s" group-title="LIVE EVENT 2 MEI 2026", 19:00 WIB VILLAREAL VS LEVANTE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-
-19:00 WIB MALUT UNITED VS PERSIS SOLO
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-W88Xlw3wuKIAi57KgYHjNTz6-jxasOcZDTztotE3CQ&s=10" group-title="LIVE EVENT 2 MEI 2026", 19:00 WIB MALUT UNITED VS PERSIS SOLO
-https://bf.jabflive.com/live/5005009_hd01.m3u8?txSecret=23209015df44c46d7d6c869aaaae3a39&txTime=69f5d877
-
-
-21:15 WIB Valencia vs Atlético Madrid
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuxC4e9-1b6rCrPtuhHiBGHEWu8QhOBcI3BHOB6DbRw&s" group-title="LIVE EVENT 2 MEI 2026", 21:15 WIB Valencia vs Atlético Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-
-23:00 WIB Como vs Napoli
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAyVb2UkTWdFucRiSVadbeKnmLChlgTDdRpNUh6bdQgu4kEzAiT258s0ba&s=10" group-title="LIVE EVENT 2 MEI 2026", 23:00 WIB Como vs Napoli
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
-23:30 WIB Deportivo Alavés vs Athletic Club
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuxC4e9-1b6rCrPtuhHiBGHEWu8QhOBcI3BHOB6DbRw&s" group-title="LIVE EVENT 2 MEI 2026", 23:30 WIB Deportivo Alavés vs Athletic Club
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-
-===============
-
-
 LIVE EVENT 3 MEI 2026
 
 
-00:00 WIB Samsunspor vs Galatasaray
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tmGXtUv35rOirsv6vQF3uc-OkjGTVttCiAGdMSSWy557FBD7sHFqRGA&s=10" group-title="LIVE EVENT 3 MEI 2026", 00:00 WIB Samsunspor vs Galatasaray
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
-
-02:00 WIB Osasuna vs Barcelona
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuxC4e9-1b6rCrPtuhHiBGHEWu8QhOBcI3BHOB6DbRw&s" group-title="LIVE EVENT 3 MEI 2026", 02:00 WIB Osasuna vs Barcelona
+19:00 WIB Racing Santander vs Huesca
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaO6mRBXGQkIzmduWemj1SJavJNdkk9GYj9bPFtythfQ&s=10" group-title="LIVE EVENT 3 MEI 2026", 19:00 WIB Racing Santander vs Huesca
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-
-02:00 WIB Eibar vs Málaga
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNM6W6ZJgcdKyto5IMFPKG8WgxWFFC0cwnqjquIAzeA&s=10" group-title="LIVE EVENT 3 MEI 2026", 02:00 WIB Eibar vs Málaga
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
 
