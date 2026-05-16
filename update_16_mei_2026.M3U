@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+LIVE EVENT 17 MEI 2026
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/AFC_Champions_League_Two.svg/250px-AFC_Champions_League_Two.svg.png" group-title="LIVE EVENT 17 MEI 2026", 00.45 WIB Al Nassr vs Gamba Osaka
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 A SPOR
 https://www.livesoccertv.com/id/channels/a-sport-turkey/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10" group-title="#.PREMIUM SPORTS",A SPOR
