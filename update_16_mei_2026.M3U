@@ -9,7 +9,10 @@ LIVE EVENT 16 MEI 2026
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+
 #EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://thumbs.dreamstime.com/b/bundesliga-logo-bundesliga-logo-logo-germany-football-vector-format-aviable-ai-126429234.jpg" group-title="LIVE EVENT 16 MEI 2026", 20:30 WIB Borussia M'gladbach vs Hoffenheim
+https://live5.msrktz.app/live/14707124.m3u8
+
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
