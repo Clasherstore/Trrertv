@@ -2,7 +2,20 @@
 
 
 
+EVENT 16 MEI 2026
+
+
+2O:00 WIB Internazionale vs Verona
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 16 MEI 2026", 2O:00 WIB Internazionale vs Verona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+
 EVENT 17 MEI 2026
+
 
 00:00 WIB Sevilla vs Real Madrid
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://telly.cz/wp-content/uploads/2025/04/960x1440-laliga-480x720.png" group-title="EVENT 17 MEI 2026", 00:00 WIB Sevilla vs Real Madrid
