@@ -4,6 +4,13 @@
 
 EVENT 16 MEI 2026
 
+19:00 WIB PSIM Yogyakarta vs Madura United
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/H2qvLNXqZqyV8016Uh7lLn5Fbxs=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5312155/original/068813000_1754906267-1000195601.jpg" group-title="EVENT 16 MEI 2026", 19:00 WIB PSIM Yogyakarta vs Madura United
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
 
 2O:00 WIB Internazionale vs Verona
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 16 MEI 2026", 2O:00 WIB Internazionale vs Verona
