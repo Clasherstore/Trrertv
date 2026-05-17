@@ -4,6 +4,13 @@
 
 LIVE EVENT 17 MEI 2026
 
+
+02:00 WIB Paris vs PSG
+#EXTINF:-1 tvg-logo="https://cdn-assets.jawapos.com/images/1/2024/03/28/league-1-new1-1885364469.jpg" group-title="LIVE EVENT 17 MEI 2026", 02:00 WIB Paris vs PSG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
 02:15 WIB Barcelona vs Real Betis
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://telly.cz/wp-content/uploads/2025/04/960x1440-laliga-480x720.png" group-title="LIVE EVENT 17 MEI 2026", 02:15 WIB Barcelona vs Real Betis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -648,8 +655,8 @@ NOVA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-Nova Sport 1 FA Cup
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png" group-title="FA CUP,Nova Sport 1
+Nova Sport 1 LIGA PRANCIS
+#EXTINF:-1 tvg-logo="https://cdn-assets.jawapos.com/images/1/2024/03/28/league-1-new1-1885364469.jpg" group-title="LIGA PRANCIS", Nova Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
