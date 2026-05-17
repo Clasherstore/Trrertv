@@ -20,21 +20,21 @@ https://stream.titanlivescore.com/live/LXSCORE-4880038.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-17:30 WIB Roma vs Lazio
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 17:30 WIB Roma vs Lazio
+17:00 WIB Roma vs Lazio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 17:00 WIB Roma vs Lazio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-17:30 WIB Genoa vs Milan
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 17:30 WIB Genoa vs Milan
+17:00 WIB Genoa vs Milan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 17:00 WIB Genoa vs Milan
 https://wahyu1ptv.pages.dev/AnTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
 
 
-17:30 WIB Juventus vs Fiorentina
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 17:30 WIB Juventus vs Fiorentina
+17:00 WIB Juventus vs Fiorentina
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 17:00 WIB Juventus vs Fiorentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
