@@ -4,6 +4,15 @@
 
 EVENT 17 MEI 2026
 
+00:00 WIB Sevilla vs Real Madrid
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://telly.cz/wp-content/uploads/2025/04/960x1440-laliga-480x720.png" group-title="EVENT 17 MEI 2026", 00:00 WIB Sevilla vs Real Madrid
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 01:45 WIB Udinese vs Cremonese
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026",01:45 WIB Udinese vs Cremonese
