@@ -595,8 +595,8 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 Матч! 🇷🇺 LIGA ITALIA
 #EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="LIGA ITALIA",Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-Матч! 🇷🇺 COPA DEL REY
-#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="COPA DEL REY",Матч! 🇷🇺
+Матч! 🇷🇺 (UFC)
+#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://static.wikia.nocookie.net/ultimate-fighting-championship/images/8/84/UFC.jpeg/revision/latest?cb=20230510024124&path-prefix=vi" group-title="UFC",Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 MATCH!
@@ -607,6 +607,15 @@ MATCH!
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333 
 https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd 
+MATCH! (UFC)
+#EXTINF:-1 group-title="UFC" tvg-id="袦邪褌褔 孝袙" tvg-logo="https://static.wikia.nocookie.net/ultimate-fighting-championship/images/8/84/UFC.jpeg/revision/latest?cb=20230510024124&path-prefix=vi", MATCH! 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333 
+https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd 
+
 
 MATCH! ARENA
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="袦邪褌褔! 袗褉械薪邪" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaW2gQt_6FqTwOGQGdJhAodsQXUQ7x3FtXrZ-kPt2GVA&s=10", MATCH! ARENA 
