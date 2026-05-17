@@ -5,6 +5,11 @@
 EVENT 16 MEI 2026
 
 
+17:30 WIB Genoa vs Milan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 16 MEI 2026", 17:30 WIB Genoa vs Milan
+https://wahyu1ptv.pages.dev/AnTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
+
+
 17:30 WIB Juventus vs Fiorentina
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 16 MEI 2026", 17:30 WIB Juventus vs Fiorentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
