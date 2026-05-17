@@ -5,6 +5,21 @@
 EVENT 16 MEI 2026
 
 
+15:30 WIB Bali United vs Bhayangkara
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/H2qvLNXqZqyV8016Uh7lLn5Fbxs=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5312155/original/068813000_1754906267-1000195601.jpg" group-title="EVENT 16 MEI 2026", 15:30 WIB Bali United vs Bhayangkara
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+17:30 WIB Roma vs Lazio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 16 MEI 2026", 17:30 WIB Roma vs Lazio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
 17:30 WIB Genoa vs Milan
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 16 MEI 2026", 17:30 WIB Genoa vs Milan
 https://wahyu1ptv.pages.dev/AnTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
