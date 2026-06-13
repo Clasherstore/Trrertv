@@ -1,125 +1,6 @@
 #EXTM3U
 
-EVENT 17 MEI 2026
-
-
-15:30 WIB Bali United vs Bhayangkara
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/H2qvLNXqZqyV8016Uh7lLn5Fbxs=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5312155/original/068813000_1754906267-1000195601.jpg" group-title="EVENT 17 MEI 2026", 15:30 WIB Bali United vs Bhayangkara
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://stream.titanlivescore.com/live/LXSCORE-4880038.m3u8
-
-
-16:00 WIB MOTOGP CATALUNYA
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://asset.kompas.com/crops/OLInXowRpPPqzcYe2xLxsvjaKG0=/0x26:720x506/750x500/data/photo/2024/11/18/673ae1ad34d16.jpg" group-title="EVENT 17 MEI 2026",16:00 WIB MOTOGP CATALUNYA
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
-
-17:30 WIB Roma vs Lazio
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 17:30 WIB Roma vs Lazio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
-17:30 WIB Genoa vs Milan
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 17:30 WIB Genoa vs Milan
-https://wahyu1ptv.pages.dev/AnTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
-
-
-17:30 WIB Juventus vs Fiorentina
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 17:30 WIB Juventus vs Fiorentina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-
-18:30 WIB Manchester United vs Nottingham Forest
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="EVENT 17 MEI 2026", 18:30 WIB Manchester United vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-19:00 WIB Persijap vs Borneo
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/H2qvLNXqZqyV8016Uh7lLn5Fbxs=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5312155/original/068813000_1754906267-1000195601.jpg" group-title="EVENT 17 MEI 2026", 19:00 WIB Persijap vs Borneo
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-
-19:00 WIB PSM vs Persib
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/H2qvLNXqZqyV8016Uh7lLn5Fbxs=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5312155/original/068813000_1754906267-1000195601.jpg" group-title="EVENT 17 MEI 2026", 19:00 WIB PSM vs Persib
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-
-19:00 WIB PSIM Yogyakarta vs Madura United
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/H2qvLNXqZqyV8016Uh7lLn5Fbxs=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5312155/original/068813000_1754906267-1000195601.jpg" group-title="EVENT 17 MEI 2026", 19:00 WIB PSIM Yogyakarta vs Madura United
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-
-2O:00 WIB Internazionale vs Verona
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 17 MEI 2026", 2O:00 WIB Internazionale vs Verona
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
-
-EVENT 18 MEI 2026
-
-
-00:00 WIB Sevilla vs Real Madrid
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://telly.cz/wp-content/uploads/2025/04/960x1440-laliga-480x720.png" group-title="EVENT 18 MEI 2026", 00:00 WIB Sevilla vs Real Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
-01:45 WIB Udinese vs Cremonese
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ibs1QxsqZn3QLlYHOvtA4StH-QMBJujbfw&s" group-title="EVENT 18 MEI 2026",01:45 WIB Udinese vs Cremonese
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-02:00 WIB Paris vs PSG
-#EXTINF:-1 tvg-logo="https://cdn-assets.jawapos.com/images/1/2024/03/28/league-1-new1-1885364469.jpg" group-title="EVENT 18 MEI 2026", 02:00 WIB Paris vs PSG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-
-02:15 WIB Barcelona vs Real Betis
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=411993" tvg-id="411993" tvg-logo="https://telly.cz/wp-content/uploads/2025/04/960x1440-laliga-480x720.png" group-title="EVENT 18 MEI 2026", 02:15 WIB Barcelona vs Real Betis
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-A SPOR
-https://www.livesoccertv.com/id/channels/a-sport-turkey/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10" group-title="#.PREMIUM SPORTS",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTM3U
 
 A SPOR
 https://www.livesoccertv.com/id/channels/a-sport-turkey/
@@ -207,14 +88,6 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
 
 =====================÷===÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷33
 
-
-ANTV SPORTS
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mVLwvXW5/GIF-Image1766349820061.gif" group-title="#.PREMIUM SPORTS",ANTV SPORTS
-https://wahyu1ptv.pages.dev/AnTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
-ANTV SPORTS LIGA ITALIA
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mVLwvXW5/GIF-Image1766349820061.gif" group-title="LIGA ITALIA",ANTV SPORTS
-https://wahyu1ptv.pages.dev/AnTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
-
 BARCA TV
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomEBG6nwr5hePaGcRXMqhsYFl6xI6blUhK_AaRdw4gg&s=10",BARCA TV 
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
@@ -286,7 +159,7 @@ BEIN SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 BEIN SPORT 3 LIGA SPANYOL
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="LIGA CHAMPIONS",beIN Sports 3
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="LIGA SPANYOL",beIN Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -342,6 +215,12 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 
 BEIN SPORT 2 AU
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvht3Vvx9Gz1UNHKukYRaAoEyqhhCc1IHt2qkVAE-e3AKEiI8Tuncnvmj&s=10" group-title="#.PREMIUM SPORTS",BEIN SPORTS 2 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+BEIN SPORT 2 AU (LIGA ITALIA)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvht3Vvx9Gz1UNHKukYRaAoEyqhhCc1IHt2qkVAE-e3AKEiI8Tuncnvmj&s=10" group-title="LIGA ITALIA",BEIN SPORTS 2 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -447,8 +326,8 @@ CT Sport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-CT Sport HD KUALIFIKASI PIALA DUNIA
-#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://i.ibb.co.com/vL0VSmb/ctsport.png" group-title="KUALIFIKASI PIALA DUNIA", ČT Sport 🇸🇰
+CT Sport HD PIALA DUNIA 2026
+#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026", ČT Sport 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -510,21 +389,9 @@ DD SPORTS 2.0 BULU TANGKIS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png" group-title="BADMINTON",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-ESPN 5 RED
+ESPN 3 RED
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 3 RED 
 http://46.151.196.223:14444
-
-ESPN 5 HD RED
-#EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 5 HD RED 
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.ts
-
-ESPN 5 SD
-#EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 5 SD RED 
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-
-ESPN 6 RED
-#EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 6 RED 
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 
 
 
@@ -645,22 +512,60 @@ HBO BOXING
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb 
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
 
-HUB PREMIER
+HUB PREMIER 1
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="#.PREMIUM SPORTS",Hub Premier 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
+HUB PREMIER 1 (L1GA 1NGGRIS)
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="L1GA 1NGGRIS",Hub Premier 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
+ 
+HUB PREMIER 2
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272" group-title="#.PREMIUM SPORTS",Hub Premier 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314078&extension=ts&play_token=1dWiSXJFZ1
+HUB PREMIER 2 (L1GA 1NGGRIS)
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272" group-title=L1GA 1NGGRIS",Hub Premier 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314078&extension=ts&play_token=1dWiSXJFZ1
+
+HUB PREMIER 3
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="#.PREMIUM SPORTS",Hub Premier 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314079&extension=ts&play_token=bW9r3i6SUO
+HUB PREMIER 3 (L1GA 1NGGRIS)
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="L1GA 1NGGRIS",Hub Premier 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314079&extension=ts&play_token=bW9r3i6SUO
+
+HUB PREMIER 4
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="#.PREMIUM SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",Hub Premier 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
+HUB PREMIER 4 (L1GA 1NGGRIS)
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="L1GA 1NGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",Hub Premier 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
+
+HUB PREMIER 5
 #EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="#.PREMIUM SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png?w=272",Hub Premier 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
+HUB PREMIER 5 (L1GA 1NGGRIS)
+#EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="L1GA 1NGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png?w=272",Hub Premier 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
+
+HUB PREMIER 6
 #EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="#.PREMIUM SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png?w=272",Hub Premier 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&extension=ts&play_token=mbznWD9xYe
+HUB PREMIER 6 (L1GA 1NGGRIS)
+#EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="L1GA 1NGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png?w=272",Hub Premier 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&extension=ts&play_token=mbznWD9xYe
+
+HUB PREMIER 7
 #EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="#.PREMIUM SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",Hub Premier 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
+HUB PREMIER 7 (L1GA 1NGGRIS)
+#EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="L1GA 1NGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",Hub Premier 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
+
+HUB PREMIER 8
 #EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="#.PREMIUM SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",Hub Premier 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
+HUB PREMIER 8 (L1GA 1NGGRIS)
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="L1GA 1NGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",Hub Premier 8 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
 
 
@@ -706,8 +611,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&
 Матч! 🇷🇺
 #EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.PREMIUM SPORTS",Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-Матч! 🇷🇺 LIGA ITALIA
-#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="LIGA ITALIA",Матч! 🇷🇺
+Матч! 🇷🇺 PIALA DUNIA 2026
+#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026",Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 Матч! 🇷🇺 (UFC)
 #EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://static.wikia.nocookie.net/ultimate-fighting-championship/images/8/84/UFC.jpeg/revision/latest?cb=20230510024124&path-prefix=vi" group-title="UFC",Матч! 🇷🇺
@@ -729,9 +634,24 @@ MATCH! (UFC)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333 
 https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
+MATCH! (PIALA DUNIA 2026)
+#EXTINF:-1 group-title="PIALA DUNIA 2026" tvg-id="袦邪褌褔 孝袙" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max", MATCH! 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333 
+https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 
 MATCH! ARENA
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="袦邪褌褔! 袗褉械薪邪" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaW2gQt_6FqTwOGQGdJhAodsQXUQ7x3FtXrZ-kPt2GVA&s=10", MATCH! ARENA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09 
+https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
+MATCH! ARENA (PIALA DUNIA 2026)
+#EXTINF:-1 group-title="PIALA DUNIA 2026" tvg-id="袦邪褌褔! 袗褉械薪邪" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max", MATCH! ARENA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -850,6 +770,13 @@ REDBULL TV
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="#.PREMIUM SPORTS",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+RTB GO
+#EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-logo="https://play-lh.googleusercontent.com/XtqENQisiXQ26HoWAZgHsDVmcdYoi5iFaGWY7JyiaL61IKlvpCSqk2Mb2RWoZnNWFBy439osRSZu4RzMPL9rWQ",RTB GO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+RTB GO PIALA DUNIA 2026
+#EXTINF:-1 group-title="PIALA DUNIA 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",RTB GO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
 RTVS SPORT
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdD8GtSHXKmmtSokzFKJciTrt6fdpKyHU200K4STHrg&s=10",RTVS SPORT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -929,6 +856,9 @@ http://opplextv.cyou:8080/nasir6160/nasir/109987
 Star Sports 2 (4K)
 #EXTINF:-1:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" tvg-logo="" group-title="#.PREMIUM SPORTS",Star Sports 2 (4K)
 http://opplextv.cyou:8080/nasir6160/nasir/109988
+Star Sports 2 (4K) L1GA 1NGGRIS
+#EXTINF:-1:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" tvg-logo="" group-title="L1GA 1NGGRIS",Star Sports 2 (4K)
+http://opplextv.cyou:8080/nasir6160/nasir/109988
 
 
 Sony Six (4K)
@@ -939,10 +869,16 @@ http://opplextv.cyou:8080/nasir6160/nasir/109992
 Star Sports Select 1 (4K)
 #EXTINF:-1:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="#.PREMIUM SPORTS",Star Sports Select 1 (4K)
 http://opplextv.cyou:8080/nasir6160/nasir/109993
+Star Sports Select 1 (4K) L1GA 1NGGRIS
+#EXTINF:-1:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="L1GA 1NGGRIS",Star Sports Select 1 (4K)
+http://opplextv.cyou:8080/nasir6160/nasir/109993
 
 
 Star Sports Select 2 (4K)
 #EXTINF:-1:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="#.PREMIUM SPORTS",Star Sports Select 2 (4K)
+http://opplextv.cyou:8080/nasir6160/nasir/109994
+Star Sports Select 2 (4K) L1GA 1NGGRIS
+#EXTINF:-1:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="L1GA 1NGGRIS",Star Sports Select 2 (4K)
 http://opplextv.cyou:8080/nasir6160/nasir/109994
 
 
@@ -978,16 +914,6 @@ SPORTV 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-
-SCTV22 HD (vtv)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV22.png" group-title="#.PREMIUM SPORTS",SCTV22 HD (Thể thao) | S Sport 1 (VTV)
-https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-SCTV22 HD LIGA SPANYOL (vtv)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV22.png" group-title="LIGA SPANYOL",SCTV22 HD (Thể thao) | S Sport 1 (VTV)
-https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-
-
 
 SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1177,53 +1103,11 @@ SPOTV 2 MOTOGP
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-
-SUKAN RTM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fKYnTR7/20221121-191247.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="#.PREMIUM SPORTS", SUKAN RTM Sport
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
-
-
-
 TAP SPORTS
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsG6PgcdcU6Ked5eoWUSjFB9rhTbElQtALBXp6uNTcw&s",TAP Sports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f 
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
-TNT SPORTS 1
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="#.PREMIUM SPORTS",TNT SPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-TNT SPORTS 2
-#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png" group-title="#.PREMIUM SPORTS",TNT SPORTS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-TNT SPORTS 3
-#EXTINF:-1 tvg-id="TNT 3" tvg-logo="https://i.ibb.co.com/Lzkztmpw/Tntsports3.png" group-title="#.PREMIUM SPORTS",TNT SPORTS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-TNT SPORTS 4
-#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png group-title="#.PREMIUM SPORTS",TNT SPORTS 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
 
 True Sports 1
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="truesports1.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 1 
@@ -1275,13 +1159,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://202.169.224.202:8800/udp/239.1.2.3:1234
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
-
-TVRI SPORT COPY 1
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="#.PREMIUM SPORTS",TVRI SPORT (GOO)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"}
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs
 
 UFC (SERVER 1)
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="#.PREMIUM SPORTS",UFC (Server 1) 
@@ -4259,42 +4136,5 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 
 
 
-
-
-<=================== CADANGAN EVENT =============================>
-
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="CADANGAN EVENT",Hub Premier 1 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272" group-title="CADANGAN EVENT",Hub Premier 2 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314078&extension=ts&play_token=1dWiSXJFZ1
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="CADANGAN EVENT",Hub Premier 3 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314079&extension=ts&play_token=bW9r3i6SUO
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",Hub Premier 4 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
-#EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png?w=272",Hub Premier 5 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
-#EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png?w=272",Hub Premier 6 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&extension=ts&play_token=mbznWD9xYe
-#EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",Hub Premier 7 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",Hub Premier 8 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
-
-
-
-
-
-
-
-<=================== Badminton =============================>
-
-#EXTINF:-1 group-title="EVENT 017/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOWrYWcxQuStsyqLahrIgC8kSRP927h-SiQ&s", 12:00 WIB Thomas & Uber Cup Finals 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4203727810131061_AiSD.m3u8?txSecret=71bc8d57a1c631bb4e8e093a9dbd219c&txTime=6A0A80B0
-
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOWrYWcxQuStsyqLahrIgC8kSRP927h-SiQ&s", 002 Thomas & Uber Cup Finals 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
-https://live2.pro2cdnlive.com/live/channel55.m3u8
 
 
