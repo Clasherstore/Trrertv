@@ -2,6 +2,20 @@
 
 #EXTM3U
 
+
+#EXTM3U
+
+
+PIALA DUNIA 2026 CH Cadangan 1
+#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 CH Cadangan 1
+https://live05.msdht.app/live/08552895.m3u8
+
+
+PIALA DUNIA 2026 CH Cadangan 2
+#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 CH Cadangan 2
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+
+
 A SPOR
 https://www.livesoccertv.com/id/channels/a-sport-turkey/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10" group-title="#.PREMIUM SPORTS",A SPOR
@@ -17,23 +31,23 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 ALWAN SPORT 1 HD L1GA 1NGGRIS
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="L1GA 1NGGRIS",Alwan Sport 1 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
-ALWAN SPORT 1 HD L1GA CHAMPIONS
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKitdZWbMcao-K92omtm7FjsFYElVjXzi48-7pwirVdA&s=10" group-title="LIGA CHAMPIONS",Alwan Sport 1 HD
+ALWAN SPORT 1 PIALA DUNIA
+#EXTINF:-1 tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026",Alwan Sport 1 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 
 
 ALWAN SPORT 2
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 2 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
-ALWAN SPORT 2 LIGA CHAMPIONS
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKitdZWbMcao-K92omtm7FjsFYElVjXzi48-7pwirVdA&s=10" group-title="LIGA CHAMPIONS",Alwan Sport 2 HD
+ALWAN SPORT 2 PIALA DUNIA 2026
+#EXTINF:-1 tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026",Alwan Sport 2 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
 
 ALWAN SPORT 2 SD SERVER 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 2 SD Server 1)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641625
-ALWAN SPORT 2 SD SERVER 1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKitdZWbMcao-K92omtm7FjsFYElVjXzi48-7pwirVdA&s=10" group-title="ALWAN SPORT",Alwan Sport 2 SD Server 1)
+ALWAN SPORT 2 PIALA DUNIA 2026
+#EXTINF:-1 tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026",Alwan Sport 2 SD Server 1)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641625
 
 
@@ -256,6 +270,18 @@ BIG 12 STUDIO
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaNlWPd4PxFe13xZL68DR45h4OrEAJmAGFsojJjZXxw&s=10",Big 12 Studios 
 https://d18pj8s9gbivdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zekbh1r7qavoe/The_Big_12.m3u8
 
+
+
+CAZE TV
+#EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMQHgebLC_JMO7nEVknRIeCMRkcVg6eOX_J0G8n6vVA&s",CAZE TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+CAZE TV
+#EXTINF:-1 group-title="PIALA DUNIA 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMQHgebLC_JMO7nEVknRIeCMRkcVg6eOX_J0G8n6vVA&s",CAZE TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+
+
+
 CBS SPORT
 #EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="#.PREMIUM SPORTS",CBS SPORTS
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
@@ -268,54 +294,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 CBS SPORT LIGA ITALIA
 #EXTINF:-1 tvg-id="LIGA ITALIA" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="LIGA ITALIA",CBS SPORTS
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
-
-
-CHAMPIONS TV 1 UDP
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="#.PREMIUM SPORTS",CHAMPIONS TV 1 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.9:1234
-CHAMPIONS TV 1 UDP LIGA BELANDA
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="LIGA BELANDA",CHAMPIONS TV 1 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.9:1234
-
-
-CHAMPIONS TV 2 UDP
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="#.PREMIUM SPORTS",CHAMPIONS TV 2 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.10:1234
-
-
-CHAMPIONS TV 3 UDP
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="#.PREMIUM SPORTS",CHAMPIONS TV 3 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.11:1234
-CHAMPIONS TV 3 UDP LIGA ITALIA
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="LIGA ITALIA",CHAMPIONS TV 3 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.11:1234
-
-
 
 CT Sport HD
 #EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://i.ibb.co.com/vL0VSmb/ctsport.png" group-title="#.PREMIUM SPORTS", ČT Sport 🇸🇰
@@ -608,16 +586,6 @@ MOTORVISION+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
 
 
-Матч! 🇷🇺
-#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.PREMIUM SPORTS",Матч! 🇷🇺
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-Матч! 🇷🇺 PIALA DUNIA 2026
-#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026",Матч! 🇷🇺
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-Матч! 🇷🇺 (UFC)
-#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://static.wikia.nocookie.net/ultimate-fighting-championship/images/8/84/UFC.jpeg/revision/latest?cb=20230510024124&path-prefix=vi" group-title="UFC",Матч! 🇷🇺
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-
 MATCH!
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="袦邪褌褔 孝袙" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaW2gQt_6FqTwOGQGdJhAodsQXUQ7x3FtXrZ-kPt2GVA&s=10", MATCH! 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -755,17 +723,6 @@ PRIMA SPORT 5
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 
 
-
-PSJ TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Psjtv.id tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/cf58fdbdfa9f44a9b848d6c7097c3da9.jpg" group-title="#.PREMIUM SPORTS",PSJ TV 🔴
-https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
-
-
-
 REDBULL TV
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="#.PREMIUM SPORTS",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -793,13 +750,6 @@ SKY SPORTS BUNDESLIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
-
-SKY SPORT MOTOGP
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="#.PREMIUM SPORTS",Sky Sport MotoGP
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="MotoGP",Sky Sport MotoGP
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-
 
 SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -888,32 +838,6 @@ http://185.57.68.33/110/mpegts
 Матч! Футбол 3 HD 🇷🇺 COPA DEL REY
 #EXTINF:-1 tvg-id="Матч! Футбол 3 HD 🇷🇺" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/7-bundesliga.png" group-title="COPA DEL REY",Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
-
-
-SPORTV
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg" group-title="#.PREMIUM SPORTS", SPORTV 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-SPORTV LIGA JERMAN
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg" group-title="LIGA JERMAN", SPORTV 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-
-
-SPORTV 2
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg" group-title="#.PREMIUM SPORTS", SPORTV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-
-SPORTV 3
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg" group-title="#.PREMIUM SPORTS", SPORTV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
 SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1150,16 +1074,6 @@ TRUE SPORTS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36 
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 
-TVRI SPORT
-https://www.livesoccertv.com/channels/tvri-sport/
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="#.PREMIUM SPORTS",TVRI SPORT
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-http://202.169.224.202:8800/udp/239.1.2.3:1234
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
-
-
 UFC (SERVER 1)
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="#.PREMIUM SPORTS",UFC (Server 1) 
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8 
@@ -1175,6 +1089,13 @@ https://www.livesoccertv.com/id/channels/w-sport/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+
+
+
+
+
+
+
 
 <=================== INDONESIA =============================>
 
