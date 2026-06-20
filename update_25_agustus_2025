@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTM3U
-PIALA DUNIA CH Cadangan 1
+
+PIALA DUNIA 2026 CH cadangan 1
 #EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 CH Cadangan 1
 https://live05.mzieo.app/live/78905744.m3u8
 
@@ -13,6 +13,7 @@ https://live05.msdht.app/live/08552895.m3u8
 PIALA DUNIA 2026 CH Cadangan 3
 #EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 CH Cadangan 3
 https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+
 
 A SPOR
 https://www.livesoccertv.com/id/channels/a-sport-turkey/
@@ -1072,6 +1073,13 @@ TRUE SPORTS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36 
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 
+TRT 1
+#EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TRT_1_logo_%282020-2021%29.svg", 03:00 WIB Jerman vs Pantai Gading
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+TRT 1 PIALA DUNIA 2026
+#EXTINF:-1 group-title="PIALA DUNIA 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Jerman vs Pantai Gading
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
 UFC (SERVER 1)
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="#.PREMIUM SPORTS",UFC (Server 1) 
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8 
@@ -1087,6 +1095,14 @@ https://www.livesoccertv.com/id/channels/w-sport/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+
+
+
+
+
+
+
+
 
 
 
