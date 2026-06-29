@@ -6,7 +6,9 @@ KOLOMBIA VS PORTUGAL
 https://play.heyangstream.com/live/5005903_F5hd01.m3u8?expire=1782607373&sign=e3c06320997da1c54ed2e98137d84918
 
 PIALA DUNIA 2026 CH cadangan 1
-#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 CH Cadangan 1
+#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 CH Cadangan x1
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live2.pro2cdnlive.com/live/channel5.m3u8
 
 
