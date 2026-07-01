@@ -1,15 +1,11 @@
 #EXTM3U
 
 
-KOLOMBIA VS PORTUGAL
-#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd9hqex94xb-ncFRmF8Q5dCup8Pan9EbI1UBfglTnzVLiz9haEBtUJiUyo&s=10" group-title="PIALA DUNIA 2026", KOLOMBIA VS PORTUGAL
-https://play.heyangstream.com/live/5005903_F5hd01.m3u8?expire=1782607373&sign=e3c06320997da1c54ed2e98137d84918
-
-PIALA DUNIA 2026 CH cadangan 1
-#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 CH Cadangan 1
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com
+PIALA DUNIA CH CADANGAN 1
+#EXTINF:-1 tvg-url="https://epg.iptvx.one/id/ct-sport" tvg-id="ct-sport" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg?q=90&w=1400&cbr=1&fit=max" group-title="PIALA DUNIA 2026", PIALA DUNIA 2026 CH Cadangan 1X
+#EXTVLCOPT:http-referrer=https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://live3.procdnlive.com/livecdn/channel11.m3u8?auth_key=3000001782853728-0-0-bde18b9b725bf90cc313cfc9b4e0b6a3
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 
 PIALA DUNIA 2026 CH cadangan 2
