@@ -11,11 +11,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="EVENT 06/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfu42_3dGPQcmz0kHfzVW4BOoY8u230fAMvnKf4i4T3A&s=10", 16:00 WIB Semifinal: China vs Japan
-#EXTVLCOPT:http-origin=https://sv2.thiendinh3.live/
-#EXTVLCOPT:http-referrer=https://sv2.thiendinh3.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="EVENT 11/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfu42_3dGPQcmz0kHfzVW4BOoY8u230fAMvnKf4i4T3A&s=10", China vs Japan
+
 
 #EXTINF:-1 group-title="EVENT 06/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfu42_3dGPQcmz0kHfzVW4BOoY8u230fAMvnKf4i4T3A&s=10", 19:00 WIB Semifinal: Thailand vs Korea 
 #EXTVLCOPT:http-origin=https://sv2.thiendinh3.live/
@@ -23,13 +20,14 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 group-title="EVENT 07/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Portugal vs Spanyol
+#EXTINF:-1 group-title="EVENT 11/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Spanyol vs Belgia
 #EXTVLCOPT:http-referrer=https://api.gvapi.cc/api/matches?t=1783364900652&_=1783364891559
 https://live05.meung.app/live/24561735.m3u8
 
-#EXTINF:-1 group-title="EVENT 07/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 07:00 WIB Amerika Serikat vs Belgia
-#EXTVLCOPT:http-referrer=https://api.gvapi.cc/api/matches?t=1783364900652&_=1783364891559
-https://live05.meung.app/live/24561735.m3u8
+#EXTINF:-1 group-title="EVENT 11/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Spanyol vs Belgia
+#EXTVLCOPT:http-referrer=https://jlbfh5.jlbfyh.com/
+https://play.heyangstream.com/live/5006857_F5hd01.m3u8?expire=1783724866&sign=31c4666221fdd4baccb8d60e845e32bd
+
 
 <================================================>
 <================================================>
