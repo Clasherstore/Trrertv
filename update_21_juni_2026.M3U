@@ -3952,6 +3952,9 @@ SPOTV 2 MOTOGP
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://asset.kompas.com/crops/OLInXowRpPPqzcYe2xLxsvjaKG0=/0x26:720x506/750x500/data/photo/2024/11/18/673ae1ad34d16.jpg" group-title="MOTOGP",SpoTV 2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
+CCTV 5
+#EXTINF:-1 group-title="#.SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", CCTV 5
+http://107.150.60.122/live/cctv5hd.m3u8
 
 TAP SPORTS
 #EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsG6PgcdcU6Ked5eoWUSjFB9rhTbElQtALBXp6uNTcw&s",TAP Sports 
