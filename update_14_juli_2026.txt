@@ -10,14 +10,13 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="EVENT 16/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Inggris vs Argentina
+#EXTINF:-1 group-title="EVENT 19/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Perancis vs Inggris
 #EXTVLCOPT:http-referrer=https://api.gvapi.cc/api/matches?t=1783364900652&_=1783364891559
 https://live05.meung.app/live/24561735.m3u8
 
-#EXTINF:-1 group-title="EVENT 16/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Inggris vs Argentina
-#EXTVLCOPT:http-referrer=https://jlbfh5.jlbfyh.com/
-https://play.heyangstream.com/live/5006857_F5hd01.m3u8?expire=1783818657&sign=8bdd7837708cb382f41ddb94256f96f9
-
+#EXTINF:-1 group-title="EVENT 17/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTzZlOxe-3X7EEh-AR6fMCHwSwfQC7fwLwdhoOPu7JIw&s", LIVE SEMI FINAL JAPAN OPEN
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscorez.com/
+https://tfxn0gr4ugmtwgczdecbqghssa4mscwa1hh5wqj1sn5mnxfsg17ufqb4sah5f.100ycdn.com/live1.streambylivepulse.com/live/channel60/playlist.m3u8?wsSecret=f3b6716b3acd3403b6c012be4e83ef37&wsABSTime=1784307802&wsSession=4a3c9f6c84f0a79c1467933a-178426460601544&wsIPSercert=f6497735c1e8bf15e960c06ece7bbf3c&wsBindIP=2&wsserid=1168267543132010908
 
 
 <================================================>
