@@ -16,10 +16,9 @@
 #EXTVLCOPT:http-referrer=https://api.gvapi.cc/api/matches?t=1783364900652&_=1783364891559
 https://live05.meung.app/live/24561735.m3u8
 
-#EXTINF:-1 group-title="EVENT 20/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Spanyol vs Argentina (xzrio)
+#EXTINF:-1 group-title="EVENT 20/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Spanyol vs Argentina (xzriohd)
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001784489155-0-0-eedbb6c019c93f542e776af4dacf1f04f805576cf9f825d7dd35af452b02c2&wsABSTime=1784478965&wsSession=08f1a0c0a472f5df47a90b43-178443577133122&wsIPSercert=af1128ec7a1da290c8251f2be7ca385b&wsBindIP=2&wsserid=1168243256824634996
-
+https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001784489155-0-0-eedbb6c019c93f542e776af4dacf1f04
 
 ============================>
 
