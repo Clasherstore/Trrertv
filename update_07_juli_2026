@@ -8,39 +8,20 @@
   window.location.replace("https://sites.google.com/view/kbtraf01/support-kbtrtv");
 </script></head></html>
 
-<===================PLAYLIST INI BERSUMBER DARI PIHAK KETIGA YANG TERSEBAR SECARA GRATIS DI INTERNET=============================>
-<===================BAGI YANG MENEMUKAN PLAYLIST INI MOHON UNTUK TIDAK DIJUAL ATAU DIBAGIKAN SEMBARANGAN DEMI KEUNTUNGAN PRIBADI =============================>
-
-
 #EXTM3U
 
 <===========================================================>
 
-#EXTINF:-1 group-title="EVENT 019/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 04:00 WIB Perancis vs Inggris
+#EXTINF:-1 group-title="EVENT 20/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Spanyol vs Argentina
 #EXTVLCOPT:http-referrer=https://api.gvapi.cc/api/matches?t=1783364900652&_=1783364891559
 https://live05.meung.app/live/24561735.m3u8
 
+#EXTINF:-1 group-title="EVENT 20/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s", LIVE 1 DAIHATSU JAPAN OPEN 2026
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://tfxp1gradnmt1gw41hcjafa3unmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel60/playlist.m3u8?wsSecret=57f805576cf9f825d7dd35af452b02c2&wsABSTime=1784478965&wsSession=08f1a0c0a472f5df47a90b43-178443577133122&wsIPSercert=af1128ec7a1da290c8251f2be7ca385b&wsBindIP=2&wsserid=1168243256824634996
 
-<================>
-##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
-#https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
-<================>
-<=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 018/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9f9yKUJYrljUmC4M0QcFm9cyi0SCXhycALrVWTF8gSQ&s=10", 15:00 WIB Iran vs China
-
-#EXTINF:-1 group-title="EVENT 018/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:00 WIB Thailand vs Cambodia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 018/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 12:00 WIB Indonesia vs Vietnam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
-
-<================================================>
-<================================================>
+============================>
 <================>
 <=================== EVENT 2 =============================>
 <=================== Cadangan =============================>
