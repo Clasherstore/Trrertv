@@ -29,6 +29,19 @@ https://tfxs0gr3dgmttgh5nhcj1gwzdepjpptwzc3jt.100ycdn.com/live1.streambylivepuls
 #EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
 https://tfxs0gr3dgmttgh5nhcj1gwzdrqbpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel39/playlist.m3u8?wsSecret=9ff0010aa4406b88e43eee3d1c4c085c&wsABSTime=1784729326&wsSession=39e21e3c90067e5e59f61b40-178468613680726&wsIPSercert=cd31fd11a6a33f9a0329ed3bc69e00cb&wsBindIP=2&wsserid=1168252881062942171
 
+
+
+
+#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPQmDOxKZAWVHGjt7j942u_ZCqST2h92HKo-DYotjMw&s=10", 19.00 WIB  Indonesia vs Kamboja
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://tfxs0gr3uomttgr31hcjtgazdgqjpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel88/playlist.m3u8?wsSecret=9fb2c09f1e5c1ad714dca00bac15046d&wsABSTime=1784752406&wsSession=0149cf50958f4895fd2fa558-178470921230975&wsIPSercert=ce486cbcc7b72d5425469dfa8668ef7f&wsBindIP=2&wsserid=1168243542082999987
+
+
+#EXTINF:-1 group-title="EVENT 022/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDRIOUiZzTsT4M0JGksigctGLP6dgyr4aJMsDkdfElg&s=10", 19.45 WIB Indonesia vs Laos
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel6.m3u8
+
+
 ============================>
 
 
